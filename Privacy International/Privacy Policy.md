@@ -1,3 +1,6 @@
+How We Use and Protect Your Data
+================================
+
 Latest revision: May 2024. [Revision information](#revisions) is located at the bottom of this page.
 
 Overview
