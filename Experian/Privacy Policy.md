@@ -61,7 +61,7 @@
     
     We will ask you to provide us with further financial information about you (such as salary information) so we may help you understand your financial situation and to search for financial products.
     
-    Where you use our Boost or other open banking services, we will collect bank account information directly from you and collect transaction data from your banking provider.
+    Where you use our Boost or other open banking services, we will collect bank account or credit card account (depending on the service) information directly from you and collect transaction data from your banking provider.
     
     As described above, more information about credit bureau data is available in the Credit Reference Agency Information Notice (CRAIN) which is shared by Experian, Equifax and TransUnion.
     
@@ -252,7 +252,7 @@
     
     #### To provide services that use your bank account information
     
-    When you provide us with permission for your bank account information to be collected and used as part of our optional open banking related services, the main purposes that we may use that data for are;
+    When you provide us with permission for your bank account or credit card account (as appropriate) information to be collected and used as part of our optional open banking related services, the main purposes that we may use that data for are;
     
     ##### For Experian Boost:
     
@@ -266,6 +266,14 @@
     * Allowing lenders with whom you have or in the past have had a relationship (i.e. previously/currently hold an account with, have previously applied to for credit or who have provided you with a quotation / eligibility rating via our comparison services) to analyse a summary of 12 months of your bank transactions from within the full transaction history we hold on you since you joined Experian Boost. This is to help lenders develop their own lending strategies, which will benefit Boost customers through enabling more lenders to factor summarised bank transactions into their future decisions.
     * To ensure that you can maximise the benefit of the Experian Boost service, we will notify Experian’s Pre-qualification Services business unit when you opt into Experian Boost. This will enable a summary of your bank transactions to be used in the decisions made by participating lenders and other price comparison sites who use Experian’s Pre-qualification Services if you seek a quotation or eligibility rating directly from them. Further information is provided in the ‘Who we share your personal information with’ section below.
     * We will show you which bank accounts you’ve given us permission to access and when the permission will expire. We’ll keep a record of that permission, its expiry as well as when you joined Experian Boost.
+    
+    ##### For services that use your open banking data to give you more information about your credit position:
+    
+    * We will use automated systems to collect information from bank and credit card accounts, which includes transactions for the last 12 months (incoming, outgoing, including payments) and account balance and other information, such as (account name, number, sort code, fees, charges, interest, benefits and rewards) in order to conduct analysis to help you understand your credit position. After that, we’ll collect that the information on a daily basis.
+    * We’ll process that information to show you a summary of your debt, plus insights such as the estimated interest costs of your credit card debt, the estimated time to clear your credit card debt, and details of the payments you have made or are due to make towards your credit card debt.
+    * To present you with this summary, we’ll process the transaction data to understand which payments relate to your credit cards, which might involve categorising it, or comparing transactions from your bank accounts and credit accounts to ensure that we’re showing the right information.
+    * Where we are making estimates or assumptions (such as interest rate, interest payments, or future payment), this will only be based on the information that we can see, so this may not be the same as the information that you see on your bank or credit card statement.
+    * We will show you which bank and credit accounts you’ve given us permission to access and when the permission will expire. We’ll keep a record of that permission, and its expiry as well.
     
     ##### For affordability assessment services:
     
