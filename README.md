@@ -1,6 +1,8 @@
 # Versions of terms from the Privacy International collection
 
-The terms in this collection are tracked by Privacy International using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by [Privacy International](https://privacyinternational.org/) (PI) using [Open Terms Archive](https://opentermsarchive.org).
+
+PI has established and maintained this collection to facilitate research and advocacy work relating to our charitable objectives and in the public interest. We campaign for legal and technological solutions to protect people and their data from exploitation. The companies and policies included in this collection have been chosen because PI has either researched their activities and/or policies in the past or are considering to do so in the future.
 
 ## Usage
 
