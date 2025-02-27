@@ -39,7 +39,7 @@
     
     We will also collect information about you and the devices you use to access our website, or we may ask third parties to do this for us, in these cases we do so by using technologies such as cookies. See also our [Cookies & online marketing page](https://www.experian.co.uk/legal/cookies-policy).
     
-    We may use Artificial Intelligence, including Machine Learning to provide some aspects of the services, service support, our communications with you and in our analysis. More information about Experian’s use of these tools will be coming soon.
+    We may use Artificial Intelligence, including Machine Learning to provide some aspects of the services, service support, our communications with you and in our analysis. [Find out more about how Experian uses AI](https://www.experian.co.uk/consumer/AI.html).
     
     Learn more
     
