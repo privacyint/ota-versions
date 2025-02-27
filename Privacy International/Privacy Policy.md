@@ -12,7 +12,6 @@ We will vigorously challenge any attempts by government agencies or private sect
 This Privacy Policy (the "**Policy**") outlines in detail our organisational and website data collection and processing practices in various sections:
 
 * [Organisational Privacy Policy](#organisational)
-    
     * [What Personal Data Do We Collect and Process](#what)
     * [Why Do We Collect and Process Personal Data?](#why)
     * [How Do We Protect Personal Data?](#howprotect)
@@ -22,7 +21,6 @@ This Privacy Policy (the "**Policy**") outlines in detail our organisational and
 * [Supporter and Donor Information](#financialsupporter)
 * [Website Privacy Policy](#website)
 * [Cookies Policy](#cookies)
-    
     * [Campaigns and fundraising website -- action.privacyinternational.org](#cookiesfundraising)
     * [Third party cookies](#cookiesthirdparty)
 * [Social Media](#socialmedia)
