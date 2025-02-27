@@ -31,7 +31,7 @@ This privacy policy (“Policy”) explains what kind of information Clearview A
     
 * ###### [How To Contact Us](https://www.clearview.ai/privacy-policy) 
     
-* ###### [Consumer Requests & State Rights](https://www.clearview.ai/privacy-policy) 
+* ###### [Consumer Requests & Rights](https://www.clearview.ai/privacy-policy) 
     
 
 ### What Data Do We Collect? 
@@ -62,7 +62,7 @@ Information provided by individuals: When an individual submits a request to exe
 
 ### ​
 
-​We collect data in order to provide you with our Products and Services. ​
+​We collect data in order to provide you with our Products and Services. We process data to fulfill our government contract obligations for the purposes of public safety and national security. ​
 
 ​
 
@@ -78,6 +78,12 @@ Clearview collects the name, contact information and employer of our users so th
     
 * Provide customer service support 
     
+
+​
+
+​
+
+For Clearview AI Customer Support:
 
 Opting In to SMS Communications - When collecting personal information from users, including their phone numbers, Clearview may request user consent to use these phone numbers for the purpose of sending SMS messages. By providing a phone number and opting in to SMS messaging, users consent to be contacted via SMS for customer support purposes and agree to any applicable charges from their mobile service provider.
 
@@ -171,7 +177,11 @@ Your Consent: We may disclose information that you have provided us, except when
 
 ​
 
-We store personal information for as long as necessary to carry out the purposes for which we originally collected it and for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations.
+Clearview AI shall retain data as long as the company has a need for its use, or to meet legal, regulatory or contractual requirements. Once data is no longer needed, it shall be securely disposed of or archived. Data owners, in consultation with legal counsel, may determine retention periods for their data. 
+
+Personally identifiable information (PII) shall be deleted or de-identified as soon as it no longer has a business use. PII in the Clearview AI product would include: photos we scraped, photos the users uploaded, face vector data, emails and names and phone numbers of users. 
+
+Retention periods for stored data may vary depending on the specific business purposes and operational needs of each customer.
 
   
 For more information about how we handle information under Illinois Biometric Information Privacy Act, please click [here](https://staticfiles.clearview.ai/bipa.html).
@@ -277,10 +287,58 @@ A cookie is a small piece of data that is stored on your computer or device when
 
 When you visit our website, Clearview’s website server may send a cookie to your computer or device, which is then stored in your web browser. The next time you visit the same website, your browser sends the cookie back to the server, allowing the website to recognize you and customize your experience based on your previous activity. Enabling cookies can give you a more personalized experience on our website. You can choose not to allow some types of cookies. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. If you want to disable cookies on our site, you can do so through our Cookie Manager located at the bottom of our website. 
 
-We use three types of cookies: essential performance cookies, functional cookies, and performance cookies. Essential performance cookies are necessary for the basic functioning of our website and Platform. Functional cookies are used to personalize your experience and to remember your preferences and settings. Performance cookies are used to collect information about how you use our website. These cookies do not collect personal information, but they do collect information such as which pages you visit and how long you spend on each page. We use this information to improve the performance of our Platform and to understand how users interact with it.  
- 
+We use four types of cookies: strictly necessary cookies, functional cookies, performance cookies, and third-party advertising cookies. Strictly necessary cookies are essential for the operation of our website and services, enabling core functionalities such as fraud detection and behavior monitoring. Functional cookies improve your experience by personalizing content and remembering your preferences, though they are not used for personalized advertising. Performance cookies collect anonymous information about how you interact with our website, such as the pages you visit and the time spent on each page, helping us understand user behavior and improve the platform. Third-party advertising cookies, set by our analytics and advertising partners, track user activity and synchronize advertising IDs to provide interest-based recommendations, depending on your preferences with those partners.
 
-For further information, visit [allaboutcookies.org](http://allaboutcookies.org/). 
+For further information, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+Strictly Necessary Cookies We Collect
+
+The following cookies are essential for the effective operation of our services, including features like fraud detection and behavior monitoring. These cookies cannot be disabled in our systems unless a cookieless solution is utilized by our publisher partner.
+
+### Functional Cookies We Collect
+
+The following cookies help us deliver content more effectively and enhance the user experience on publishers’ websites. These cookies are not used for personalized advertising. If blocked, they may impact your browsing experience and disrupt certain functionalities on some websites
+
+​
+
+​
+
+### Performance/Analytics Cookies We Collect 
+
+Analytics or performance cookies are used to collect information about how visitors interact with a website, enabling site owners to understand user behavior and improve user experience. These cookies typically gather data anonymously and are not used for personalized advertising.
+
+### Third Party Advertising Cookies
+
+We use third-party advertising and analytics partners to track user activity, synchronize advertising IDs, and enhance the accuracy of interest-based recommendations. These cookies are set based on the User’s preferences with the applicable partners. For details on the retention periods of these cookies, please refer to the partners’ privacy policies.
+
+​
+
+### Manage Cookie Preferences
+
+If you want to disable cookies on our site, you can do so through our Cookie Manager located at the bottom left of our website.  In addition to this, different browsers provide different methods to block and delete cookies used by websites. You can change the settings of your browser to block/delete the cookies. Listed below are the links to the support documents on how to manage and delete cookies from the major web browsers.
+
+* [Chrome](https://support.google.com/accounts/answer/32050)
+    
+* [Safari](https://support.apple.com/en-in/guide/safari/sfri11471/mac)
+    
+* [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US)
+    
+* [Internet Explorer](https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc)
+    
+
+If you are using any other web browser, please visit your browser’s official support documents.
+
+### Cookie Table
+
+​
+
+This [Cookie Table](https://www.clearview.ai/cookie-table) provides information about the cookies and similar technologies Clearview AI and/or its partners use, their purposes, and the associated retention periods. For cookies set by third-party partners, the purpose and retention period are determined by those third parties.
+
+We may place cookies or similar technologies, such as pixel tags and web beacons, on the devices you use to interact with Clearview AI. These technologies are used to enhance security, facilitate site navigation, and personalize your experience when engaging with Clearview AI as a visitor, user, or business partner. Cookies enable us to collect technical and navigational information, such as browser type, time spent on our site, and pages visited. For more details on how we use data collected through cookies, please refer to our [Privacy Policy](https://www.clearview.ai/privacy-policy). 
+
+​
+
+​​
 
 ###   
 Linking To External Websites   
@@ -288,7 +346,7 @@ Linking To External Websites 
 
 Our Products and Services may provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Policy does not apply to these other websites, which are subject to any privacy and other policies they may have. 
 
-### ​  
+### ​​  
  
 
 ### Copyright Protections 
@@ -296,28 +354,37 @@ Our Products and Services may provide links to other websites. We do not control
 It is Clearview's policy to comply with notices of copyright infringement pursuant to the Digital Millennium Copyright Act (DMCA). Persons who seek to file a DMCA takedown notice can do so by clicking [here](https://staticfiles.clearview.ai/dmca.html).  
 ‍
 
+​
+
 ###   
 Updates To This Policy   
  
 
 We may modify this Policy at any time at our sole discretion. If we make material changes to this Policy that change our rights to use personal information that we have previously collected about you, we will comply with applicable law regarding the use of that personal information. Any changes to this Policy will become effective when we post the revised Policy on our website. ​
 
-​
+​​
 
 ###   
 Contact Information   
  
 
-If you have any questions, you can contact us by emailing us at [privacy@clearview.ai](mailto:privacy@clearview.ai).‍ 
+If you have any questions, you can contact us by emailing us at [](mailto:legal-requests@clearview.ai)[legal-requests@clearview.ai](mailto:legal-requests@clearview.ai).
 
-Please do not email us requesting to process your consumer request such as opting out and access. Rather, please  read below for instructions on how to fill out the applicable webform. ​  
+Please do not email us requesting to process your consumer request such as opting out and access. Rather, please  read below for instructions on how to fill out the applicable webform. ​
+
+For Brazilian Citizens: We may collect, use, and disclose your personal information in accordance with the Lei Geral de Proteção de Dados (LGPD) and its definitions of personal and sensitive personal data. Under LGPD, you have rights including access, correction, deletion, and opt-out of processing your data, which you can exercise by contacting our DPO, Andressa Branco, with Sovy Trust Solutions Limited at [brazildpo@clearview.ai](mailto:brazildpo@clearview.ai).
+
+If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal [here](https://www.gov.br/pt-br/servicos/abrir-requerimento-relacionado-a-lgpd) by contacting the Autoridade Nacional de Proteção de Dados (ANPD) to submit a complaint.
+
 ​
+
+### ​​
 
 ### ​
 
-### Consumer Requests & State  Rights
+### Consumer Requests & Rights
 
-Some U.S. state laws provide residents with rights regarding their personal information. Currently, only those who are a resident of one of the following states may submit a consumer request for access, opt-out, and/or delete:
+Some countries and U.S. state laws provide residents with rights regarding their personal information. Currently, only those who are a resident of one of the following states may submit a consumer request for access, opt-out, and/or delete.
 
 1. [California](https://www.clearview.ai/privacy-policy)
     
@@ -325,17 +392,23 @@ Some U.S. state laws provide residents with rights regarding their personal info
     
 3. [Connecticut](https://www.clearview.ai/privacy-policy)
     
-4. [Illinois](https://www.clearview.ai/privacy-policy)
+4. [Delaware](https://www.clearview.ai/privacy-policy)
     
-5. [Montana](https://www.clearview.ai/privacy-policy)
+5. [Illinois](https://www.clearview.ai/privacy-policy)
     
-6. [Nevada](https://www.clearview.ai/privacy-policy)
+6. [Iowa](https://www.clearview.ai/privacy-policy)
     
-7. [Oregon](https://www.clearview.ai/privacy-policy)
+7. [Montana](https://www.clearview.ai/privacy-policy)
     
-8. [Utah](https://www.clearview.ai/privacy-policy)
+8. [Nebraska](https://www.clearview.ai/privacy-policy)
     
-9. [Virginia](https://www.clearview.ai/privacy-policy)
+9. [Nevada](https://www.clearview.ai/privacy-policy)
+    
+10. [New Hampshire](https://www.clearview.ai/privacy-policy)
+    
+11. [Utah](https://www.clearview.ai/privacy-policy)
+    
+12. [Virginia](https://www.clearview.ai/privacy-policy)
     
 
 ​  
@@ -485,13 +558,13 @@ Please note that we will only use ID Information to honor your privacy rights re
 
 ​
 
-2023 Reporting Metrics
+2024 Reporting Metrics
 
 California Consumer Privacy Act (CCPA) Reporting Metrics
 
-Between January 1, 2023 and December 31, 2023 Clearview received 2,330 requests under the CCPA from both California and non-California residents. The below metrics describe how we handle these requests.
+Between January 1, 2024 and December 31, 2024 Clearview received 2,207  requests under the CCPA from California residents. The below metrics describe how we handle these requests. 
 
-![2023 Reporting Metrics.png](https://static.wixstatic.com/media/6d87a5_d97987d014594e02b99819c4ee96bdc9~mv2.png/v1/crop/x_0,y_11,w_2941,h_1140/fill/w_49,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/2023%20Reporting%20Metrics.png)
+![2024 Reporting Metrics.png](https://static.wixstatic.com/media/6d87a5_61590882a8c64a92a67c9dcdc000b3a6~mv2.png/v1/crop/x_0,y_11,w_2941,h_1140/fill/w_49,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2024%20Reporting%20Metrics.png)
 
 ##### 2\. Colorado
 
@@ -576,25 +649,117 @@ To respond to some rights we may need to verify your request either by asking yo
 
 How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87). If your appeal is denied, you may contact the Connecticut Attorney General to submit a complaint [here](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page).
 
-​
-
-​​
-
-​​
-
-### 4\. Illinois
-
-### ​
-
-Illinois residents can go [here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/a465fd9c-58d4-4793-b5e0-959619d71be7) to opt-out of appearing in Clearview search results. You can read our Biometric Information Privacy statement [here.](https://staticfiles.clearview.ai/bipa.html)  
-
 ​​
 
 ​​​
 
-​​
+​​​
 
-### 5\. Montana
+### 4\. Delaware
+
+### ​
+
+If you are a Delaware resident, this section applies to you. This section, combined with the general Privacy Policy above, describes how we collect, use, and disclose your personal data under the Delaware Personal Data Privacy Act (“DPDPA”), and the rights that you have with respect to your personal data, including sensitive data. 
+
+Your Delaware Rights Regarding Your Personal Data. Delaware law provides Delaware residents with the rights listed below. To exercise these rights see the “Exercising Your Delaware Privacy Rights” section below.
+
+Right to Know and Access. You have the right to know and see what personal data we have collected about you in a portable format. You may submit a verifiable consumer request once in a twelve (12)-month period for access to your personal data.
+
+Right to Correct. You have the right to request that we correct inaccurate personal data.
+
+Right to Delete. You have the right to request that we delete the personal data we have collected about you.
+
+Right to Opt Out. You have the right to opt out of targeted advertising, sale of your personal data (as defined under Delaware law), the collection and use of personal data, and profiling in furtherance of decisions that produce legal effects or effects of similar significance. Please note that we do not use your personal data for targeted advertising. As such, we do not offer an opt-out of targeted advertising rights. 
+
+​
+
+Exercising Your Delaware Privacy Rights. To request access to or deletion of your personal data, or to exercise any other privacy rights under Delaware law, please contact us using one of the following methods:
+
+​
+
+1. Webform: You may submit your request to exercise rights by visiting the appropriate webform on our [Privacy and Requests page](https://www.clearview.ai/privacy-and-requests) and providing all of the verification information required, or 
+    
+2. Leave a voicemail at [(866) 637-0257](tel:(866) 637-0257).
+    
+
+All verifiable consumer requests must:   
+​
+
+* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information, or an authorized representative.
+    
+* For a request by the actual person, we will typically require: (1) your email address (2) a headshot of you, and (3) a government-issued ID. If we require any additional information from you in order to verify your identity, we will contact you. Subject to applicable law, any additional information you provide for verification purposes will be deleted within a reasonable period of time after responding to your consumer request.
+    
+* If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.
+    
+
+  
+To respond to some rights we may need to authenticate you by providing additional information. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request.  
+ 
+
+How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://www.google.com/url?q=https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87&sa=D&source=docs&ust=1735323383761571&usg=AOvVaw13E45tAqRdx2sL8YMMDmq-). If your appeal is denied, you may contact the Delaware Attorney General to submit a complaint [here](https://attorneygeneral.delaware.gov/fraud/cmu/complaint/).
+
+​
+
+​
+
+​
+
+### 5\. Illinois
+
+### ​​
+
+Illinois residents can go [here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/a465fd9c-58d4-4793-b5e0-959619d71be7) to opt-out of appearing in Clearview search results. You can read our Biometric Information Privacy statement [here.](https://staticfiles.clearview.ai/bipa.html)  
+
+​​​
+
+​
+
+​
+
+### 6\. Iowa
+
+### ​​
+
+If you are an Iowa resident, this section applies to you. This section, combined with the general Privacy Policy above, describes how we collect, use, and disclose your personal data under the Iowa Consumer Data Protection Act (“ICDPA”), and the rights that you have with respect to your personal data, including sensitive data. 
+
+Your Iowa Rights Regarding Your Personal Data. Iowa law provides Iowa residents with the rights listed below. To exercise these rights see the “Exercising Your Iowa Privacy Rights” section below.
+
+Right to Know and Access. You have the right to know and see what personal data we have collected about you in a portable format. You may submit a verifiable consumer twice in a twelve (12)-month period for access to your personal data.
+
+Right to Correct. You have the right to request that we correct inaccurate personal data.
+
+Right to Delete. You have the right to request that we delete the personal data we have collected about you.
+
+Right to Opt Out. You have the right to opt out of targeted advertising, sale of your personal data (as defined under Iowa law), the collection and use of personal data, and profiling in furtherance of decisions that produce legal effects or effects of similar significance. Please note that we do not use your personal data for targeted advertising. As such, we do not offer an opt-out of targeted advertising rights. 
+
+Exercising Your Iowa Privacy Rights. To request access to or deletion of your personal data, or to exercise any other privacy rights under Iowa law, please contact us using one of the following methods:
+
+1. Webform: You may submit your request to exercise rights by visiting the appropriate webform on our [Privacy and Requests page](https://www.clearview.ai/privacy-and-requests) and providing all of the verification information required, or 
+    
+2. Leave a voicemail at [(866) 637-0257](tel:(866) 637-0257).
+    
+
+All verifiable consumer requests must:   
+​
+
+* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information, or an authorized representative.
+    
+* For a request by the actual person, we will typically require: (1) your email address (2) a headshot of you, and (3) a government-issued ID. If we require any additional information from you in order to verify your identity, we will contact you. Subject to applicable law, any additional information you provide for verification purposes will be deleted within a reasonable period of time after responding to your consumer request.
+    
+* If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.
+    
+
+To respond to some rights we may need to authenticate you by providing additional information. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request.
+
+How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://www.google.com/url?q=https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87&sa=D&source=docs&ust=1735323383762161&usg=AOvVaw1vQLZh6ZkbZRtZsUxi7JwD). If your appeal is denied, you may contact the Iowa Attorney General to submit a complaint [here](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint).
+
+​​​
+
+​
+
+​
+
+### 7\. Montana
 
 ### ​
 
@@ -632,11 +797,60 @@ All verifiable consumer requests must: 
 
 To respond to some rights we may need to authenticate you by providing additional information. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request.
 
-How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here.](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87) If your appeal is denied, you may contact the Montana Attorney General to submit a complaint here.​​
+How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here.](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87) If your appeal is denied, you may contact the Montana Attorney General to submit a complaint [here](https://dojmt.gov/agooffice/#:~:text=The%20Attorney%20General's%20Office%2C%20headed,for%20the%20State%20of%20Montana.).​​
 
-​​
+​​​
 
-### 6\. Nevada
+### ​
+
+### ​
+
+### 8\. Nebraska
+
+### ​​​​
+
+If you are a Nebraska resident, this section applies to you. This section, combined with the general Privacy Policy above, describes how we collect, use, and disclose your personal data under the Nebraska Data Privacy Act (“NEDPA”), and the rights that you have with respect to your personal data, including sensitive data. 
+
+Your Nebraska Rights Regarding Your Personal Data. Nebraska law provides Nebraska residents with the rights listed below. To exercise these rights see the “Exercising Your Nebraska Privacy Rights” section below.
+
+Right to Know and Access. You have the right to know and see what personal data we have collected about you in a portable format.
+
+Right to Correct. You have the right to request that we correct inaccurate personal data.
+
+Right to Delete. You have the right to request that we delete the personal data we have collected about you.
+
+Right to Opt Out. You have the right to opt out of targeted advertising, sale of your personal data (as defined under Nebraska law), the collection and use of personal data, and profiling in furtherance of decisions that produce legal effects or effects of similar significance. Please note that we do not use your personal data for targeted advertising. As such, we do not offer an opt-out of targeted advertising rights. 
+
+Exercising Your Nebraska Privacy Rights. To request access to or deletion of your personal data, or to exercise any other privacy rights under Nebraska law, please contact us using one of the following methods:
+
+1. Webform: You may submit your request to exercise rights by visiting the appropriate webform on our [Privacy and Requests page](https://www.clearview.ai/privacy-and-requests) and providing all of the verification information required, or 
+    
+2. Leave a voicemail at [(866) 637-0257](tel:(866) 637-0257).
+    
+
+​
+
+All verifiable consumer requests must:   
+​
+
+* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information, or an authorized representative.
+    
+* For a request by the actual person, we will typically require: (1) your email address (2) a headshot of you, and (3) a government-issued ID. If we require any additional information from you in order to verify your identity, we will contact you. Subject to applicable law, any additional information you provide for verification purposes will be deleted within a reasonable period of time after responding to your consumer request.
+    
+* If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.
+    
+
+To respond to some rights we may need to authenticate you by providing additional information. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request.
+
+How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://www.google.com/url?q=https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87&sa=D&source=docs&ust=1735323383762684&usg=AOvVaw2hfYNpb8Umk7r53eyt7hzU). If your appeal is denied, you may contact the Nebraska Attorney General to submit a complaint [here](https://www.nebraska.gov/apps-ago-complaints/).
+
+​
+
+​
+
+​
+
+### 9\. Nevada
 
 ### ​​​
 
@@ -648,31 +862,30 @@ We do not presently sell any covered information of consumers, as defined by Nev
 
 ### ​​​
 
-### 7\. Oregon
+### 10\. New Hampshire
 
-### ​​
+### ​​​
 
-If you are an Oregon resident, this section applies to you. This section, combined with the general Privacy Policy above, describes how we collect, use, and disclose your personal data under the Oregon Consumer Privacy Act (“OCPA”), and the rights that you have with respect to your personal data, including sensitive data. 
+If you are a New Hampshire resident, this section applies to you. This section, combined with the general Privacy Policy above, describes how we collect, use, and disclose your personal data under the New Hampshire Data Privacy Act (“NHDPA”), and the rights that you have with respect to your personal data, including sensitive data. 
 
-Your Oregon Rights Regarding Your Personal Data. Oregon law provides Oregon residents with the rights listed below. To exercise these rights see the “Exercising Your Oregon Privacy Rights” section below.
+Your New Hampshire Rights Regarding Your Personal Data. New Hampshire law provides New Hampshire residents with the rights listed below. To exercise these rights see the “Exercising Your New Hampshire Privacy Rights” section below.
 
-Right to Know and Access. You have the right to know and see what personal data we have collected about you in a portable format. You may submit a verifiable consumer once in a twelve (12)-month period for access to your personal data.
+Right to Know and Access. You have the right to know and see what personal data we have collected about you in a portable format. You may submit a verifiable consumer request once in a twelve (12)-month period for access to your personal data.
 
 Right to Correct. You have the right to request that we correct inaccurate personal data.
 
 Right to Delete. You have the right to request that we delete the personal data we have collected about you.
 
-Right to Opt Out. You have the right to opt out of targeted advertising, sale of your personal data (as defined under Oregon law), the collection and use of personal data, and profiling in furtherance of decisions that produce legal effects or effects of similar significance   Please note that we do not use your personal data for targeted advertising. As such, we do not offer an opt-out of targeted advertising rights. 
+Right to Opt Out. You have the right to opt out of targeted advertising, sale of your personal data (as defined under New Hampshire law), the collection and use of personal data, and profiling in furtherance of decisions that produce legal effects or effects of similar significance. Please note that we do not use your personal data for targeted advertising. As such, we do not offer an opt-out of targeted advertising rights. 
 
-Exercising Your Oregon Privacy Rights. To request access to or deletion of your personal data, or to exercise any other privacy rights under Oregon law, please contact us using one of the following methods:
+Exercising Your New Hampshire Privacy Rights. To request access to or deletion of your personal data, or to exercise any other privacy rights under New Hampshire law, please contact us using one of the following methods:
 
-1. Webform: You may submit your request to exercise rights by visiting the appropriate webform on our [Privacy and Requests page](https://www.clearview.ai/privacy-and-requests) and providing all of the verification information required, or 
+1. Webform: You may submit your request to exercise rights by visiting the appropriate webform on our Privacy and Requests page and providing all of the verification information required, or 
     
-2. Leave a voicemail at (866) 637-0257.
+2. Leave a voicemail at [(866) 637-0257](tel:(866) 637-0257).
     
 
-All verifiable consumer requests must: 
-
+All verifiable consumer requests must:   
 ​
 
 * Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information, or an authorized representative.
@@ -682,19 +895,17 @@ All verifiable consumer requests must: 
 * If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.
     
 
-​
-
 To respond to some rights we may need to authenticate you by providing additional information. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request.
 
-How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87). If your appeal is denied, you may contact the Oregon Attorney General to submit a complaint [here](https://www.doj.state.or.us/consumer-protection/consumer-complaints/).
+How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://www.google.com/url?q=https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87&sa=D&source=docs&ust=1735323383763442&usg=AOvVaw1Zz4xlTyWDkKTkNzIRmz9x). If your appeal is denied, you may contact the New Hampshire Attorney General to submit a complaint [here](https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-complaints).
+
+​​​
 
 ​​
 
-​
+​​​
 
-​​
-
-### 8\. Utah
+### 11\. Utah
 
 ### ​​
 
@@ -735,7 +946,7 @@ To respond to some rights we may need to authenticate you by providing additiona
 ### ​
 
 ###   
-9\. Virginia
+12\. Virginia
 
 ### ​​​
 
@@ -789,4 +1000,4 @@ All verifiable consumer requests must: 
 
 How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87). If your appeal is denied, you may contact the Virginia Attorney General to submit a complaint [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
-Last Updated: October 1, 2024
+Last Updated: January 2, 2025
