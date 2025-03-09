@@ -564,7 +564,7 @@ California Consumer Privacy Act (CCPA) Reporting Metrics
 
 Between January 1, 2024 and December 31, 2024 Clearview received 2,207  requests under the CCPA from California residents. The below metrics describe how we handle these requests. 
 
-![2024 Reporting Metrics.png](https://static.wixstatic.com/media/6d87a5_61590882a8c64a92a67c9dcdc000b3a6~mv2.png/v1/crop/x_0,y_11,w_2941,h_1140/fill/w_49,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2024%20Reporting%20Metrics.png)
+![2024 Reporting Metrics.png](https://static.wixstatic.com/media/6d87a5_61590882a8c64a92a67c9dcdc000b3a6~mv2.png/v1/crop/x_0,y_11,w_2941,h_1140/fill/w_975,h_378,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2024%20Reporting%20Metrics.png)
 
 ##### 2\. Colorado
 
