@@ -152,8 +152,11 @@ Clearview collects information from individuals seeking to exercise a privacy ri
 
 ### ​
 
-Users of Clearview AI: The publicly available images collected by Clearview are disclosed, along with the source of the image, in a searchable format with our users, who are all either law enforcement, government agency, national security professionals, or a contractor authorized to work on behalf of and fulfill a duty on behalf of the foregoing entities. Unless a user provides or requests written consent to disclose their personal information with other users, personal information derived from users is not disclosed by Clearview with its other users except as required by a legal mandate such as a judicial order.  
-​  
+Users of Clearview AI: The publicly available images collected by Clearview are disclosed, along with the source of the image, in a searchable format with our users, who are all either law enforcement, government agency, national security professionals, or a contractor authorized to work on behalf of and fulfill a duty on behalf of the foregoing entities. Unless a user provides or requests written consent to disclose their personal information with other users, personal information derived from users is not disclosed by Clearview with its other users except as required by a legal mandate such as a judicial order. 
+
+The entity maintaining this website is a data broker under Texas law. To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website. ​
+
+  
 Legal: The law may require or permit us to use or disclose the information we collect with other parties in response to legal proceedings, in response to a request from a competent law enforcement or government agency, to protect our rights, privacy, safety or property, or the public, to enforce the terms of any agreement, or for any other purpose that is required or permitted by law.
 
 Fraud Detection: We may use or disclose the information we collect in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, cybersecurity threats, situations involving potential threats to the physical safety of any person, violations of this policy, or as otherwise required by law.​
@@ -1000,4 +1003,4 @@ All verifiable consumer requests must: 
 
 How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87). If your appeal is denied, you may contact the Virginia Attorney General to submit a complaint [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
-Last Updated: January 2, 2025
+Last Updated: March 12, 2025
