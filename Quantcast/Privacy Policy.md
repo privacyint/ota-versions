@@ -13147,6 +13147,469 @@ Page: /
 
 Please download the PDF to view this document. [Download](https://quantcast.pactsafe.io/versions/6682f5900fdf7a749c14a23e.pdf)
 
+Applicant Privacy Notice
+------------------------
+
+Version Version 1.0  (Current)
+
+##### Effective March 18th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/67d9b54e6f534c46fef038d0.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Applicant Privacy Notice**
+
+Voir ci-dessous pour le Français
+
+Ver abajo para Español
+
+updated February 2025
+
+Quantcast (the “**Company**”, "**we**", "**us**" or **“our”**) is committed to protecting and respecting your privacy. This Privacy Notice describes how we, as a Data Controller, collect, use, and disclose your personal data, in connection with your application for employment with us, in accordance with the applicable Data Protection Laws. It also describes your data protection rights, as described in the ‘**Your Rights’** section below. .
+
+1. **Scope**
+
+This Privacy Notice applies to all individuals who engage in the process of applying for employment with us.
+
+If you have any queries in relation to our processing of your personal data, this Privacy Notice, or any related matters, please contact us (see ‘**Contact Us’** below).
+
+1. **Information we collect about you**
+
+We collect “Personal data” means any information about an individual from which that person can be identified either directly or indirectly. We may collect “special categories” of personal data which are more sensitive in nature and therefore require a higher level of protection, including health data including disability status, genetic data, biometric data obtained for identification purposes, information about sex life or sexual orientation, race or ethnic origin, political opinions or associations, religious or philosophical beliefs, criminal records, or trade union membership.
+
+When we refer to “processing”, this means any operation which we perform on your personal data, such as collecting, using, storing, transferring, disclosing, altering or erasing your personal data.
+
+We collect personal data about individuals through the application and recruitment process, either directly from candidates or sometimes from an employment agency. We may collect additional information from third parties including former employers, credit reference agencies or other background check agencies, and through publicly accessible sources, such as LinkedIn.
+
+**How we use personal data we collect**
+
+We have detailed in the table below, the personal data which we collect, the purpose(s) for which we process this personal data, as well as the legal bases for such processing:
+
+| Personal Data | Purpose for Processing | Legal Basis for Processing |
+| --- | --- | --- |
+| Basic information about you such as name, position, email, home address, and telephone number, and optionally, where applicable, gender. | For personnel administration purposes, including business management and planning, and accounting and auditing purposes.<br><br>To communicate with you about your application, to respond to your inquiries and schedule interviews.<br><br>To verify information about you.<br><br>To improve our recruitement processes. | To pursue our legitimate interests of (a) making informed decisions on your recruitment, assess your suitability fo the role, (b) communicate with you during the interview process, (c) verify information about you, and (d) improve our recruitment processes. |
+| --- | --- | --- |
+| Basic information about you such as name, email, home address, and telephone number.. | To contact you about future career opportunities at Quantcast. | Consent. |
+| --- | --- | --- |
+| Wage or payment information. | For wage, expenses, and other payment purposes, decisions about salary reviews and compensation. | To pursue our legitimate interests making informed decisions about salary and compensation. . |
+| --- | --- | --- |
+| Your CV/resume, cover letter, previous work history information, details of prior experience, your qualifications and skills, your start and end dates with previous employers, and other information provided to us in support of an application and/or the recruitment process. | For making decisions about your recruitment or appointment and determining the terms on which you work for us. For assessing qualifications for a particular job or task, decisions about promotions, and performance reviews | To pursue our legitimate interests of hiring the most qualified and appropriate personnel and effectively managing our workforce. |
+| --- | --- | --- |
+| Interview history including questions, notes and technical assessment results~.~ | To maintain records and collect and retain information relating to your application and/or recruitment process. | To pursue our legitimate interests of hiring the most qualified and appropriate personnel and effectively managing our workforce. |
+| --- | --- | --- |
+| Education, qualifications, previous experience and previous employment, performance. | For verifying and assessing qualifications for a particular job or task. | To pursue our legitimate interests of hiring the most qualified and appropriate personnel and effectively managing our workforce |
+| --- | --- | --- |
+| Where appropriate, and only to the extent allowed under appropriate laws and regulations, health data such as information about disability status. | To determine if we need to make any reasonable adjustments. | To carry out our legal obligations in the field of employment or social protection laws. |
+| --- | --- | --- |
+| Where appropriate, and only to the extent allowed under appropriate laws and regulations, information about your ethnic origin, sexual orientation, and religion or belief. | To determine if we need to make any reasonable adjustments. | To carry out our legal obligations in the field of employment or social protection laws. |
+| --- | --- | --- |
+| Where appropriate, and only to the extent allowed under appropriate laws and regulations, information about your citizenship, your work permit or residence details, and passport and visa documentation. | For determining that you are legally entitled to work in the country of employment. | To (a) comply with our legal obligations in the field of employment law or (b) pursue our legitimate interests to ensure that you are eligible to work with us |
+| --- | --- | --- |
+| Where appropriate, and only to the extent allowed under appropriate laws and regulations, union membership, unemployment insurance fund, position as union representative and safety representative | To fulfil the legal requirements to negotiate with your union, issue employer certificates and fulfil obligations under employment legislation | To carry out our legal obligations in the field of employment or social protection laws. |
+| --- | --- | --- |
+| If appropriate, on-premise security and access information, including closed-circuit television (“CCTV”)), subject to the requirements of local law and internal policy. CCTV. | To ensure the security and physical integrity of our premises and offices. | To pursue our legitimate interests in maintaining the security of our premises and information systems. |
+| --- | --- | --- |
+
+**Note: _You have the right to object to the use of your personal data for our legitimate business interests. If you do object, we will have an opportunity to demonstrate that there are compelling legitimate grounds which override your rights and freedoms or that processing is necessary for the establishment, exercise or defence of legal claims._**
+
+1. **Third party information**
+
+Where you provide us with personal data relating to other people, such as your spouse, children or other related persons, you will ensure that before doing so, the individuals in question are made aware of the fact that we will hold information relating to them and that we may use it for any of the purposes set out in this Employee Privacy Notice. Employees should provide a copy of this Privacy Notice to any third parties whose personal data they provide to us.
+
+1. **Keeping your information up-to-date**
+
+If you fail to provide certain information when requested, we may not be able to complete the application process or we may be prevented from complying with our legal obligations .
+
+We encourage you to make sure that the personal data we hold about you is as accurate and up to date as possible. Please contact us if you would like to make any changes (see ‘**Contact Us**’ below).
+
+1. **Recipients of your personal information**
+
+Quantcast will share information with its employees who need to know such information for purposes of performing their jobs, including to respond to requests or questions that you may have. Quantcast may also transfer your personal data to other group companies as permitted in this Notice and under applicable data privacy law for the legitimate interests of Quantcast and to ensure the effective operation of Quantcast’s business. You can contact us for further information in relation to these group companies (see ‘**Contact Us**’ below).
+
+We may also transfer or submit your personal information to a buyer / investor or potential buyer / investor in connection with a sale or other transfer of all or part of our shares, assets or business. Upon such transfer, we will take such reasonable measures to ensure that any receiving parties process your information in a manner that complies with this Privacy Notice. The purpose of such processing is to allow for the sale or transfer of our shares, assets or business and the legal basis for doing so is our legitimate interest in being able to manage our business by conducting such a sale or transfer. You can contact us to request further information in relation to the recipients of your personal data (see ‘**Contact Us**’ below).
+
+It will be necessary from time to time for us to disclose your personal data to third parties, including the following:
+
+*   
+    1. **Service providers**: Quantcast contracts with third party service providers, such as companies working with payroll administration, external reference agencies, IT and cloud services, and insurance and pension companies. This is done in order to fulfil our obligations in the employment relationship with you and in our legitimate interest in effectively conducting, streamlining, managing, operating and further improving our business. When such third party data processors process personal data on our behalf, we enter into agreements with them to ensure that they process your personal data in accordance with applicable law.
+    2. **Third parties**: Quantcast may transfer your personal data to third parties, such as lawyers, accountants, auditors etc. Such transfers are made in order to comply with our legal obligations and for the legitimate interests pursued by Quantcast to ensure the effective operation of our business. In addition, where necessary to: comply with our legal obligations in the field of employment law or to assess your working capacity, we may disclose special categories of personal data, such as information concerning your health (including medical certificates provided by you) to third parties such as medical practitioners, for the purposes of an independent medical assessment.
+    3. **Government or law enforcement bodies:** Quantcast may transfer your personal data to governmental agencies, regulators, and law enforcement bodies in order to comply with our legal obligations and for the legal protection of our legitimate interests. Personal data shall be shared with government authorities and/or law enforcement officials if required for the purposes above, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws.
+
+1. **Verification and background checks**
+
+Where appropriate, and only to the extent allowed under applicable laws and regulations, we will conduct verification or background checks.
+
+For certain positions, it will be necessary for us to verify the details you have supplied (for example, in relation to your identity, employment history, academic qualification and professional credentials) or to conduct pre-employment background checks (for example, in relation to previous criminal convictions or financial standing). The level of checks will depend on your role, in particular whether you will occupy a regulated role, and will be conducted at as late a stage as is practicable in the recruitment process and often only after you have been selected for the position. If your application is successful, we will provide further information about the checks involved and will obtain any necessary consent prior to completing such checks.
+
+Where appropriate, and only to the extent allowed under applicable laws and regulations:
+
+We will conduct verification or background checks only with your consent.
+
+The results of the verification and background checks may be used to make decisions about hiring, promoting, or firing you.
+
+If your application is not successful because of information in your background report, will give you the following verbally, in writing, or electronically:
+
+* The name, address, and phone number of the background reporting company
+* That the background reporting company didn’t make the decision about not hiring or promoting you and can’t give specific reasons for it
+* That you have the right to dispute information on your report that is inaccurate or incomplete with the background reporting company. You'll be able to do this by contacting the background reporting company and following Quantcast’s instructions for disputing information.
+* That you have the right to get an additional free report from the background reporting company. You must ask for it within 60 days of the employer’s decision.
+
+1. **International transfers**
+
+Quantcast operates a global service, and we engage vendors located around the world to help us deliver the Solutions. Accordingly, your Personal Information may be transferred outside of the country or region in which you reside, including to other countries where either our data centers, vendors, affiliates, or Partners are located. Where we transfer your Personal Information internationally, we do so in accordance with applicable law.
+
+If you are based in the EEA, UK, or Switzerland, please note that we may need to transfer your Personal Information to countries that have not been recognised by the European Commission and/or the UK government as providing an adequate level of protection for Personal Information. Please note that where we transfer your personal data internationally, we do so in accordance with applicable laws. We have put in place appropriate safeguards to protect the privacy and integrity of any personal data transferred outside the EEA, UK, and Switzerland,, including EU Standard Contractual Clauses or other government-approved contracts that provide appropriate safeguards for such international transfers. You can contact us at privacy@quantcast.com to request a copy of our Standard Contractual Clauses.
+
+1. **Data security**
+
+We have put in place appropriate physical, organisations and technical security measures to protect your personal data from accidental loss, unauthorised access, use, alteration or disclosure. We have implemented strict internal guidelines to ensure that your privacy is safeguarded at every level of our organisation. We limit access to your personal data to only those employees, agents and contractors who have a legitimate business need to access such data. We will continue to revise policies and implement additional security features as new technologies become available.
+
+1. **How long we retain your personal data**
+
+(a)If you are successful: We will retain your personal data only for as long as we need it for Quantcast's legitimate interest in accordance with applicable law for the purposes of the recruitment process; and, once this process is finished, for an appropriate period so as to be able to deal with any legal claims linked to the application process. Recruitment records for successful applicants are generally kept for 1 years. After this period, we will take steps to delete your personal data or hold it in a form that no longer identifies you. As a Quantcast employee, relevant personal information you provide will become a part of your employee file and may be used later for the management of the employment relationship, in accordance with the Quantcast Employee Privacy Notice.
+
+(b)If you are not successful: If you provide consent, we will retain your personal data with your permission for 1 year so we can keep you in mind for future recruitment processes; otherwise, it will be deleted after 6 months.
+
+1. **Your rights**
+
+You have certain rights under applicable data protection legislation as summarised below:
+
+*   
+    1. **Right of access:** You have the right to request access to a copy of your personal data, as well as certain information about how we are processing your data.
+    2. **Right to rectification:** You have the right to request rectification of any inaccurate or incomplete personal data we hold about you.
+    3. **Right to erasure/deletion (right to be forgotten):** You have the right in certain circumstances to ask us to delete your personal data, for example when it is no longer necessary for us to process your personal data in relation to the purpose for which it was collected.
+    4. **Right to restriction of processing:** You have to ask us to halt the processing of your personal data in certain circumstances,.
+    5. **Right to data portability:** You have the right to request us to transmit personal data that you have provided to us, to a third party without hindrance, or to give you a copy of it, so that you can transmit it to a third party, where technically feasible.
+    6. **Right to object:** You have the right to object to us processing your personal data in certain circumstances, for example where the processing is based on our legitimate interests. If so, in order to continue processing, we must be able to show compelling legitimate grounds that override your interests, rights and freedoms.
+    7. **Right to withdraw consent:** In the event that we seek your consent to process your personal data for any particular purpose, you have the right to withdraw your consent at any time (without affecting the lawfulness of processing based on consent before its withdrawal).
+
+Your rights will in each case be subject to the restrictions set out in applicable data protection laws. If you want to review, verify, correct or request erasure of your personal data, object to the processing of your personal information, or request that we transfer a copy of your personal information to another party, please contact us (see ‘**Contact Us**’ below).
+
+1. **Changes to this Privacy Notice**
+
+We reserve the right to make updates and amendments to this Privacy Notice from time to time. If we make any changes, we will update the “Last Updated” date at the top of this Privacy Notice. Please review this Privacy Notice periodically for updates. We may also notify you in other ways from time to time about the processing of your personal data.
+
+1. **Contact us**
+
+In order to make a query, raise a concern, avail of your data protection rights or for any other reason related to this Privacy Notice, please contact us using the below contact details:
+
+Email: [QuantcastHR@quantcast.com](mailto:quantcastHR@quantcast.com)
+
+If you are based in the EEA, UK, or Switzerland and have issues, questions, or grievances about the above-listed rights or about of our handling or processing of your personal information in any way, you may contact our European Data Protection Officer at the email address below. You may also lodge a complaint to the Irish Data Protection Commission, whose contact details are below.
+
+**DPO**
+
+E-mail:dpo@quantcast.com
+
+**Irish Data Protection Commission**
+
+Telephone: 1890 252 231
+
+E-mail: info@dataprotection.ie
+
+Address: 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland
+
+**Avis de confidentialité à l’intention des candidats**
+
+mis à jour en février 2025
+
+Quantcast (la « **Société** », « **nous** », « **notre** » ou « **nos »**) s’engage à protéger et à respecter votre vie privée. Le présent Avis de confidentialité décrit comment nous, en tant que contrôleur de données, recueillons, utilisons et divulguons vos données personnelles dans le cadre de votre candidature à un emploi chez nous, conformément aux lois en vigueur sur la protection des données. Il décrit également vos droits en matière de protection des données, comme indiqué dans la section « **Vos droits** » ci-dessous. .
+
+1. **Portée**
+
+Le présent Avis de confidentialité s’applique à toutes les personnes qui entament un processus de candidature à un emploi chez nous.
+
+Si vous avez des questions concernant la manière dont nous traitons vos données personnelles, le présent Avis de confidentialité ou toute autre question connexe, veuillez nous contacter (voir la section « **Nous contacter** » ci-dessous).
+
+1. **Informations que nous recueillons à votre sujet**
+
+Nous recueillons des « Données personnelles », c’est-à-dire toute information relative à un individu à partir de laquelle ledit individu peut être identifié directement ou indirectement. Nous pouvons être amenés à recueillir des « catégories particulières » de données personnelles qui sont de nature plus sensible et nécessitent donc un niveau de protection plus élevé, notamment les données de santé, y compris le statut d’invalidité, les données génétiques, les données biométriques obtenues à des fins d’identification, les informations sur la vie sexuelle ou l’orientation sexuelle, la race ou l’origine ethnique, les opinions ou associations politiques, les convictions religieuses ou philosophiques, les casiers judiciaires ou l’appartenance syndicale.
+
+Lorsque nous parlons de « traitement », cela signifie toute opération que nous effectuons sur vos données personnelles, telle que la collecte, l’utilisation, le stockage, le transfert, la divulgation, la modification ou l’effacement.
+
+Nous recueillons des données personnelles sur les individus par le biais du processus de candidature et de recrutement, soit directement auprès des candidats, soit parfois auprès d’une agence de recrutement. Nous pouvons recueillir des informations supplémentaires auprès de tiers, y compris d’anciens employeurs, d’agences de référence de crédit ou d’autres agences de vérification des antécédents, et via des sources accessibles au public, telles que LinkedIn.
+
+**Manière dont nous utilisons les données personnelles que nous recueillons**
+
+Nous avons détaillé dans le tableau ci-dessous, les données personnelles que nous recueillons, la ou les finalités pour lesquelles nous traitons ces données personnelles, ainsi que les bases légales d'un tel traitement :
+
+| Données personnelles | Finalité du traitement | Base juridique du traitement |
+| --- | --- | --- |
+| Informations de base vous concernant telles que nom, poste, adresse e-mail, adresse personnelle, numéro de téléphone et éventuellement, le cas échéant, sexe. | À des fins d’administration du personnel, y compris la gestion et la planification des affaires, la comptabilité et l’audit.<br><br>Pour communiquer avec vous à propos de votre candidature, pour répondre à vos demandes de renseignements et planifier des entretiens.<br><br>Pour vérifier les informations vous concernant.<br><br>Pour améliorer nos processus de recrutement. | Pour poursuivre nos intérêts légitimes en matière de (a) prise de décisions éclairées à propos de votre recrutement, d’évaluation de votre adéquation avec le poste, (b) de communication avec vous pendant le processus d’entretien, (c) de vérification des informations vous concernant et (d) d’amélioration de nos processus de recrutement. |
+| --- | --- | --- |
+| Informations de base vous concernant telles que nom, adresse e-mail, adresse personnelle et numéro de téléphone. | Pour vous contacter à propos de futures opportunités de carrière chez Quantcast. | Consentement. |
+| --- | --- | --- |
+| Informations de salaire ou de paiement. | Pour les salaires, les dépenses et autres fins de paiement, les décisions concernant les révisions salariales et la rémunération. | Pour poursuivre nos intérêts légitimes en matière de prise de décisions éclairées en ce qui concerne les salaires et la rémunération. . |
+| --- | --- | --- |
+| Votre CV, votre lettre de motivation, vos antécédents professionnels, les détails relatifs à votre expérience antérieure, vos qualifications et compétences, vos dates de début et de fin d’emploi chez vos précédents employeurs, et d’autres informations qui nous sont fournies aux fins d’étayer une candidature et/ou le processus de recrutement. | Pour prendre des décisions concernant votre recrutement ou votre nomination et déterminer les conditions dans lesquelles vous travaillez pour nous. Pour évaluer les qualifications pour un travail ou une tâche particulière, les décisions concernant les promotions et les évaluations de performance | Pour poursuivre nos intérêts légitimes en matière d’embauche du personnel le plus qualifié et approprié et de gestion efficace de nos effectifs. |
+| --- | --- | --- |
+| Historique des entretiens, y compris les questions, les notes et les résultats obtenus aux évaluations techniques~.~ | Pour tenir des registres, recueillir et conserver des informations relatives à votre candidature et/ou à votre processus de recrutement. | Pour poursuivre nos intérêts légitimes en matière d’embauche du personnel le plus qualifié et approprié et de gestion efficace de nos effectifs. |
+| --- | --- | --- |
+| Formation, qualifications, expérience antérieure et emplois précédents, performances. | Pour vérifier et évaluer les qualifications pour un emploi ou une tâche particulière. | Pour poursuivre nos intérêts légitimes en matière d’embauche du personnel le plus qualifié et approprié et de gestion efficace de nos effectifs |
+| --- | --- | --- |
+| Le cas échéant, et uniquement dans la mesure permise par les lois et réglementations appropriées, desdonnées relatives à votre santé, telles que des informations concernant le statut d’invalidité. | Pour déterminer si nous devons prévoir des aménagements raisonnables. | Pour remplir nos obligations légales en matière de droit du travail ou de protection sociale. |
+| --- | --- | --- |
+| Le cas échéant, et uniquement dans la mesure permise par les lois et réglementations appropriées, des informations relatives à votre origine ethnique, votre orientation sexuelle et votre religion ou vos convictions religieuses. | Pour déterminer si nous devons prévoir des aménagements raisonnables. | Pour remplir nos obligations légales en matière de droit du travail ou de protection sociale. |
+| --- | --- | --- |
+| Le cas échéant, et uniquement dans la mesure permise par les lois et réglementations appropriées, desinformations relatives à votre citoyenneté, votre permis de travail ou les détails de votre résidence, de votre passeport et de vos justificatifs de visa. | Pour déterminer que vous êtes légalement autorisé à travailler dans lepays. | Pour (a) respecter nos obligations légales en matière de droit du travail ou (b) poursuivre nos intérêts légitimes afin de garantir que vous êtes éligible pour travailler avec nous. |
+| --- | --- | --- |
+| Le cas échéant, et uniquement dans la mesure permise par les lois et réglementations appropriées, des informations relatives à votre appartenance syndicale, caisse d’assurance chômage, fonction de délégué syndical et de préposé à la sécurité | Pour remplir les exigences légales pour négocier avec votre syndicat, délivrer des attestations d’employeur et remplir les obligations en vertu de la législation du travail | Pour remplir nos obligations légales en matière de droit du travail ou de protection sociale. |
+| --- | --- | --- |
+| Le cas échéant, des informations relatives à la sécurité et à votre accès au site, y compris la vidéosurveillance (« Vidéosurveillance »), sous réserve des exigences de la législation locale et de la politique interne. Vidéosurveillance. | Pour assurer la sécurité et l’intégrité physique de nos locaux et bureaux. | Afin de poursuivre nos intérêts légitimes en matière de maintien de la sécurité de nos locaux et de nos systèmes d’information. |
+| --- | --- | --- |
+
+**Remarque : _vous avez le droit de vous opposer à l’utilisation de vos données personnelles pour nos intérêts commerciaux légitimes. Si vous vous y opposez, nous aurons la possibilité de démontrer qu'il existe des motifs légitimes impérieux qui prévalent sur vos droits et libertés ou que le traitement est nécessaire à la constatation, à l'exercice ou à la défense d'un droit en justice._**
+
+1. **Données tierces**
+
+Lorsque vous nous fournissez des données personnelles relatives à d’autres personnes, telles que votre conjoint, vos enfants ou d’autres personnes apparentées, vous vous assurerez qu’avant de le faire, les personnes concernées sont informées du fait que nous détiendrons des informations les concernant et que nous pouvons les utiliser à l’une des fins énoncées dans le présent Avis de confidentialité à l’intention des employés. Les employés doivent fournir une copie du présent Avis de confidentialité à tout tiers dont ils nous communiquent les données personnelles.
+
+1. **Mise à jour de vos données**
+
+Si vous omettez de nous fournir certaines informations lorsqu’elles vous sont demandées, nous risquons de ne pas pouvoir mener à son terme le processus de candidature, ou d’être empêchés de respecter nos obligations légales.
+
+Nous vous encourageons à vous assurer que les données personnelles que nous détenons à votre sujet sont aussi exactes et à jour que possible. Veuillez nous contacter si vous souhaitez apporter des modifications (voir « **Nous contacter** » ci-dessous).
+
+1. **Destinataires de vos données personnelles**
+
+Quantcast partagera des informations avec ses employés qui ont besoin de connaître ces informations dans le cadre de l’exécution de leur travail, y compris pour répondre aux demandes ou questions que vous pourriez avoir. Quantcast peut également transférer vos données personnelles à d’autres sociétés du groupe comme l’y autorise le présent Avis et en vertu de la loi applicable sur la confidentialité des données pour les intérêts légitimes de Quantcast et pour assurer le bon fonctionnement de Quantcast. Vous pouvez nous contacter pour plus d’informations sur ces sociétés du groupe (voir « **Nous contacter** » ci-dessous).
+
+Nous pouvons également transférer ou soumettre vos données personnelles à un acheteur / investisseur ou acheteur / investisseur potentiel dans le cadre d’une vente ou d’un autre transfert de tout ou partie de nos actions, actifs ou activités. Lors d'un tel transfert, nous prendrons des mesures raisonnables pour nous assurer que toutes les parties destinataires traitent vos informations d'une manière conforme au présent avis de confidentialité. L’objectif de ce traitement est de permettre la vente ou le transfert de nos actions, de nos actifs ou de nos activités et la base juridique de ce traitement est notre intérêt légitime à pouvoir gérer nos activités en procédant à une telle vente ou à un tel transfert. Vous pouvez nous contacter pour demander de plus amples informations concernant les destinataires de vos données personnelles (voir « **Nous contacter** » ci-dessous).
+
+Il nous sera nécessaire de temps à autre de divulguer vos données personnelles à des tiers, notamment :
+
+*   
+    1. **Prestataires de services** : Quantcast passe des contrats avec des prestataires de services tiers, tels que des sociétés chargées de l’administration de la paie, des agences de référence externes, des services d’informatique et de cloud, des compagnies d’assurance et de retraite. Ces contrats sont conclus afin de remplir nos obligations dans le cadre de la relation de travail que nous entretenons avec vous et dans notre intérêt légitime à mener, rationaliser, gérer, exploiter et améliorer davantage nos activités de manière efficace. Lorsque ces sous-traitants tiers traitent des données personnelles en notre nom, nous concluons des accords avec eux pour nous assurer qu’ils traitent vos données personnelles conformément à la législation applicable.
+    2. **Tiers** : Quantcast peut transférer vos données personnelles à des tiers, comme des avocats, comptables, auditeurs, etc. Ces transferts sont effectués afin de respecter nos obligations légales et pour les intérêts légitimes poursuivis par Quantcast pour assurer le bon fonctionnement de notre entreprise. En outre, lorsque cela est nécessaire pour respecter nos obligations légales en matière de droit du travail ou pour évaluer votre capacité de travail, nous pouvons divulguer des catégories spéciales de données personnelles, telles que des informations concernant votre santé (y compris les certificats médicaux que vous avez fournis) à des tiers, tels que des médecins, aux fins d’une évaluation médicale indépendante.
+    3. **Organismes gouvernementaux ou chargés de l’application de la loi :** Quantcast peut transférer vos données personnelles à des organismes gouvernementaux, à des régulateurs et à des organismes chargés de l’application de la loi afin de respecter nos obligations légales et pour la protection juridique de nos intérêts légitimes. Les données personnelles seront partagées avec les autorités gouvernementales et/ou les responsables de l’application des lois si cela est nécessaire aux fins ci-dessus, si la loi l’exige ou si cela est requis pour la protection juridique de nos intérêts légitimes conformément aux lois applicables.
+
+1. **Vérifications et contrôles des antécédents**
+
+Le cas échéant, et uniquement dans la mesure permise par les lois et réglementations applicables, nous procéderons à des vérifications ou à des contrôles de vos antécédents.
+
+Pour certains postes, il nous sera nécessaire de vérifier les informations que vous avez fournies (par exemple, concernant votre identité, vos antécédents professionnels, vos diplômes universitaires et vos titres professionnels) ou de procéder à des contrôles de vos antécédents préalablement à votre embauche (par exemple, concernant vos condamnations pénales antérieures ou votre situation financière). L’exhaustivité de ces vérifications dépendra de vos fonctions, en particulier si vous allez occuper un poste réglementé, et les vérifications seront menées le plus tard possible dans le processus de recrutement et généralement, seulement après que vous ayez été sélectionné(e) pour le poste. Si votre candidature est retenue, nous vous fournirons des informations complémentaires à propos de ces vérifications et nous obtiendrons, le cas échéant, le consentement nécessaire avant de procéder auxdites vérifications.
+
+Le cas échéant, et uniquement dans la mesure permise par les lois et réglementations applicables :
+
+Nous réaliserons les vérifications ou contrôles des antécédents uniquement avec votre consentement.
+
+Les résultats des vérifications et contrôles des antécédents pourront être utilisés pour prendre des décisions d’embauche, de promotion ou de licenciement.
+
+Si votre candidature n’est pas retenue en raison d’informations révélées par le rapport de vérification de vos antécédents, nous vous fournirons les informations suivantes à l’oral, à l’écrit ou par voie électronique :
+
+* Le nom, l’adresse et le numéro de téléphone de la société ayant procédé à la vérification de vos antécédents
+* La stipulation que la société de vérification des antécédents n’a pas pris la décision de ne pas vous embaucher ou de ne pas vous accorder une promotion et ne peut pas vous fournir de motifs spécifiques à ce titre
+* La stipulation que vous avez le droit de contester les informations inexactes ou incomplètes figurant dans le rapport en vous adressant à la société de vérification des antécédents. Vous pourrez à cette fin contacter la société de vérification des antécédents et suivre les instructions de Quantcast pour contester les informations fournies.
+* La stipulation que vous avez le droit d’obtenir un rapport complémentaire gratuit de la part de la société de vérification des antécédents. Vous devez en faire la demande dans un délai de 60 jours suivant la décision de l’employeur.
+
+1. **Transferts internationaux**
+
+Quantcast gère un service mondial et nous engageons des fournisseurs situés dans le monde entier pour nous aider à fournir les Solutions. En conséquence, vos Informations personnelles peuvent être transférées en dehors de votre pays ou région de résidence, y compris vers d’autres pays où se trouvent nos centres de données, nos fournisseurs, nos sociétés affiliées ou nos Partenaires. Lorsque nous transférons vos Informations personnelles à l’échelle internationale, nous le faisons conformément aux lois applicables.
+
+Si vous résidez dans l’EEE, au Royaume-Uni ou en Suisse, veuillez noter que nous devrons peut-être transférer vos Informations personnelles vers des pays qui n’ont pas été reconnus par la Commission européenne et/ou le Gouvernement britannique comme offrant un niveau adéquat de protection des Informations personnelles. Veuillez noter que lorsque nous transférons vos données personnelles à l’international, nous le faisons conformément aux lois applicables. Nous avons mis en place des garanties appropriées pour protéger la confidentialité et l’intégrité de toutes les données personnelles transférées en dehors de l’EEE, du Royaume-Uni et de la Suisse, y compris les clauses contractuelles types de l’UE ou d’autres contrats approuvés par le gouvernement qui fournissent des garanties appropriées pour de tels transferts internationaux. Vous pouvez nous contacter à l’adresse privacy@quantcast.com pour demander une copie de nos Clauses contractuelles types.
+
+1. **Sécurité des données**
+
+Nous avons mis en place des mesures de sécurité physiques, organisationnelles et techniques appropriées pour protéger vos données personnelles contre la perte accidentelle, l’accès non autorisé, l’utilisation, l’altération ou la divulgation. Nous avons mis en place des directives internes strictes pour garantir la protection de votre vie privée à tous les niveaux de notre organisation. Nous limitons l’accès à vos données personnelles aux seuls employés, agents et sous-traitants qui ont un besoin commercial légitime d’accéder à ces données. Nous continuerons à réviser les politiques et à mettre en œuvre des fonctionnalités de sécurité supplémentaires à mesure que de nouvelles technologies seront disponibles.
+
+1. **Durée de conservation de vos données personnelles**
+
+(a)Si vous avez été retenu(e) : nous conserverons vos données personnelles uniquement aussi longtemps que nous en aurons besoin pour l’intérêt légitime de Quantcast conformément à la loi applicable aux fins du processus de recrutement ; et, à l’issue du processus, pendant une durée appropriée afin de pouvoir traiter toute réclamation légale associée au processus de candidature. Les dossiers de recrutement des candidats retenus sont généralement conservés pendant 1 an. Après ce délai, nous prendrons les mesures nécessaires pour supprimer vos données personnelles ou les conserver sous une forme qui ne vous identifie plus. En tant qu’employé de Quantcast, les informations personnelles pertinentes que vous fournissez seront intégrées à votre dossier d’employé et pourront être utilisées ultérieurement dans le cadre de la gestion de la relation de travail, conformément à l’Avis de confidentialité à l’intention des employés de Quantcast.
+
+(b)Si vous n’êtes pas retenu(e) : si vous donnez votre consentement, nous conserverons vos données personnelles avec votre autorisation pendant 1 an afin de pouvoir vous considérer dans le cadre de futurs processus de recrutement ; à défaut, elles seront supprimées après 6 mois.
+
+1. **Vos droits**
+
+Vous disposez de certains droits en vertu des lois en vigueur sur la protection des données, résumés ci-dessous :
+
+*   
+    1. **Droit d’accès :** vous avez le droit de demander l’accès à une copie de vos données personnelles, ainsi qu’à certaines informations sur la manière dont nous traitons vos données.
+    2. **Droit de rectification :** vous avez le droit de demander la rectification de toute donnée personnelle inexacte ou incomplète que nous détenons à votre sujet.
+    3. **Droit à l’effacement (droit à l’oubli) :** vous avez le droit, dans certaines circonstances, de nous demander d’effacer vos données personnelles, par exemple lorsqu’il ne nous est plus nécessaire de traiter vos données personnelles par rapport à la finalité pour laquelle elles ont été recueillies.
+    4. **Droit à la limitation du traitement :** vous devez nous demander d’arrêter le traitement de vos données personnelles dans certaines circonstances.
+    5. **Droit à la portabilité des données :** vous avez le droit de nous demander de transmettre les données personnelles que vous nous avez fournies, à un tiers sans entrave, ou de vous en remettre une copie, afin que vous puissiez les transmettre à un tiers, lorsque cela est techniquement faisable.
+    6. **Droit d’opposition :** vous avez le droit de vous opposer à ce que nous traitions vos données personnelles dans certaines circonstances, par exemple lorsque le traitement est basé sur nos intérêts légitimes. Le cas échéant, nous devons être en mesure de démontrer des motifs légitimes impérieux qui prévalent sur vos intérêts, droits et libertés afin de poursuivre le traitement.
+    7. **Droit à retirer son consentement :** si nous vous demandons votre consentement pour traiter vos données personnelles à des fins particulières, vous avez le droit de retirer votre consentement à tout moment (sans affecter la licéité du traitement fondé sur le consentement avant son retrait).
+
+Dans chaque cas, vos droits seront soumis aux restrictions prévues par les lois en vigueur sur la protection des données. Si vous souhaitez examiner, vérifier, corriger ou demander l’effacement de vos données personnelles, vous opposer au traitement de vos données personnelles ou demander que nous transférions une copie de vos données personnelles à une autre partie, n’hésitez pas à nous contacter (voir « **Nous contacter** » ci-dessous).
+
+1. **Modifications du présent Avis de confidentialité**
+
+Nous nous réservons le droit d’apporter des mises à jour et des modifications au présent Avis de confidentialité de temps à autre. Si nous apportons des modifications, nous mettrons à jour la date de « dernière mise à jour » en hautdu présent Avis de confidentialité. Veuillez consulter régulièrement le présent Avis de confidentialité pour prendre connaissance des mises à jour. Nous pouvons également vous informer par d’autres moyens sur le traitement de vos données personnelles de temps à autre.
+
+1. **Nous contacter**
+
+Pour poser une question, soulever une préoccupation, faire valoir vos droits en matière de protection des données ou pour toute autre raison liée au présent Avis de confidentialité, veuillez nous contacter en utilisant les coordonnées ci-dessous :
+
+E-mail : [QuantcastHR@quantcast.com](mailto:quantcastHR@quantcast.com)
+
+Si vous résidez dans l’EEE, au Royaume-Uni ou en Suisse et que vous avez des problèmes, des questions ou des réclamations concernant les droits précitées ou concernant notre gestion ou notre traitement de vos informations personnelles de quelque manière que ce soit, vous pouvez contacter notre Délégué européen à la protection des données à l’adresse e-mail indiquée ci-dessous. Vous pouvez également déposer une plainte auprès de la Commission irlandaise de protection des données, dont les coordonnées sont indiquées ci-dessous.
+
+**Délégué à la protection des données**
+
+E-mail :dpo@quantcast.com
+
+**Commission irlandaise de protection des données**
+
+Téléphone : 1890 252 231
+
+E-mail : info@dataprotection.ie
+
+Adresse : 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Irlande
+
+**Aviso de privacidad del solicitante**
+
+Actualizado en febrero de 2025
+
+Quantcast (la «**Compañía»**, «**nosotros»**, «**nos»** o «**nuestro»**) se compromete a proteger y respetar su privacidad. Este Aviso de Privacidad describe cómo nosotros, como Controlador de Datos, recopilamos, usamos y divulgamos sus datos personales, en relación con su solicitud de empleo con nosotros, de conformidad con las Leyes de Protección de Datos aplicables. También describe sus derechos de protección de datos, como se describe en la sección «**Sus derechos»** a continuación. .
+
+1. **Alcance**
+
+Este Aviso de Privacidad se aplica a todas las personas que participan en el proceso de solicitud de empleo con nosotros.
+
+Si tiene alguna consulta en relación con nuestro procesamiento de sus datos personales, este Aviso de privacidad o cualquier asunto relacionado, comuníquese con nosotros (consulte «**Contáctenos»** a continuación).
+
+1. **Información que recopilamos sobre usted**
+
+Los «Datos personales» que recolectamos se refieren a cualquier información sobre un individuo, a partir de la cual esa persona puede identificarse directa o indirectamente. Podemos recolectar «categorías especiales» de datos personales que son de naturaleza más sensible y, por lo tanto, requieren un mayor nivel de protección, incluidos datos sanitarios, estado de discapacidad, datos genéticos, datos biométricos obtenidos con fines de identificación, información sobre la vida sexual u orientación sexual, raza u origen étnico, opiniones o asociaciones políticas, creencias religiosas o filosóficas, antecedentes penales o afiliación sindical.
+
+Cuando nos referimos a «procesamiento», significa cualquier operación que realizamos con sus datos personales, como recopilar, usar, almacenar, transferir, divulgar, alterar o borrar sus datos personales.
+
+Recopilamos datos personales sobre los individuos a través del proceso de solicitud y contratación, ya sea directamente de los candidatos o, en ocasiones, de una agencia de empleo.Podemos recopilar información adicional de terceros, incluidos antiguos empleadores, agencias de referencia crediticia u otras agencias de verificación de antecedentes, y a través de fuentes de acceso público, como LinkedIn.
+
+**Cómo usamos los datos personales que recopilamos**
+
+Hemos detallado en la siguiente tabla los datos personales que recopilamos, los fines para los que procesamos estos datos personales, así como las bases legales para dicho procesamiento:
+
+| Información personal | Propósito del procesamiento | Base legal para el procesamiento |
+| --- | --- | --- |
+| Información básica sobre usted, como nombre, cargo, correo electrónico, dirección particular y número de teléfono, y opcionalmente, cuando corresponda, su género. | Para los fines de la administración del personal, incluida la gestión y planificación empresarial, la contabilidad y la auditoría.<br><br>Para comunicarnos con usted sobre su solicitud, responder a sus consultas y programar entrevistas.<br><br>Para verificar información sobre usted.<br><br>Para mejorar nuestros procesos de reclutamiento. | Ejercer nuestros intereses legítimos de: (a) tomar decisiones informadas sobre su contratación y evaluar su idoneidad para el puesto; (b) comunicarnos con usted durante el proceso de entrevista; (c) verificar información sobre usted, y (d) mejorar nuestros procesos de reclutamiento. |
+| --- | --- | --- |
+| Información básica sobre usted, como su nombre, correo electrónico, dirección particular y número de teléfono. | Para comunicarnos con usted sobre futuras oportunidades profesionales en Quantcast. | Consentimiento. |
+| --- | --- | --- |
+| Información de salario o de pago. | Para salarios, gastos y otros fines de pago, decisiones sobre revisiones salariales e indemnizaciones. | Ejercer nuestros intereses legítimos en la toma de decisiones informadas sobre salarios y compensaciones. . |
+| --- | --- | --- |
+| Su CV o currículum, carta de presentación, información sobre su historial laboral anterior, detalles de su experiencia previa, sus calificaciones y habilidades, sus fechas de inicio y finalización con empleadores anteriores, y otra información recibida por nosotros en relación a una solicitud o al proceso de reclutamiento. | Para tomar decisiones sobre su contratación o nombramiento y determinar las condiciones en las que trabajará para nosotros.Para evaluar las cualificaciones para un trabajo o tarea en particular, decisiones sobre ascensos y revisiones de desempeño. | Ejercer nuestros intereses legítimos de contratar al personal más cualificado y adecuado, y administrar de manera efectiva nuestra fuerza laboral. |
+| --- | --- | --- |
+| Historial de entrevistas, incluidas las preguntas, notas y resultados de evaluación técnica~.~ | Para mantener registros, recopilar y conservar información relacionada con su solicitud o con el proceso de reclutamiento. | Ejercer nuestros intereses legítimos de contratar al personal más cualificado y adecuado, y administrar de manera efectiva nuestra fuerza laboral. |
+| --- | --- | --- |
+| Educación, calificaciones, experiencia previa, empleos anteriores, desempeño. | Para verificar y evaluar las calificaciones para un trabajo o tarea en particular. | Ejercer nuestros intereses legítimos de contratar al personal más cualificado y adecuado, y administrar de manera efectiva nuestra fuerza laboral. |
+| --- | --- | --- |
+| Cuando sea apropiado, y sólo en la medida permitida por las leyes y reglamentaciones pertinentes, datos de salud tales como información sobre el estado de discapacidad. | Para determinar si necesitamos realizar algún ajuste razonable. | Llevar a cabo nuestras obligaciones legales en materia de legislación laboral o de protección social. |
+| --- | --- | --- |
+| Cuando sea apropiado, y solo en la medida permitida por las leyes y regulaciones correspondientes, información sobre su origen étnico, orientación sexual, religión o creencias. | Para determinar si necesitamos realizar algún ajuste razonable. | Llevar a cabo nuestras obligaciones legales en materia de legislación laboral o de protección social. |
+| --- | --- | --- |
+| Cuando sea apropiado, y sólo en la medida permitida por las leyes y reglamentaciones pertinentes, información sobre su ciudadanía, su permiso de trabajo o detalles de residencia, así como sobre su documentación de pasaporte y visa. | Para determinar que usted tiene derecho legal a trabajar en el país del empleo. | (a) Cumplir con nuestras obligaciones legales en el campo de la legislación laboral o (b) ejercer nuestros intereses legítimos para garantizar que usted es elegible para trabajar con nosotros. |
+| --- | --- | --- |
+| Cuando sea apropiado, y sólo en la medida permitida por las leyes y reglamentaciones pertinentes, su afiliación sindical, fondo de seguro de desempleo, cargo de representante sindical y delegado de seguridad. | Para cumplir los requisitos legales para negociar con su sindicato, emitir certificados de empleador y cumplir con las obligaciones previstas en la legislación laboral. | Llevar a cabo nuestras obligaciones legales en materia de legislación laboral o de protección social. |
+| --- | --- | --- |
+| Si corresponde, información de seguridad y acceso en las instalaciones, incluida la televisión de circuito cerrado («CCTV»), sujeta a los requisitos de la legislación local y la política interna. Circuito cerrado de televisión. | Para garantizar la seguridad e integridad física de nuestras instalaciones y oficinas. | Ejercer nuestros intereses legítimos de mantener la seguridad de nuestras instalaciones y sistemas de información. |
+| --- | --- | --- |
+
+**Nota: _Tiene derecho a oponerse al uso de sus datos personales para nuestros intereses comerciales legítimos. Si se opone, tendremos la oportunidad de demostrar que existen motivos legítimos convincentes que anulan sus derechos y libertades o que el procesamiento es necesario para el establecimiento, el ejercicio o la defensa frente a reclamaciones legales._**
+
+1. **Información de terceros**
+
+Cuando nos proporcione datos personales relacionados con otras personas, por ejemplo, su cónyuge, hijos u otros familiares, se asegurará de que antes de hacerlo, las personas en cuestión sean conscientes del hecho de que mantendremos información relacionada con ellos y que podemos utilizarla para cualquiera de los fines establecidos en este Aviso de privacidad del empleado.Los empleados deben proporcionar una copia de este Aviso de privacidad a cualquier tercero que nos proporcione sus datos personales.
+
+1. **Mantener su información actualizada**
+
+Si no proporciona cierta información cuando se le solicita, es posible que no podamos completar el proceso de solicitud, o nos podemos ver impedidos de cumplir con nuestras obligaciones legales.
+
+Le recomendamos que se asegure de que los datos personales que tenemos sobre usted sean lo más precisos y actualizados posible.Comuníquese con nosotros si desea hacer algún cambio (consulte «**Contáctenos»** a continuación).
+
+1. **Destinatarios de su información personal**
+
+Quantcast compartirá información con los empleados que necesiten conocer dicha información para hacer su trabajo, incluida la respuesta a las solicitudes o preguntas que usted pueda tener. Quantcast también puede transferir sus datos personales a otras compañías del grupo, según lo permitido en este Aviso y según la ley de privacidad de datos aplicable para los intereses legítimos de Quantcast, y para garantizar la operación efectiva del negocio de Quantcast. Puede ponerse en contacto con nosotros para obtener más información en relación con estas empresas del grupo (consulte «**Contáctenos»** a continuación).
+
+También podemos transferir o enviar su información personal a un comprador o inversor (potencial o real), en relación con una venta u otra transferencia de la totalidad o parte de nuestras acciones, activos o negocios. Tras dicha transferencia, tomaremos las medidas razonables para garantizar que las partes receptoras procesen su información de manera que cumpla con este Aviso de privacidad. El propósito de dicho procesamiento es permitir la venta o transferencia de nuestras acciones, activos o negocios, y la base legal para hacerlo es nuestro interés legítimo en poder administrar nuestro negocio mediante la ejecución de dicha venta o transferencia. Puede ponerse en contacto con nosotros para solicitar más información en relación con los destinatarios de sus datos personales (consulte «**Contáctenos»** a continuación).
+
+Ocasionalmente, será necesario que divulguemos sus datos personales a terceros, incluidos los siguientes:
+
+*   
+    1. **Proveedores de servicios**: Quantcast contrata a terceros proveedores de servicios, por ejemplo, empresas que trabajan con administración de nóminas, agencias de referencia externas, servicios de TI y en la nube, y compañías de seguros y pensiones.Esto se hace con el fin de cumplir con nuestras obligaciones en la relación laboral con usted y en nuestro interés legítimo en realizar, simplificar, administrar, operar y mejorar aún más nuestro negocio de manera efectiva.Cuando dichos procesadores de datos de terceros procesan datos personales en nuestro nombre, celebramos acuerdos con ellos para garantizar que procesen sus datos personales de acuerdo con la ley aplicable.
+    2. **Terceros**: Quantcast podrá transferir sus datos personales a terceros, como abogados, contables, auditores, etc. Dichas transferencias se realizan para cumplir con nuestras obligaciones legales y de acuerdo a los intereses legítimos de Quantcast de garantizar el funcionamiento eficaz de nuestro negocio. Además, cuando sea necesario para: cumplir con nuestras obligaciones legales en el campo de la legislación laboral o para evaluar su capacidad laboral, podemos divulgar categorías especiales de datos personales, como información sobre su salud (incluidos los certificados médicos proporcionados por usted) a terceros (p. ej., médicos), a los efectos de una evaluación médica independiente.
+    3. **Organismos gubernamentales o fuerzas del orden público:** Quantcast puede transferir sus datos personales a agencias gubernamentales, reguladores y agentes del orden público, para el cumplimiento de nuestras obligaciones legales y la protección legal de nuestros intereses legítimos. Los datos personales se compartirán con las autoridades gubernamentales o los funcionarios encargados de hacer cumplir la ley, si es necesario para los fines anteriores, si lo exige la ley o si es necesario para la protección legal de nuestros intereses legítimos, de conformidad con las leyes aplicables.
+
+1. **Verificación y comprobación de antecedentes**
+
+Cuando sea apropiado, y solo en la medida permitida por las leyes y regulaciones aplicables, realizaremos verificaciones o comprobaciones de antecedentes.
+
+Para ciertos puestos, será necesario que verifiquemos los detalles que usted ha proporcionado (por ejemplo, en relación con su identidad, historial laboral, calificación académica y credenciales profesionales), o que realicemos verificaciones de antecedentes previas al empleo (por ejemplo, en relación con condenas penales previas o situación financiera). El nivel de las verificaciones dependerá de su función, especialmente si ocupará un puesto regulado, y se realizarán en la etapa más avanzada posible del proceso de selección, frecuentemente solo después de que haya sido seleccionado para el puesto. Si su solicitud tiene éxito, le brindaremos más información sobre las verificaciones involucradas y obtendremos cualquier consentimiento necesario antes de completar dichas verificaciones.
+
+Cuando sea apropiado y solo en la medida permitida por las leyes y reglamentaciones aplicables:
+
+Realizaremos verificaciones o comprobaciones de antecedentes, solo con su consentimiento.
+
+Los resultados de la verificación y de los antecedentes pueden utilizarse para tomar decisiones sobre su contratación, promoción o despido.
+
+Si su solicitud no es aceptada debido a la información contenida en su reporte de antecedentes, le proporcionaremos lo siguiente, verbalmente, por escrito o electrónicamente:
+
+* El nombre, la dirección y el número de teléfono de la empresa de informes de antecedentes.
+* Que la empresa de informes de antecedentes no tomó la decisión de no contratarlo o promoverlo, y no puede dar razones específicas para ello.
+* Que usted tiene derecho a disputar con la compañía de informes de antecedentes la información de su reporte que sea inexacta o incompleta. Podrá hacerlo mediante el contacto con la empresa de informes de antecedentes, y de acuerdo a las instrucciones de Quantcast para disputar la información.
+* Que usted tiene derecho a obtener un reporte adicional gratuito de la compañía de informes de antecedentes. Debe solicitarlo dentro de los 60 días siguientes a la decisión del empleador.
+
+1. **Transferencias internacionales**
+
+En Quantcast operamos un servicio global, y contratamos proveedores ubicados en todo el mundo para que nos ayuden a brindar las soluciones. En consecuencia, su información personal puede transferirse fuera del país o la región en la que reside, incluso a otros países donde se encuentran nuestros centros de datos, proveedores, afiliados o socios. Cuando transferimos su información personal internacionalmente, lo hacemos de acuerdo con la ley aplicable.
+
+Si reside en el EEE, el Reino Unido o Suiza, tenga en cuenta que posiblemente necesitemos transferir su información personal a países que la Comisión Europea o el gobierno del Reino Unido no reconocen como poseedores de un nivel adecuado de protección de la información personal. Tenga en cuenta que, cuando transferimos sus datos personales internacionalmente, lo hacemos de acuerdo con las leyes aplicables. Hemos implementado medidas de seguridad adecuadas para proteger la privacidad y la integridad de los datos personales transferidos fuera del EEE, reino Unido y Suiza, incluidas las cláusulas contractuales estándar de la UE u otros contratos aprobados por el gobierno que brindan las medidas de seguridad adecuadas para dichas transferencias internacionales. Puede contactarnos a privacy@quantcast.com para solicitar una copia de nuestras Cláusulas contractuales estándar.
+
+1. **Seguridad de datos**
+
+Hemos implementado medidas de seguridad físicas, organizativas y técnicas apropiadas para proteger sus datos personales de pérdidas accidentales, acceso no autorizado, uso, alteración o divulgación.Hemos implementado pautas internas estrictas para garantizar que su privacidad esté protegida en todos los niveles de nuestra organización.Limitamos el acceso a sus datos personales solo a aquellos empleados, agentes y contratistas que tienen una necesidad comercial legítima para acceder a dichos datos.Continuaremos revisando las políticas e implementando funciones de seguridad adicionales, a medida que haya nuevas tecnologías disponibles.
+
+1. **Durante cuánto tiempo conservamos sus datos personales**
+
+(a)Si ha sido seleccionado: conservaremos sus datos personales solo durante el tiempo necesario para el interés legítimo de Quantcast, de conformidad con la legislación aplicable para el proceso de reclutamiento; y, una vez finalizado este proceso, durante un período apropiado para poder hacer frente a cualquier reclamación legal vinculada al proceso de solicitud. Los registros de reclutamiento de los solicitantes seleccionados generalmente se conservan durante 1 año. Después de este período, tomaremos medidas para eliminar sus datos personales o para conservarlos en un formato que ya no lo identifique. Como empleado de Quantcast, la información personal relevante que usted proporcione pasará a formar parte de su expediente de empleado y podrá utilizarse posteriormente para la gestión de la relación laboral, de acuerdo con el Aviso de privacidad para los empleados de Quantcast.
+
+(b)Si no ha sido seleccionado: si nos da su consentimiento conservaremos sus datos personales con su permiso durante un año, para que podamos tenerlo en cuenta para futuros procesos de reclutamiento; de lo contrario, se eliminarán después de 6 meses.
+
+1. **Sus derechos**
+
+Usted tiene ciertos derechos, contemplados en las leyes de protección de datos aplicables, que se resumen a continuación:
+
+*   
+    1. **Derecho de acceso:** tiene derecho a solicitar acceso a una copia de sus datos personales, así como a cierta información sobre cómo estamos procesando sus datos.
+    2. **Derecho de rectificación:** tiene derecho a solicitar la rectificación de cualquier dato personal inexacto o incompleto que tengamos sobre usted.
+    3. **Derecho de supresión o eliminación (derecho al olvido):** tiene derecho, en determinadas circunstancias, a solicitarnos que eliminemos sus datos personales, por ejemplo, cuando ya no sea necesario para nosotros que procesemos sus datos personales en relación con el propósito para el que fueron recogidos.
+    4. **Derecho a la limitación del procesamiento:** tiene derecho a pedirnos que detengamos el procesamiento de sus datos personales en determinadas circunstancias.
+    5. **Derecho a la portabilidad de los datos:** tiene derecho a solicitarnos que transmitamos a un tercero los datos personales que nos haya facilitado, sin impedimentos, o que le entreguemos una copia de los mismos, para que pueda transmitirlos a un tercero, donde sea técnicamente factible.
+    6. **Derecho a oponerse:** tiene derecho a oponerse a que procesemos sus datos personales en determinadas circunstancias, por ejemplo, cuando este procesamiento se base en nuestros intereses legítimos.Si es así, para continuar con el procesamiento, debemos poder demostrar motivos legítimos imperiosos que prevalezcan sobre sus intereses, derechos y libertades.
+    7. **Derecho a retirar el consentimiento:** En el caso en que solicitemos su consentimiento para procesar sus datos personales para cualquier propósito en particular, tiene derecho a retirar su consentimiento en cualquier momento (sin afectar la legalidad del procesamiento basado en el consentimiento antes de su retiro).
+
+Sus derechos estarán sujetos, en cada caso, a las restricciones establecidas en las leyes de protección de datos aplicables.Si desea revisar, verificar, corregir o solicitar la eliminación de sus datos personales, objetar el procesamiento de su información personal o solicitar que transfiramos una copia de su información personal a otra parte, comuníquese con nosotros (consulte «**Contáctenos»** abajo).
+
+1. **Cambios a este Aviso de privacidad**
+
+Nos reservamos el derecho de introducir actualizaciones y enmiendas a este Aviso de privacidad de vez en cuando.Si hacemos algún cambio, actualizaremos la fecha de la «Última actualización» en la parte superior de este Aviso de privacidad. Revise este Aviso de privacidad periódicamente para conocer las actualizaciones. También podemos notificarle de otras maneras de vez en cuando sobre el procesamiento de sus datos personales.
+
+1. **Contáctenos**
+
+Para realizar una consulta, plantear una inquietud, hacer uso de sus derechos de protección de datos o por cualquier otro motivo relacionado con este Aviso de Privacidad, comuníquese con nosotros a través de los siguientes datos de contacto:
+
+Correo electrónico: [QuantcastHR@quantcast.com](mailto:quantcastHR@quantcast.com)
+
+Si reside en el EEE, el Reino Unido o Suiza y tiene problemas, preguntas o quejas sobre los derechos enumerados anteriormente o sobre nuestro manejo o procesamiento de su información personal en cualquier aspecto, puede comunicarse con nuestro Responsable Europeo de Protección de Datos, a la dirección de correo electrónico que aparece a continuación. También puede presentar una reclamación ante la Comisión Irlandesa de Protección de Datos, cuyos datos de contacto figuran a continuación.
+
+**Responsable de Protección de Datos**
+
+Correo electrónico:dpo@quantcast.com
+
+**Comisión de Protección de Datos de Irlanda**
+
+Teléfono: 1890 252 231
+
+Correo electrónico: info@dataprotection.ie
+
+Dirección: 21 Fitzwilliam Square South, Dublín 2, D02 RD28, Irlanda.
+
 Effective Date: February 7, 2024
 
 #### Opt-Out Rights
