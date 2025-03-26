@@ -170,7 +170,7 @@ We will use your personal data when providing our products and services to you d
 * **Credit Score and Report** – using the data held on our database, we calculate your credit score and can provide a report explaining what factors have impacted that score.
 * **WebDefend** – using the details you provide to us (such as email address, telephone number and credit/debit card details), we identify and monitor potential instances of fraud by cross checking your data to that shown on websites used by fraudsters to trade personal data.
 
-These services can be obtained through our website [**www.equifax.co.uk**](http://www.equifax.co.uk/) (the “**Website**”). 
+These services can be obtained through our website [**www.equifax.co.uk**](https://www.equifax.co.uk/) (the “**Website**”). 
 
 Processing of your personal data collected either via the Website or through provision of our consumer products and services is explained in the [**MyEquifax and Website Privacy Notice**](https://www.equifax.co.uk/privacy-hub/privacy-notice).
 
@@ -863,7 +863,7 @@ You can contact us by:
 
 * **Post:** Equifax Limited, Customer Service Centre, PO Box 10036, Leicester, LE3 4FS.
 * **Website:** [**https://www.equifax.co.uk/Contact-us/Contact\_Us\_Personal\_Solutions.html**](https://www.equifax.co.uk/Contact-us/Contact_Us_Personal_Solutions.html)
-* **Equifax Online Help:** [**www.equifax.co.uk/ask**](http://www.equifax.co.uk/ask)
+* **Equifax Online Help:** [**www.equifax.co.uk/ask**](https://www.equifax.co.uk/ask)
 * **Phone:** 0333 321 4043 or 0800 014 2955
 
 Equifax has a dedicated Data Protection Officer (DPO) who can be contacted by:
@@ -934,7 +934,7 @@ Where we have indicated that our use of your personal data is necessary for us t
 
 Where processing of your personal data is based on your consent, you have the right to withdraw your consent at any time. If you decide to withdraw your consent, we will stop processing your personal data for that purpose unless there is another lawful basis that applies and we are relying on – in which case, we will let you know.
 
-Please note that in order to provide certain myEquifax products, such as those related to your credit rating, your credit reference personal data is processed as explained in the [**Equifax Credit Reference and Related Services Privacy Notice**](https://www.equifax.co.uk/privacy-hub/ein) and [**CRAIN**](http://www.equifax.co.uk/privacy-hub/crain). 
+Please note that in order to provide certain myEquifax products, such as those related to your credit rating, your credit reference personal data is processed as explained in the [**Equifax Credit Reference and Related Services Privacy Notice**](https://www.equifax.co.uk/privacy-hub/ein) and [**CRAIN**](https://www.equifax.co.uk/privacy-hub/crain). 
 
 Fraud Prevention Agencies (FPAs)
 
