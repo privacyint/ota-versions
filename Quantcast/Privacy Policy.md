@@ -939,9 +939,319 @@ In the event of any inconsistency between the terms of the Agreement and this Ad
 Key Terms
 ---------
 
-Version Version 3.2  (Current) Version 3.1 Version 3.0 Version 2.0 Version 1.0
+Version Version 3.3  (Current) Version 3.2 Version 3.1 Version 3.0 Version 2.0 Version 1.0
 
-##### Effective December 16th 2024
+##### Effective March 26th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/67e4443eea953543e60a5b0a.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Key Terms**
+=============
+
+Effective: March 25 2025
+
+Capitalized terms that are not defined in these Key Terms are as defined in the [Quantcast Products and Services Privacy Policy](https://legal.quantcast.com/#products-and-services-privacy-policy). These Key Terms are for use in understanding the Quantcast Products and Services Privacy Policy. Nothing in these Key Terms modifies any active agreement with any Quantcast customer, vendor or other business partner (e.g., agreements for the Advertise and Measure product, etc.).
+
+### Advertising Exchange
+
+See [Exchange/Advertising Exchange](#_44sinio).
+
+### Attributes/Attribute Information
+
+Attributes are known, observed, or inferred characteristics. Examples of attributes are “male” and “visited XYZ website”. Attributes may be derived from [Event Data](#_1ksv4uv), [Bid Request Data](#_tyjcwt), [Client Data](#_1t3h5sf), [Third Party Data](#_nmf14n), and [Inferences/Inferred Data](#_qsh70q). Quantcast associates attributes with [Pseudonymous Identifiers](#_vx1227).
+
+### Audience
+
+An Audience is a group of devices and/or users who are known to or are estimated to have certain common characteristics. A characteristic in common may be an [Interest](#_3as4poj), such as an interest in cooking. A characteristic in common may be an [Attribute](#_1fob9te), such as being male, visited a particular digital property, or viewed or interacted with a particular advertisement. One type of Audience is a group who have visited a Quantcast Client’s digital property. Another type of Audience is a group who have been shown, or may potentially be shown, a Quantcast Client’s advertisement.
+
+### Audience Insights
+
+Audience Insights are data collected, or data that is inferred from data collected, about an [Audience](#_3znysh7). Audience Insights are aggregated, anonymised data and are not [Personal Information](#_32hioqz). An example of an Audience Insight is a report that a given audience is estimated to be 70% male and 3 times as likely to be interested in cooking compared to the general population.
+
+Quantcast provides Audience Insights based on [Event Data](#_1ksv4uv), [Bid Request Data](#_tyjcwt), [Client Data](#_1t3h5sf), [Third Party Data](#_nmf14n), and [Inferred Data](#_qsh70q) to Quantcast Clients. Audience Insights enable Quantcast Clients to better understand the audiences who engage with their content and ads.
+
+### Bid Request/Bid Request Data
+
+A Bid Request is a request by a digital content publisher (e.g., website owner, app developer, streaming content provider, etc.) for an offer to place an ad in the publisher’s digital content. For example, when you visit an ad-supported web page, Bid Requests are sent by, or on behalf of, the publisher of the web page to multiple parties that may want to show an ad to you. Those parties can bid for the opportunity to show an ad in an auction, and an ad is selected to show on the page. Bid Requests typically go through an [Advertising Exchange](#_30j0zll). This all happens via digital communication between computer servers in less than a second. The contents of the Bid Request may include information about the ad unit (the container in the digital content that will display the ad), the digital content, the device it will be seen on, and your engagement with the publisher’s digital content, so that prospective buyers can choose whether to bid and how much. For most cases, the contents of the Bid Request are defined by the OpenRTB industry standard ([https://iabtechlab.com/standards/openrtb/](https://iabtechlab.com/standards/openrtb/)), though not all fields are necessarily included in every Bid Request. Bid Request Data consists of data provided in the Bid Request and will commonly consist of one or more [Pseudonymous Identifier](#_vx1227)s (if available), the content that the ad would serve in (such as the web page, app, video, etc.), the type of device the ad would be served on (e.g.., your device type), the approximate geographic location of your device, the size of the ad, the auction ID, and consent information, such as [TCF Signals](#_1y810tw). Bid Request Data also includes Quantcast’s response to the Bid Request, such as whether a Quantcast Client bid on the ad opportunity.
+
+### Browsing Data
+
+Browsing Data is information collected relating to your [Online](#_147n2zr) activity or behaviour. Browsing Data is generated when a [Pixels, Tags, or SDKs](#_1hmsyys) installed by a Quantcast Client on its digital property loads and sends information to us. This includes the website [URL](#_1mrcu09) of the page you are visiting, often along with a [Pseudonymous Identifier](#_vx1227), as well as fields of information that may be automatically included from [HTTP Header Information](#_z337ya), such as referral [URLs](#_1mrcu09) (which is the [URL](#_1mrcu09) that directed your browser to the website where an advertisement was served to you).
+
+Browsing Data is included in [Event Data](#_1ksv4uv).
+
+### Client Data
+
+Client Data is [Imported Data](#_4i7ojhp) that is uploaded to the Quantcast platform by a particular Quantcast advertiser Client for use on its behalf. Client Data is [Pseudonymised Information,](#_3fwokq0) which defines groups of users. These groups might typically be based on users’ [Online Data](#_147n2zr) or [Offline Data](#_23ckvvd), or other characteristics or aspects of users’ relationship with the Quantcast Client. The groups are then used by Quantcast to help deliver advertising campaigns to the right [Audiences](#_3znysh7) and assess their effectiveness, all on behalf of the Quantcast Client.
+
+### Cookie
+
+A Cookie is a small bit of text that is sent to and saved on your computer or device when you visit a website. A Cookie is associated with a single web browser profile; each web browser and browser profile that you use on your device will have separate Cookies. Cookies allow a website to recognise a browser and are commonly used to store user preferences or identifiers, which enables us to collect and use information about browsers over time and across different internet content. Cookies enable us to understand more about users and the content they are visiting over time, which in turn can be used to improve our Quantcast Clients’ advertising activities and the quality of advertising you experience. The identifiers we store in Cookies are [Pseudonymous Information](#_3fwokq0); in other words, they cannot be linked to you as an individual without technical efforts to add additional information, which Quantcast does not have. We do not attempt to link a [Pseudonymous Identifier](#_vx1227) to you as an individual, and we prohibit other parties with whom we share [Pseudonymous Identifiers](#_vx1227) or [Pseudonymous Information](#_3fwokq0) from doing the same. Browsers have controls that enable users to clear or block Cookies. See your browser help for details.
+
+There are two forms of cookies: First Party Cookies and Third Party Cookies.
+
+A “First Party Cookie” is limited in scope to a particular website you visit (“First Party Cookie”). In some instances, Quantcast is able to store or access information in a First Party Cookie. If [www.example.com](http://www.example.com/) incorporates Quantcast [Pixels, Tags or SDKs](#_1hmsyys) into their website, and if you visit www.example.com, Quantcast may set a First-Party Cookie associated with www.example.com. In these instances, Quantcast can store a [Pseudonymous Identifier](#_vx1227) in the First-Party Cookie, but because it is a First Party Cookie, Quantcast can only access that [Pseudonymous Identifier](#_vx1227) in the context of your visits to that site.
+
+A “Third Party Cookie” is a cookie associated with an internet domain that is different from the one you are visiting. For example, if you are visiting [www.example.com](http://www.example.com/) and a Quantcast [Pixel, Tag or SDK](#_1hmsyys) on that website is able to set a cookie associated with quantcast.com, that is a Third Party Cookie. That same cookie will be accessible to Quantcast on other sites that also incorporate Quantcast [Pixels, Tags or SDKs](#_1hmsyys). Quantcast uses
+
+[Pseudonymous Identifiers](#_vx1227) stored in Third Party Cookies in order to collect information across multiple websites.
+
+Quantcast Cookies placed on your device have a maximum expiry period of 13 months (or such shorter period as described in the Privacy Policy “Information Collection” section). Each time you visit a website and a First or Third Party Cookie is placed on your device, the placement of a Cookie begins a new expiry period of up to 13 months (or such shorter period as described in the Privacy Policy “Information Collection” section). All Quantcast Cookies automatically cease providing any data to Quantcast from your browser upon expiration.
+
+### Cookie ID/Identifier
+
+A Cookie ID is a unique string of characters that we store in a [Cookie](#_4d34og8) that allows us to identify a single web browser instance over time and across different web sites. Our Cookie IDs are [Pseudonymous Identifiers](#_vx1227). A [First Party Cookie](#_2jxsxqh) ID is a unique [Pseudonymous Identifier](#_vx1227) relating to the [First-Party Cookie](#_2jxsxqh) set by the owner of the website you are visiting. A [Third Party Cookie ID](#_28h4qwu) is a unique [Pseudonymous Identifier](#_vx1227) relating to the [Third-Party Cookie](#_28h4qwu) set by Quantcast.
+
+### Cookie Syncing/Matching
+
+In the online advertising industry, Cookie Syncing/Matching generally refers to a process through which two entities who each, and separately, identify a device using their own [Pseudonymous Identifier](#_vx1227) can determine which of their respective [Pseudonymous Identifiers](#_vx1227) may relate to the same device. For example, Quantcast may pseudonymously identify a device as “cookie ID 123.” Company B may pseudonymously identify the same device as “cookie ID ABC.” Cookie Syncing/Matching enables Quantcast and Company B to recognise that their respective [Pseudonymous identifiers](#_vx1227) may relate to the device that Quantcast records as “cookie ID 123”.
+
+Quantcast’s Cookie Syncing activities work similarly. If you visit a website that incorporates [Pixels, Tags or SDKs](#_1hmsyys) from Quantcast, Company B may match its own pseudonymous identifiers to Quantcast [Pseudonymous Identifiers](#_vx1227) (this creates a record of matching pseudonymous identifiers for Company B). Once a match is established, Company B can reference a particular device when communicating with Quantcast, using Quantcast’s [Pseudonymous Identifier](#_vx1227).
+
+The Cookie Syncing/Matching process does not in itself result in Quantcast sharing [Attributes](#_1fob9te) related to Quantcast [Pseudonymous Identifiers](#_vx1227) with Company B. The Cookie Syncing/Matching enables transactions between the parties at a later time; for example, in the case of an Advertising Exchange sending a Bid Request, the Bid Request can contain a previously synched [Pseudonymous Identifier.](#_vx1227)
+
+### Cross-Media Matching/Linking
+
+In the online advertising industry, Cross-Media Matching generally refers to a process through which Quantcast links identifiers across a user’s consumption of various media (e.g. audio, video, websites, apps, etc) because such identifiers are known to or [Inferred](#_qsh70q) to relate to the same user. Matching/Linking may be undertaken for consumption of media on a single device and for consumption of media on more than one device. As an example, if you visit a digital property using your mobile phone and later visit that same digital property using a browser on your laptop or make visits to several different digital properties using a browser over a period of time, Quantcast may initially determine that these visits are made by different users and assign each device user their own profile.
+
+If, however, Quantcast finds there is sufficient commonality between the [Pseudonymous Identifiers](#_vx1227) associated with the consumption of media, Quantcast will assess that those identifiers may be joined as they are likely to emanate from the same user. This assessment is“probabilistic”– in other words, it uses statistical techniques to determine that the identifiers to be matched have a higher likelihood of relating to the same device and/or user.
+
+### Data Management Platforms and Data Providers
+
+Data Management Platforms and Data Providers provide [Third Party Data](#_nmf14n) to Quantcast, or provide a platform through which Quantcast Clients can provide [Client Data](#_1t3h5sf) to Quantcast. These companies either directly licence first and third party [Audience](#_3znysh7) [Segment Data](#_1v1yuxt) from different sources (such as [Online Data](#_147n2zr) and [Offline Data](#_23ckvvd)) to businesses or provide a platform through which Quantcast Clients can collect, organise, and activate such data for Quantcast’s use in connection with the Solutions. We share [Pseudonymous Identifiers](#_vx1227) with [Data Management Platforms/Data Providers](#_26in1rg) in order to sync/match identifiers to effectively integrate with their services (see [Cookie Syncing/Matching](#_17dp8vu)).
+
+### Device ID/Identifier
+
+A unique string of characters that can be used to identify a device set by the developer of the device’s operating system (e.g., a mobile phone, tablet, TV, or console). Device Identifiers (or “Device IDs”) serve a similar purpose as [Cookies](#_4d34og8) and can be used to provide personalised advertising. A Device ID is a [Pseudonymous Identifier](#_vx1227).
+
+A Mobile Advertising ID (or “MAID”) is a Device ID assigned to a mobile device or connected TV (“CTV”) device by the device operating system. Typically, the device user can reset or turn off the ID via the device’s settings. A MAID is referred to as the IDFA (ID for Advertisers) on iOS devices and GAID (Google Ad ID) on Android mobile devices.
+
+### Device Configuration/Device Information
+
+Information about a device or its configuration, transmitted from the device, and typically associated with a [Pseudonymous Identifier](#_vx1227). The information includes device type and version, screen size and resolution, browser language, device operating system and version, browser type and version, application and version, or other information about the device. Some Device Information is derived from [HTTP Request Header Information](#_z337ya).
+
+### Email Address
+
+See Hashed Email Address
+
+### Event Data
+
+Information collected relating to your [Online](#_147n2zr) activity/behaviour, which may include [Personal Information](#_32hioqz) in [Pseudonymous Identifiers](#_vx1227), [Imprecise/Approximate Location Information](#_3whwml4), [HTTP Request Header Information](#_z337ya), [Device Information](#_35nkun2), [Browsing Data](#_3dy6vkm) and [TCF Signals](#_46r0co2). Event Data is generated when a [Pixel, Tag, or SDK](#_1hmsyys) installed on a Quantcast Client’s digital property loads and sends information to us. Event Data can also be collected from ads, when you view or click on an ad which contains a [Tag](#_2u6wntf).
+
+### Exchange/Advertising Exchange
+
+A marketplace platform that facilitates automated, real-time, auction-based buying and selling of ad inventory (which are spaces available on sites and apps to display ads). An Advertising Exchange receives [Bid Requests](#_tyjcwt) from digital publishers and forwards them to advertisers, or to entities like Quantcast who act on behalf of advertisers. Advertisers, or their agents, respond to [Bid Requests](#_tyjcwt) with a bid amount and an advertisement to provide to a user if they win the auction.
+
+### First Party Cookie
+
+See [Cookie](#_4d34og8).
+
+### Hashed Email Address
+
+A hashed email address (HEM) is an email address that has been encoded using a cryptographic hashing function. A hashed email is treated as a [Pseudonymous Identifier](#_n270so602c2d).
+
+### HTTP Request Header Information
+
+HTTP headers are defined by internet standards and contain a number of data fields designed to facilitate communication and interoperability on the internet. On the web, your web browser controls which headers are sent and what the contents are. We receive the headers when a request is sent over the internet to our system, such as when a [Pixel](#_1hmsyys) loads in your web browser. We also might receive information that has been derived from the HTTP headers from another party, such as in a [Bid Request](#_tyjcwt). We use a subset of the header fields for purposes described in the Privacy Policy, which includes:
+
+* [IP Address](#_1pxezwc)
+* [Cookie](#_4d34og8) (if available)
+* User Agent, which is a string (a line of text) that includes [Device Information](#_35nkun2).
+* Date, which includes the precise time of access
+* Referral [URL](#_1mrcu09), which is the web page you were on when the request was sent
+* TLS Session ID, which identifies a particular session of communication between the browser and the server
+* Content-Language, which is the languages of the intended audience for the enclosed content
+
+Detailed documentation related to HTTP header information can be found online in a general search for “HTTP header information fields”.
+
+### IAB Transparency & Consent Framework (“TCF”)
+
+The IAB Transparency & Consent Framework, or “TCF,” is a standardised industry program active in countries governed by the GDPR, and designed for notifying users about data [Processing](#_2grqrue) by companies involved in digital advertising on sites and apps that users visit, and for establishing a legal basis for that [Processing](#_2grqrue).
+
+The TCF is designed to be used on digital properties, such as websites and apps. The TCF incorporates a consent dialog that displays when users visit a website or app, giving them information about vendors, the data they collect, and the purposes for which they collect it. It also offers an opportunity for users to give or change their permissions for such data collection and use.
+
+The TCF allows Quantcast to work with publishers of websites and other digital properties in a consistent manner using standardised technical specifications to:
+
+(a) provide a link to Quantcast's Privacy Policy, as well as transparency about Quantcast's [Processing](#_2grqrue) of [Personal Information](#_32hioqz), the specific purposes for which Quantcast [Processes](#_2grqrue) [Personal Information](#_32hioqz), and Quantcast's legal basis for such [Processing](#_2grqrue), directly on the website or other digital property accessed by the user;
+
+(b) allow the user, in a granular manner, to express their consent or refusal to consent, to Quantcast's (i) use of [Cookies](#_4d34og8), and (ii) the purposes of Quantcast's [Processing](#_2grqrue), which are the reasons why Quantcast [Processes](#_2grqrue) the personal data of users (“[TCF Purposes”](#_3tbugp1)), including where Quantcast relies on the user’s consent for such [Processing](#_2grqrue) directly on the website or other digital property that the user is accessing;
+
+(c) allow the user to object to Quantcast's [Processing](#_2grqrue) of [Personal Information](#_32hioqz) (for purposes where Quantcast relies on legitimate interests) directly on the website or other digital property accessed by the user.
+
+Using the [TCF](#_19c6y18) allows publishers of websites or other digital properties to provide information about Quantcast’s [Processing](#_2grqrue) to users in a consistent manner. The user-facing disclosures presented by these digital properties are sourced from information that Quantcast has registered with the [TCF's](#_19c6y18) “[Global Vendor List](https://iabeurope.eu/vendor-list-tcf-v2-0/)”, a publicly accessible, machine-readable repository of information about TCF-compliant vendors, like Quantcast. This information includes Quantcast’s Privacy Policy [URL](#_1mrcu09), the purposes for which it [Processes](#_2grqrue) [Personal Information](#_32hioqz), and its legal basis for each of these purposes. As the description of these purposes and minimum standards for disclosures are standardised across all TCF participants, Quantcast knows how operators of websites or other digital properties using the TCF are making disclosures about Quantcast and can have confidence in such disclosures.
+
+In addition, the TCF enables publishers of websites or other digital properties to create and send to Quantcast a standardised technical signal that indicates (A) whether Quantcast’s transparency disclosures were provided to a user; (B) whether or not the user has consented to Quantcast’s [Processing](#_2grqrue) and/or each purpose for which Quantcast sought the user's consent; and (c) whether the user objected to Quantcast’s [Processing](#_2grqrue) and/or any purposes for which Quantcast [Processes](#_2grqrue) [Personal Information](#_32hioqz) on the basis of its legitimate interests (the “TCF Signal”).
+
+TCF Signal is collected via Quantcast [Tags](#_2u6wntf) if the digital property on which the [Tag](#_2u6wntf) is implemented has also implemented a TCF-compatible Consent Management Platform, which is a company or organisation that centralises and manages transparency for, and consent and objections of, the user (“CMP”) . In addition, TCF Signal is received by Quantcast as part of the [Bid Requests](#_tyjcwt) it receives from [Advertising Exchanges](#_2lwamvv). Quantcast is able to read the standardised TCF Signal and will only [Process](#_2grqrue) [Personal Information](#_32hioqz) for purposes to which the user has consented (where consent is the legal basis) or not objected (where legitimate interests is the legal basis) in order to provide the Solutions.
+
+Read more about the TCF here [https://iabeurope.eu/transparency-consent-framework/](https://iabeurope.eu/transparency-consent-framework/)
+
+### Imported Data
+
+Imported Data is uploaded to the Quantcast platform or provided to us via an Application Programming Interface (“API”). Imported Data is [Pseudonymised Information](#_3fwokq0), which may include information relating to your [Online data](#_147n2zr) or [Offline data](#_23ckvvd) or other information that Quantcast Clients or partners have about you. For examples of Imported Data provided to Quantcast, see [Client Data](#_1t3h5sf) or [Third Party Data](#_nmf14n).
+
+### Imported Data (Client)
+
+See [Client Data](#_1t3h5sf).
+
+### Imported Data (Third Party/Segment)
+
+See [Third Party Data](#_nmf14n).
+
+### Imprecise/Approximate Location Information
+
+Typically, in digital advertising we distinguish between precise and imprecise geolocation information.
+
+Precise geolocation usually comes from GPS coordinates from mobile devices, and can have precision up to about one meter. Quantcast does not use precise geolocation data and we request that Quantcast Clients, partners, and third parties refrain from sending precise geolocation to us. If a party inadvertently sends it, we do not use it in the Solutions and it is removed from our systems within 30 days.
+
+Imprecise geolocation is lower precision, and refers to a general geographic area, for example a country, region, city or division of a metropolitan area, and/or some combination of these, and is often derived from [IP Addresses](#_1pxezwc).
+
+### Inferences/Inferred Data
+
+Inferences, or Inferred Data, is information that is inferred from data that we have collected about a device, such as [Event Data](#_1ksv4uv), [Bid Request Data](#_tyjcwt), [Client Data](#_1t3h5sf), or [Third Party Data](#_nmf14n). Our inferences are made using algorithms that estimate the likelihood that the user of a device has particular interests or characteristics. The Inferences are then associated with a [Pseudonymous Identifier](#_vx1227) as part of a set of device [Attributes](#_1fob9te).
+
+For example, if a device frequently visits sports websites, it might be inferred that there is some probability the user of that device likes sports. Similarly, if a device frequently visits an airline provider’s website, it might be inferred that there is some probability a user of that device likes to travel. Other Inferences include things such as [Interests](#_3as4poj), income range, gender, age, marital status, and other socio-economic information.
+
+Inferences associated with any individual device have a high degree of uncertainty. Inferences become more accurate when used to estimate the characteristics of a large group of devices, like an [Audience](#_3znysh7).
+
+### Interests
+
+Interests are known, observed, or inferred non-demographic characteristics. Interests are associated with [Pseudonymous Identifiers](#_vx1227) to characterise particular interests of users. Examples of Interests include “cooking” and “outdoor activities”. Interests may be derived from [Event Data](#_1ksv4uv), [Bid Request Data](#_tyjcwt), [Client Data](#_1t3h5sf), [Third Party Data](#_nmf14n), and [Inferences/Inferred Data](#_qsh70q).
+
+### IP Address
+
+An IP (“Internet Protocol”) Address is a unique numerical label corresponding to a computer or device. Computers use IP Addresses to identify each other and know where to send information over the Internet. For example, when you open a web page in your browser a request is made to a server for the web page content. The server knows where to send the content based on the IP Address contained in the request. Computers or other devices are assigned an IP Address from the network the device is on. A device’s IP Address may change over time or as a device changes locations. Also, an IP Address can refer to multiple devices, for example if the devices are behind an internet router.
+
+### Labels/Label Data
+
+Labels, or Label Data, are descriptors associated with [Pseudonymous Identifiers](#_vx1227) to denote particular groups of users that can be subsequently used to index all [Pseudonymous Identifiers](#_vx1227) associated with that label. An analogy would be applying a “label” to messages in an email inbox - you might decide to label messages from work as “Work,” family members as “Family,” and so on. These labels then help you readily index and recall particular categories of email.
+
+Labels processed by Quantcast are:
+
+* Labels from [Data Management Platforms and Data Providers](#_26in1rg) : these are category Labels (e.g., male, female, age 21-24) acquired from third party data partners relating to a [Pseudonymous Identifier](#_vx1227);
+* Custom-[Client Data](#_1t3h5sf) Labels: these are custom category labels set by Quantcast Clients corresponding to a device associated with the identifier visiting their digital property (e.g., byline of the news article accessed by the user) or product name (of the product accessed by the user).
+* [Inferred Data](#_qsh70q) Labels: these are inferred category Labels about a user using a device associated with a [Pseudonymous Identifier](#_vx1227), e.g., inferred age, inferred gender, inferred interest.
+
+Example Labels are “male” and “visited XYZ website”. Labels may be inferred information (see [Inferences/Inferred Data](#_qsh70q)) or may be [Imported Data](#_4i7ojhp) (see [Client Data](#_1t3h5sf) and [Third Party Data](#_nmf14n)).
+
+### Log Data
+
+Log Data is an industry term that is generally used to refer to data collected from interactions with computer systems, and is used differently by different companies. For purposes of describing our [Processing](#_2grqrue), we use more precise terms, such as [Pseudonymous Identifiers](#_vx1227), [Event Data](#_1ksv4uv), [Bid Request Data](#_tyjcwt), [Client Data](#_1t3h5sf), [Third Party Data](#_nmf14n), and/or [Inferences/Inferred Data](#_qsh70q), which are all types of data that can be subsumed within the general industry term “Log Data.” Some elements within Log Data, when isolated from the [Pseudonymous Identifiers](#_vx1227), will not qualify as [Personal Information](#_32hioqz). For example, a single time zone and publisher [URL](#_1mrcu09) without an associated [Pseudonymous Identifier](#_vx1227) would not qualify as [Personal Information](#_32hioqz).
+
+### Online Data
+
+Data relating to a user’s interaction with digital media including websites, apps and streaming media services.
+
+### Offline Data
+
+Data relating to a user’s real-world purchases and/or activity.
+
+### Panel
+
+A Panel is a set of individuals who have consented to participate in market research and share information about themselves, their preferences and interests for purposes of research and market analytics.
+
+This information can then be used as the basis for learning or making inferences about a larger population. For example, if a number of people on a Panel share that they visit a particular news website, and of those people, most of them are male and over the age of 50, we might extrapolate from that and say that most of the audience for that website is male and over 50.
+
+Another way to use Panel data is to compare Panel results to the estimates that we have made using our algorithms in order to score the effectiveness of our algorithms. So, if our algorithm predicted for the same news website that most of the audience is under 30, we would learn that our algorithm might be wrong.
+
+### Personal Information
+
+Personal Information refers to information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, to you, your browser, or your device. We use the term “personal information” to refer to information that is subject to protection under data protection and privacy laws and regulatory regimes around the world. Depending on the jurisdiction, such information may be referred to as “personal data.”
+
+The Personal Information [Processed](#_2grqrue) by Quantcast is limited to [Pseudonymised Identifiers.](#_vx1227) Quantcast does not [Process](#_2grqrue) [Personal Information](#_32hioqz) that directly identifies you as an individual, and that can be used to directly identify you without technical efforts to add additional information, which Quantcast does not have.
+
+### Pixels, Tags, and SDKs
+
+Pixels, Tags, and SDKs are computer code embedded in a website, mobile applications, and advertisements that we use to enable the Solutions. We tend to use the terms Pixels, Tags, and SDKs interchangeably. Quantcast Clients that use the Solutions can put them on their sites, in their apps, or in their ads in order to send us information that is then used in the Solutions. When a Pixel, Tag, or SDK loads and calls our servers, we receive [HTTP Header Information](#_z337ya), along with other information that is configured by the Quantcast Client who is using the Solutions. That information includes IDs from partners, so we know which partner the data is coming from.
+
+Pixels, Tags, and SDKs include:
+
+* Sync Pixels: These are used to exchange and match [Pseudonymous Identifiers](#_vx1227) between companies that participate in the digital advertising market. By matching, they can synchronise these identifiers to deliver and measure ads.
+* Tags or Pixels in ads: When a digital ad loads on a page, it can include a Tag or Pixel that we use on behalf of Quantcast Clients to gather information about where and when the ad was served. This can help to measure ad performance, to ensure ads are shown where intended, and to learn in order to improve ad effectiveness.
+* Tags or Pixels on publisher Clients’ web pages: For publisher Clients that use the Solutions, they can put our Tags on their sites. The information we collect then enables the Client to learn about their audience, and it enables us to build models for better targeting ads.
+* Tags or Pixels used by advertiser Clients: When advertiser Clients use our Tags or Pixels, they send us information so we can learn about their customers in order to help them better target their ads.
+* SDKs: SDKs are bits of computer code that mobile app publisher Clients incorporate into their apps, enabling them to send us information. Similar to Pixels or Tags, the information enables us to offer the Solutions as described in our Privacy Policy.
+
+### Probabilistic Identifier
+
+A Probabilistic Identifier is a [Pseudonymous Identifier](#_vx1227) which we create by combining [Pseudonymous Identifiers](#_vx1227) (such as [IP Addresses](#_1pxezwc)) with [Bid Request Data](#_tyjcwt) and/or [Event Data](#_1ksv4uv) using non-deterministic, statistical methods to estimate the likelihood that a group of devices may be used by the same user or household, if applicable law or rules allow. For example, we might be able to determine that because a mobile phone and a TV are on the same network, they are likely in the same house. We can then use that information to select and measure ads. Unlike using [Cookie IDs](#_2s8eyo1), this approach is not 100% accurate and could identify one or many devices.
+
+### Process
+
+Refers to any operation or set of operations performed upon [Personal Information](#_32hioqz) or sets of [Personal Information](#_32hioqz), whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
+
+### Pseudonymous Identifiers
+
+Pseudonymous Identifiers are unique values that distinguish your browser profile(s) or device(s). Pseudonymous Identifiers cannot reveal your real-life identy without technical efforts to add additional information, which Quantcast does not have or do. We do not attempt to link Pseudonymous Identifiers we hold to you as an individual, and we prohibit other parties with whom we share Pseudonymous Identifiers from doing the same.
+
+Pseudonymous Identifiers are important in digital advertising because they help distinguish browsers or devices over time across different contexts. This is useful for example, to limit the number of times that we show the same ad to one device, to measure the performance of ads, and to target and select personalised ads.
+
+We may incorporate any one of the following types of information in a Quantcast Pseudonymous Identifier:
+
+* Third Party Cookie ID: see [Cookie ID](#_2s8eyo1).
+* First Party Cookie ID: see [Cookie ID](#_2s8eyo1).
+* [IP Addresses](#_1pxezwc).
+* [Hashed email addresses](#_n4w09y2ozw7i)
+* Third party identifiers
+* [Device ID](#_lnxbz9).
+* Application ID: an ID that is unique to your mobile device and a particular app on your device.
+* Application Session ID: like an application ID, except that it is reset periodically (e.g., many browsers reset these after 30 minutes of inactivity).
+* Exchange User ID: an ID that is sent to us with a [Bid Request](#_tyjcwt) that identifies the device or browser where an ad is to be shown.
+* [Probabilistic Identifier](#_41mghml).
+* Publisher User ID: digital publishers that use the Solutions can send us an ID to use in the Solutions. The digital publisher hashes or encrypts an identifier available to it. The resulting ID is pseudonymous because it does not directly identify you, but it would be consistent across different publishers, so the Publisher User ID can be used to match data.
+* TLS Session ID: when you visit a website [URL](#_1mrcu09) that starts with “https” instead of “http”, that means you have an encrypted connection between your browser and the site. If one of our [Pixels, Tags or SDKs](#_1hmsyys) loads on the site, that call to our server will also be encrypted. The Session ID identifies a particular session of communication between the browser and the server.
+
+### Pseudonymous/Pseudonymised Information
+
+Pseudonymised Information is [Personal Information](#_32hioqz) that has been [Processed](#_2grqrue) in such a manner that the information can no longer be attributed to a specific user without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal information is not attributed to a specific user.
+
+### Segment Data
+
+Segment Data is imported data that is uploaded to the Quantcast platform or provided to us via an API by [Clients](#_1t3h5sf) or [Third Party Data Partners](#_nmf14n). Segment Data is [Pseudonymised Information](#_3fwokq0), which may include [Online Data](#_147n2zr) and/or [Offline Data](#_23ckvvd) as well as [Attributes](#_1fob9te), [Inferences](#_qsh70q), or [Interests](#_3as4poj) inferred from that data. This category of information is typically called “Segment Data” because it identifies groups of users who fall into advertising segments (e.g., “auto buyers,” “shoe shoppers,” or “women 25-35”). These segments represent groups of users that share (or that are inferred to share) one or more certain characteristics in common (e.g., a client may want to advertise to a segment of “male shoppers who are interested in sports fashion”). These groupings are created by using the intersection of different segments (in the example given, an audience that is simultaneously in the “male”, “shopper”, and “sports fashion” segments). A segment may be identified with a [Label](#_49x2ik5) (in which case it is referred to as “[Label Data](#_49x2ik5)”).
+
+### Software Development Kit (SDK)
+
+See [Pixels, Tags, and SDKs](#_1hmsyys).
+
+### Tag
+
+See [Pixels, Tags, and SDKs](#_1hmsyys).
+
+### TCF
+
+See [IAB Transparency & Consent Framework](#_1y810tw).
+
+### TCF Purpose/Special Purpose/Feature/Special Feature
+
+The [TCF](#_19c6y18) has standardised certain Purposes, Special Purposes, Features and Special Features and the descriptions of data processing activity in the digital advertising industry. Through this standardisation, the digital advertising industry can ascribe consistent meanings for the permissions that data subjects give via the [TCF](#_19c6y18). This also ensures a consistent experience for users because they then do not have to read and understand an entirely different set of Purposes, Special Purposes, Features, and Special Features for each website they visit.
+
+Because of the benefits of standardising the purposes across the industry, we use the [TCF](#_19c6y18) to establish the legal basis to [Process](#_2grqrue) [Personal Information](#_32hioqz) governed by the GDPR, and use the Purposes, Special Purposes, Features, and Special Features in our Privacy Policy to describe much of our data processing activity.
+
+For detailed descriptions of TCF Purposes, Special Purposes, Features, and Special Features, see [IAB Transparency & Consent Framework](#_1y810tw).
+
+### Third Party Cookie/Cookie ID
+
+See [Cookie](#_4d34og8).
+
+### Third Party Data
+
+Third Party Data is [Imported Data](#_4i7ojhp) that is uploaded to the Quantcast platform or provided to us via API by third party [Data Management Platforms and Data Providers](#_26in1rg). Third Party Data may include [Segment Data](#_1v1yuxt).
+
+### Training Data
+
+Training Data is [Pseudonymous Information](#_3fwokq0) that we receive from Quantcast Clients and third party data providers, where the actual [Attributes](#_1fob9te) or [Interests](#_3as4poj) of the underlying users are known (even though their actual identities are not known to Quantcast). The Training Data is segmented across various [Interests](#_3as4poj) and [Attributes](#_1fob9te), such as shopping interests (e.g., automotive, technology, or restaurants), business and occupation (e.g., management, IT professional or retail), media interests (e.g., cinema, video games, TV), income range, age, marital status, and other socio-economic information and used for data modeling purposes. We use the Training Data to train statistical models to make [Inferences](#_qsh70q). When our systems subsequently receive [Event Data](#_1ksv4uv) relating to a user, we can infer whether the [Event Data](#_1ksv4uv) displays characteristics similar to the Training Data. If the [Event Data](#_1ksv4uv) displays characteristics that are similar to the Training Data, we can infer from that the likely [Attributes](#_1fob9te) and [Interests](#_3as4poj) of the user to whom the [Event Data](#_1ksv4uv) relates. These [Inferences](#_qsh70q) are then used to deliver advertising and provide aggregated, analytical reporting to our Quantcast Clients.
+
+### URL (Uniform Resource Locator)
+
+A URL, also known as a web address, is a reference to a unique web resource that specifies its location on a computer network. Most commonly, a URL points to a web page. URLs can also point to a document, image, video, etc. URLs often use plain text, such as [www.quantcast.com](http://www.quantcast.com/); in that case, the domain name must be processed by a Domain Name Server in order to convert the domain name into an [IP Address](#_1pxezwc).
+
+##### Effective December 16th 2024  to  March 26th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/6760a712b9b0d4c2730b284d.pdf)
 
@@ -4968,9 +5278,865 @@ If you are a resident of the EEA, you also have the right to lodge a complaint a
 Quantcast Products and Services Privacy Policy
 ----------------------------------------------
 
-Version Version 5.2  (Current) Version 5.1 Version 5.0 Version 4.0 Version 3.0 Version 2.0 Version 1.0
+Version Version 5.3  (Current) Version 5.2 Version 5.1 Version 5.0 Version 4.0 Version 3.0 Version 2.0 Version 1.0
 
-##### Effective December 16th 2024
+##### Effective March 26th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/67e443ff46f4cc44ef6e8292.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Products and Services Privacy Policy**
+========================================
+
+This Policy takes effect on March 25 2025.
+
+[Products and Services Privacy Policy](#_gjdgxs)
+
+[Who we are and what we do](#_30j0zll)
+
+[Scope of this Privacy Policy](#_vzccaqv9qnxj)
+
+[Self-regulatory standards](#_qhdflh3wo5ir)
+
+[Information collection](#_2et92p0)
+
+[Information use and legal basis](#_fx68ye2m5t7h)
+
+[Information sharing](#_ckzev9puv755)
+
+[Information security](#_vyaqonja1y9c)
+
+[Information retention](#_rjfkak8jzdzk)
+
+[International transfers](#_lnxbz9)
+
+[Your choices and legal rights](#_mrd0d9mm2otr)
+
+[Additional information for EEA, UK, and Switzerland residents](#_bxh0goj3tskj)
+
+[Additional information for residents of certain U.S. states](#_gtsgdsjwodpu)
+
+[Contact us](#_4i7ojhp)
+
+[Changes to this Privacy Policy](#_2xcytpi)
+
+Capitalised terms used in this Products and Services Privacy Policy (the “Privacy Policy”) are defined in [Key Terms](http://quantcast.com/privacy/key-terms) unless otherwise defined herein.
+
+To exercise your Data Subject Rights (described in the [Your choices and legal rights](#_mrd0d9mm2otr) below), please visit the [Quantcast Privacy Choices](https://www.quantcast.com/privacy-choices/) page.
+
+Who we are and what we do
+-------------------------
+
+Quantcast (“we”, “our”, or “us”) is a global digital advertising technology group of companies. Quantcast offers Solutions that help digital advertisers and publishers (collectively, “Clients”) understand and grow their client base. Through Quantcast Advertise Solutions, advertiser Clients can plan, activate, and measure the performance of their advertising campaigns seamlessly in a single audience platform, which helps them to place their ads to maximise results. Through Quantcast Measure Solutions, digital publisher Clients leverage insights to better understand the makeup of their audiences, how audiences spend their time across their digital properties, and what audiences care about, all of which help these digital businesses better connect their content and Audiences with the right advertising. We will refer to all of these services as “Solutions.”
+
+To provide the Solutions, Quantcast collects and uses Personal Information for various purposes, such as measuring and understanding audiences, targeting and delivering ads, measuring ad performance, and similar related purposes. As described in the [Information Collection](#_2et92p0) section below, we may join or match Personal Information about you, which may include your Online Data from your visits across different digital properties, like websites,mobile apps, or streaming media devices (such as connected TVs (“CTVs”)), that have implemented Quantcast Pixels, Tags or SDKs (which is sometimes called “tracking” in the industry) or Offline Data . This allows us, for example, to enrich our existing data sets and provide meaningful reports for our Clients regarding the effectiveness of their ads or content. We may also combine Personal Information that we collect in order to probabilistically link media consumption to a single user, which is sometimes called Cross-Media Matching/Linking. To the extent that we combine Personal Information that we collect from and about you in connection with our performance of the Solutions, we will use such combined information only as described in this Privacy Policy.
+
+This Privacy Policy describes in more detail how we collect, use, disclose, and protect Personal Information, otherwise obtain and Process it in connection with the delivery of the Solutions, and the controls we provide you to manage such information and exercise your choices and legal rights. As noted in the [Information use and legal basis](#_fx68ye2m5t7h) section below, we use the [Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/) (“TCF”) standard to facilitate compliance with applicable laws in Europe, primarily in accordance with the EU and UK General Data Protection Regulation (“GDPR”). Because the TCF is one means of explaining Processing activities, and because our Processing activities are consistent globally, the TCF Purposes are applicable to all Personal Information that we Process (regardless of the information’s country of origin).
+
+In the United States, the Solutions are provided by Quantcast Corporation, located at 795 Folsom Street, San Francisco, CA 94107. Personal Information relating to individuals located within the United States provided to or gathered by us in connection with the delivery of the Solutions is controlled by Quantcast Corporation.
+
+Outside of the United States, the Solutions are provided by Quantcast International Limited, located at Beaux Lane House, Lower Mercer Street, Dublin 2, Ireland. In so far as Quantcast acts as a “controller” (as defined under applicable law), Quantcast International Limited is the controller of your Personal Information if you reside in the European Economic Area (EEA), United Kingdom (UK), Switzerland, or any other jurisdiction outside of the United States.
+
+Scope of this Privacy Policy
+----------------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+This Privacy Policy covers Quantcast’s use of Personal Information for the Solutions only. This Privacy Policy does not cover:
+
+* Personal Information collected from our website, www.quantcast.com, except to the extent that we use our own Solutions on our website. It also does not pertain to the collection and use of Personal Information in connection with our corporate functions, such as marketing, recruiting, people management, business-to-business communications, and so forth. For our privacy policy relating to our website and our corporate functions, please click [here](https://legal.quantcast.com/#quantcast-website-and-corporate-privacy-policy).
+* Any third parties’ handling of Personal Information, unless explicitly stated otherwise. We encourage you to review the privacy policies of any other companies that you engage or interact with to understand their information handling and privacy practices.
+
+We use some phrases in this Privacy Policy that are unique to our business and/or the digital advertising industry. For a list of defined terms that you should familiarise yourself with to make it easier to review this Privacy Policy, please review the [Key Terms](http://quantcast.com/privacy/key-terms).
+
+For clarity, we want to note that in some circumstances, Quantcast may also process certain Personal Information described in this Privacy Policy as a processor/service provider.
+
+California Notice at Collection: We collect the categories of Personal Information listed in the [Additional information for residents of certain U.S. states](#_gtsgdsjwodpu) section below. As further described in the [Information use and legal basis](#_fx68ye2m5t7h) section below, we collect this information in order to deliver the Solutions and conduct our business. To learn more, please see the [Additional information for residents of certain U.S. states](#_gtsgdsjwodpu) section.
+
+Self-regulatory standards
+-------------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+Quantcast supports and participates in several digital advertising self-regulatory organisations, as further described below.
+
+* We are members of the [Network Advertising Initiative (NAI)](https://thenai.org/).
+* We participate in the Digital Advertising Alliance (DAA) and adhere to the [DAA Self-Regulatory Principles](https://youradchoices.com/principles).
+* We participate in the European Interactive Digital Advertising Alliance (EDAA) and are certified under the [EDAA Principles](http://www.edaa.eu/european-principles/).
+* We participate in, and comply with, the policies and technical specifications of the [IAB Transparency and Consent Framework (TCF)](https://iabeurope.eu/transparency-consent-framework/) as a vendor. Quantcast’s IAB Europe-assigned identification number is Vendor ID #11.
+
+Please see the [Your choices and legal rights](#_mrd0d9mm2otr) section of this Privacy Policy for more information about the opt-out tools offered by the NAI, DAA, and EDAA.
+
+Do Not Track (“DNT”) is a preference that you can set in certain web browsers to inform the websites you visit that you do not want information about your online activity collected over time and across third-party websites or online services. We do not honor DNT at this time, due to the lack of a clear industry standard. Please visit the [Quantcast Privacy Choices](https://www.quantcast.com/privacy-choices/) page for your opt-out options.
+
+Information collection
+----------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+We collect or receive Personal Information about or relating to you in various ways, including from digital properties, like websites, mobile apps, or streaming media devices (such as connected TVs (“CTVs”), and other sources of digital content. Details about the categories of Personal Information we collect and receive, the source or manner in which we obtain each category of Personal Information, the purpose(s) for which we Process each category of Personal Information, and the retention period for each category of Personal Information we Process can be found in the table below. As described in the [Who we are and what we do](#_30j0zll) section, where applicable the Processing purposes identified in the table below are tied to the TCF Purposes outlined in the [Information use and legal bases](#_fx68ye2m5t7h) section.
+
+Category and Description of Personal Information
+
+Source of Personal Information
+
+Purpose for Processing (including where relevant the TCF Purpose) and Retention Period
+
+Pseudonymous Identifiers: unique values that distinguish your browser profile(s) or device(s).
+
+Examples include a Cookie ID, device IP Address, hashed email addresses, 3rd party identifiers, or other Device Identifiers or Device Configuration/ Information.
+
+Usually generated when Pixels, Tags, or SDKs are loaded by a Client on its digital property (i.e., website, mobile app, or device) and sends information to us. Different kinds of Pixels, Tags, or SDKs are used for different purposes, but the types of information generated are the same.
+
+Such information may also be received through a server- to- server connection, such as when receiving a Bid Request.
+
+.
+
+Pseudonymous Identifiers will be retained for up to 13 months for the following purposes _(NOTE: storing/accessing data on a device is the cookie lifespan - up to 13 months each time the cookie is reset)_:
+
+Store and/or access information on a device (TCF Purpose 1)
+
+Use limited data to select advertising (TCF Purpose 2)
+
+Create profiles for personalised advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+Measure advertising performance (TCF Purpose 7)
+
+Measure content performance (TCF Purpose 8)
+
+Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve services (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1 )
+
+Deliver and present advertising and content (TCF Special Purpose 2)
+
+Save and communicate privacy choices (Special Purpose 3)
+
+Match and combine data from other data sources (TCF Feature 1)
+
+Link different devices (TCF Feature 2)
+
+Identify devices based on information transmitted automatically (TCF Feature 3)
+
+Recording consent choices made by users
+
+Imprecise/Approximate Location Information: The time zone and approximate geolocation (e.g., postal code or city) of your device.
+
+Inferred or derived by Quantcast from your device’s IP Address or included in Bid Requests.
+
+Imprecise/Approximate Location Information will be retained for up to Up to 13 months for the following Purposes:
+
+Use limited data to select advertising (TCF Purpose 2)
+
+Create profiles for advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+Measure advertising performance (TCF Purpose 7)
+
+Measure content performance (TCF Purpose 8)
+
+Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve products (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1)
+
+Deliver and present advertising and content (TCF Special Purpose 2)
+
+Save and communicate privacy choices (Special Purpose 3)
+
+Match and combine data from other data Link different devices (TCF Feature 2)
+
+Identify devices based on information transmitted automatically (TCF Feature 3)
+
+Event Data: Information relating to your Online Data, which may include Pseudonymous Identifiers, Imprecise/Approximate Location Information, HTTP Request Header Information, Device Information, and Browsing Data.
+
+Generated when Pixels, Tags or SDKs, installed by a Client on its digital property, loads and sends information to us.
+
+Different kinds of Pixels, Tags or SDKs are used for different purposes, but the types of information generated are the same.
+
+  
+
+Event Data will be retained for up to 13 months for the following Purposes:
+
+Create profiles for advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+Measure advertising performance (TCF Purpose 7)
+
+Measure content performance (TCF Purpose 8)
+
+Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve products (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1)
+
+Deliver and present advertising and content (TCF Special Purpose 2)
+
+Save and communicate privacy choices (Special Purpose 3)
+
+Link different devices (TCF Feature 2)
+
+Identify devices based on information transmitted automatically (TCF Feature 3)
+
+Bid Request Data: A bid request is an offer from a digital inventory provider (e.g., a publisher or Exchange),, to show an ad on a digital property. Bid Request Data includes information about your visit to the digital property, which helps us understand where an ad will be displayed, Device Information, and who might see it.
+
+Bid Request Data also commonly includes a Pseudonymous Identifier (if available), the content that the ad would serve into, the type of device the ad would be served on, the Imprecise / Approximate Location Information of the device, the size of the ad, and consent information. Because Bid Requests include information about the content you are visiting, over time, accumulated Bid Requests may show your browsing behavior.
+
+Received from a digital inventory provider.
+
+Bid Request Data will be retained for up to 13 months for the following Purposes:
+
+Use limited data to select advertising (TCF Purpose 2)
+
+Create profiles for advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+Measure advertising performance (TCF Purpose 7)
+
+Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve products (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1)
+
+Deliver and present advertising and content (TCF Special Purpose 2)
+
+Save and communicate privacy choices (Special Purpose 3)
+
+Link different devices (TCF Feature 2)
+
+Identify devices based on information transmitted automatically (TCF Feature 3)
+
+Imported Data (Client): Pseudonymised Information, which may include Online Data, and/or Offline Data that may be apportioned by Browsing Data, Attributes, Segments, Label Data and Interests.
+
+Uploaded to the Quantcast platform or provided to us via an Application Programming Interface (“API”) by a particular Client for use on its behalf.
+
+  
+
+Imported Data (client) will be retained for up to 30 days for the following Purposes:
+
+Create profiles for advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve products (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud (TCF Special Purpose 1)
+
+(For clarity, Quantcast may retain data for a different period if instructed by a Client for which Quantcast is acting as a service provider/processor.)
+
+Imported Data (Third Party/Segment): Pseudonymised Information, which may include Online Data, and/or Offline Data that may be apportioned by Browsing Data, Attributes, Segments, Label Data and Interests.
+
+Uploaded to the Quantcast platform or provided to us via an API by third-party Data Management Platforms or Data Providers.
+
+  
+
+Imported Data (Third Party/Segment) will be retained for up to 30 days for the following Purposes:
+
+Create profiles for advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+TUnderstand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve products (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1)
+
+(For clarity, Quantcast may retain data for a different period if instructed by a Client for which Quantcast is acting as a service provider/processor.)
+
+Inferences/Inferred Data: Information drawn from the above-listed categories of information (i.e., Event Data, Bid Request Data, Imported Data (Client), and Imported Data (Third Party/Segment)).
+
+We may, for example, use information that we have collected to infer your interests, age, gender, marital status, or income range. These Inferences may include Interests and Attributes.
+
+Derived by Quantcast from previously collected Event Data, Bid Request Data, Imported Data (Client), and/or Imported Data (Third Party/Segment).
+
+  
+
+  
+
+Inferences/Inferred Data will be retained for up to 13 months for the following Purposes:
+
+Create profiles for advertising (TCF Purpose 3)
+
+Use profiles to select personalised advertising (TCF Purpose 4)
+
+Measure advertising performance (TCF Purpose 7)
+
+Measure content performance (TCF Purpose 83)
+
+Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+Develop and improve products (TCF Purpose 10)
+
+Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1)
+
+Training Data: Pseudonymous Information used to improve Quantcast’s algorithms and measure how well they are working.
+
+Received from third-party data providers and matched to Pseudonymous Identifiers.
+
+Training Data will be retained for up to 30 days for the following Purposes:
+
+TCF Purpose 3: Create profiles for advertising (TCF Purpose 3)
+
+TCF Purpose 8: Measure content performance (TCF Purpose 8)
+
+TCF Purpose 9: Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+
+TCF Purpose 10: Develop and improve products (TCF Purpose 10)
+
+TCF Special Purpose 1: Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1)
+
+Information you provide: This may include your contact details, (e.g., name, email address, or phone number) and any commentary or other information you provide when you contact Quantcast.
+
+Provided by you when you contact Quantcast.
+
+Carrying out our legitimate business purposes.
+
+Retention Period: up to 18 months
+
+Additionally, any of the categories of Personal Information described above may be Processed and retained for the following purposes.
+
+| Establishing, bringing, or defending against complaints, legal claims (including threatened or anticipated legal claims), and regulatory inquiries | Retained as needed for these purposes, including as required by applicable law. Otherwise, categories of Personal Information and associated retention periods are determined by the underlying purpose for which the Personal Information is Processed. |
+| --- | --- |
+| Responding to legal requests |
+| --- | --- |
+| Complying with relevant laws and regulations |
+| --- | --- |
+| Conducting research | Categories of Personal Information and associated retention periods are determined by the underlying purpose for which the Personal Information is Processed. |
+| --- | --- |
+| Hosting of Personal Information for above-listed purposes | Categories of Personal Information and associated retention periods are determined by the underlying purpose for which the Personal Information is Processed. |
+| --- | --- |
+
+Sensitive information
+
+We generally do not seek or permit sensitive Personal Information (e.g., information revealing an individual’s racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership; genetic or biometric data that is Processed for the purpose of uniquely identifying an individual; information concerning an individual’s health, sex life, or sexual orientation; and information relating to criminal convictions and offenses) to be used in the Solutions without your consent or by otherwise ensuring that such Processing is in accordance with applicable laws and rules.
+
+Children’s information
+
+We do not knowingly process Personal Information about data subjects considered to be children under applicable law. If a parent or guardian becomes aware that Quantcast has received Personal Information about his or her child, the parent or guardian should contact us at privacy\[at\]quantcast\[dot com. If we become aware that we have received Personal Information about data subjects considered to be children under applicable law, we will take all reasonable steps to delete such information from our files.
+
+Contractual commitments from our Clients and third-party Data Providers:
+
+We contractually require other companies that provide or make available to us Personal Information to take steps to ensure that we can lawfully Process such information, which include: (i) posting complete and accurate privacy policies that comply with applicable laws and rules and describe their Personal Information collection, use, and sharing practices; (ii) obtaining all legally-required consents and necessary permissions; and (iii) providing individuals with appropriate choices and the ability to opt out of the Processing of their Personal Information, where necessary or appropriate.
+
+Information use and legal basis
+-------------------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+As described in the [Who we are and what we do](#_30j0zll) section, we generally use the TCF as the mechanism for describing our Processing activities, and in Europe specifically for establishing our legal basis for Processing and managing users’ preferences for online personalised advertising and related activities. The TCF is designed to allow a digital business to present information and choices to users on its website relating to the Processing of their Personal Information.
+
+We Process Personal Information for the purposes for which it was collected or provided to us. The table below describes the specific purposes for which we Process the Personal Information we collect or otherwise obtain about you. This table includes:
+
+* the purposes for which Quantcast Processes Personal Information ,which are tied to the defined purposes for Processing, special purposes, and features set forth in the [TCF Policies](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/) and official technical documentation disseminated by IAB Europe where applicable(see Appendix A of the [TCF Policies](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/) for examples and illustrations of the purposes, special purposes and features)
+* a description of each Processing activity using TCF-specific terminology (to the extent applicable), and
+* the legal basis that we rely on to perform each of our Processing activities.
+
+Please note that in Europe, where we indicate that “Legitimate Interests” in accordance with the GDPR is the legal basis for Processing, we carry out the Processing in reliance on our legitimate interests or those of a third party (e.g., our Clients), provided that such interests are not outweighed by your interests or fundamental rights and freedoms.
+
+Processing Purpose / TCF Purpose (where TCF is applicable)
+
+Description of Processing Activity (using TCF Purpose terms)
+
+Legal Basis for Processing for EU/UK
+
+Storing and/or accessing information on a device (TCF Purpose 1)
+
+Cookies, Device Identifiers, or other information more fully described in association with the purposes below and in the tables above can be stored or accessed on your device for the purposes presented to you.
+
+Consent
+
+Use limited data to select advertising (TCF Purpose 2)
+
+Ads can be shown to you based on the content you’re viewing, the app you’re using, your device’s [](https://www.quantcast.com/privacy/key-terms/#imprecise-approximate-location-information)Imprecise/Approximate Location Information, or your device type.
+
+When selecting “Use limited data to select advertising”, Quantcast will:
+
+* Use real-time information about the context in which the ad will be shown, including information about the content and your device, such as: device type and capabilities, User Agent, URL, and IP Address
+* Use your device’s Imprecise/Approximate Location Information
+* Control the frequency of ads shown to you
+* Sequence the order in which ads are shown to you
+* Prevent an ad from serving in an unsuitable editorial (brand-unsafe) context
+
+Consent or Legitimate Interests, depending on the choice of the Client that is using the TCF.
+
+Where we rely on Legitimate Interests, we carry out the Processing to help our advertiser Clients meet their objectives of finding new customers and growing their brands through the delivery of relevant ads.
+
+Creating profiles for personalised ads (TCF Purpose 3)
+
+A profile can be built about you and your Interests to show you personalised ads that are relevant to you.
+
+To create or edit a profile for use in personalised advertising, Quantcast will:
+
+* Collect information about you, including your activity, visits to websites or mobile apps or streaming media, or Imprecise/Approximate Location Information
+* Aggregate Attributes and Interests and Panel-based demographic information,
+* Combine information with other information previously collected, including from across websites or mobile apps or streaming media
+
+Consent
+
+Using profiles to select personalised ads (TCF Purpose 4)
+
+When serving personalised ads, Quantcast will select personalised ads based on Personal Information collected from or about you, such as your prior activity, Interests, visits to websites or mobile apps or streaming media, Imprecise/Approximate Location Information, demographic information or Inferences.
+
+Consent
+
+Measuring advertising performance (TCF Purpose 7)
+
+Quantcast will measure the performance and effectiveness of ads that you see or interact with.
+
+In particular, to measure whether and how ads were delivered to you and how you interacted with them, Quantcast will:
+
+* Provide reporting to Clients about ads, including their effectiveness and performance
+* Provide reporting to Clients about your interactions with ads using data observed during your interaction with the ad
+* Provide reporting to Clients about the ads displayed on their properties
+* Measure whether an ad is serving in a suitable editorial environment (brand-safe) context
+* Determine the percentage of the ad that had the opportunity to be seen and the duration of that opportunity
+* Combine this information with other information previously collected, including from across websites or mobile apps or streaming media
+
+In the provision of the Solutions to some Clients, Quantcast may correlate information between entries within its own datasets that have the same Pseudonymous Identifier or with information obtained from Ad Serving, Ad Verification, or Data Management Platforms/Data Providers. We do this to provide aggregated reporting to Clients about the number of visitors to their digital properties.
+
+Quantcast does not apply Panel or similarly derived Audience Insights data to ad measurement data without a separate legal basis to apply market research to generate Audience Insights.
+
+Consent or Legitimate Interests, depending on the choice of the Client that is using the TCF.
+
+Where we rely on Legitimate Interests, we carry out the Processing to help our advertiser Clients meet their objective of ascertaining, measuring, and improving the effectiveness of their ad campaigns.
+
+Measuring content performance (TCF Purpose 8)
+
+The performance and effectiveness of content that you see or interact with can be measured.
+
+To measure content performance, Quantcast will:
+
+* Measure and report to Clients on how content was delivered to and interacted with by you
+* Provide reporting to Clients, using directly measurable or known information about your interactions with the content
+* Combine this information with other information previously collected, including from across visits to websites or mobile apps or streaming media
+
+Consent or Legitimate Interests, depending on the choice of the Client that is using the TCF.
+
+Where we rely on Legitimate Interests, we carry out the Processing to help our Clients meet their objective of executing their digital content strategies more effectively.
+
+Understanding audiences through statistics or combinations of data from different sources i.e., applying market research to generate Audience Insights (TCF Purpose 9)
+
+Market research can be used to learn more about the Audiences who visit websites, mobile apps, or streaming media, and view ads.
+
+To generate Audience Insights, Quantcast will:
+
+* Provide aggregate reporting to advertisers or their representatives (such as advertising agencies) about the Audiences reached by their ads, through Panel-based and similarly derived insights
+* Provide aggregate reporting to Clients about the Audiences that were served or interacted with content and/or ads on their properties by applying Panel-based and similarly derived insights
+* Associate Offline Data with you for the purposes of market research to generate Audience Insights (if we have declared that we will match and combine Offline Data sources)
+* Combine this information with other information previously collected, including from visits to websites or mobile apps or streaming media
+
+Consent or Legitimate Interests, depending on the choice of the Client that is using the TCF.
+
+Where we rely on Legitimate Interests, we carry out the Processing to help our Clients meet their objectives of finding new customers and growing their brands through the delivery of relevant ads and/or executing their digital content strategies more effectively.
+
+Developing and improving services (TCF Purpose 10 )
+
+Your information can be used to improve Quantcast’s existing systems and software and to develop new products.
+
+To develop and improve its products, Quantcast will:
+
+* Use information to improve its existing products with new features and to develop new products
+* Create new models and algorithms through machine learning
+
+Quantcast primarily uses Training Data to train its algorithms how to infer individuals’ Attributes and Interests in the context of the Solutions.
+
+Consent or Legitimate Interest, depending on the choice of the Client that is using the TCF.
+
+Where we rely on Legitimate Interests, we carry out the Processing to meet our organisational objective of continuously improving the Solutions for our Clients.
+
+Ensuring security, preventing and detecting fraud, and fixing errors (TCF Special Purpose 1)
+
+Your information can be used to monitor for and prevent fraudulent activity and ensure our systems and processes work properly and securely.
+
+To ensure security, prevent fraud, and debug, Quantcast will:
+
+* Ensure information is securely transmitted
+* Detect and prevent malicious, fraudulent, invalid, or illegal activity
+* Ensure correct and efficient operation of systems and processes, including monitoring and enhancing the performance of systems and processes engaged in permitted purposes
+
+Legitimate Interests
+
+We conduct the Processing to meet organisational objectives such as to maintain our IT systems; to ensure the electronic security of our business; and to detect and prevent against malicious, fraudulent, invalid, and illegal activity.
+
+Technically deliver ads or content (TCF Special Purpose 2)
+
+Your device can receive and send information that allows you to see and interact with ads and content.
+
+To deliver information and respond to technical requests, Quantcast will:
+
+* Use your device’s IP Address to deliver an ad or content over the internet
+* Respond to your interactions with an ad or content by sending you to a landing page
+* Use information about your device type and capabilities for delivering ads or content (e.g., to deliver the right size ad creative or video file in a format supported by your device)
+
+Quantcast may also match Pseudonymous Identifiers with third parties in order to deliver ads to Audiences.
+
+Legitimate Interests
+
+We carry out the Processing to help our advertiser Clients meet their objective to ascertain, measure, and improve the effectiveness of their ad campaigns.
+
+Save and communicate privacy choices (Special Purpose 3)
+
+The consent choices you make on a digital property regarding the use of your information and profiles for the purposes listed above are saved and made available to Quantcast. This is necessary to allow Quantcast to respect your choices.
+
+Legitimate Interests
+
+We carry out the Processing to meet our requirements to respect your consent choices.
+
+Matching and combining data from other sources i.e. offline data (TCF Feature 1)
+
+Offline Data can be combined with your online activity in support of one or more purposes or special purposes outlined in this table.
+
+The legal basis will depend on the TCF Purpose pursued.
+
+Linking different devices (TCF Feature 2)
+
+Different devices can be determined as belonging to you or your household in support of one or more purposes.
+
+Through Cross-Media Matching/Linking, Quantcast will:
+
+* Deterministically determine that two or more devices belong to you or your household
+* Probabilistically determine that two or more devices belong to you or your household
+
+The legal basis will depend on the TCF Purpose pursued.
+
+Receiving and using automatically sent device characteristics for identification (TCF Feature 3)
+
+Your device will be distinguished from other devices based on information it automatically sends, such as IP Address or browser type.
+
+In particular, Quantcast will:
+
+* Create an identifier using information collected automatically from your device for specific characteristics (e.g., IP Address or User Agent information)
+* Use such an identifier to attempt to re-identify your device
+
+The legal basis will depend on the TCF Purpose pursued.
+
+Establishing, bringing, or defending against complaints, legal claims (including threatened or anticipated legal claims), and regulatory inquiries
+
+We Process, preserve, and share Personal Information when we seek legal advice or seek to protect ourselves in the context of litigation and other disputes.
+
+Legitimate Interests
+
+We carry out the Processing to meet our objective of protecting ourselves and others, including in connection with investigations, litigation, and regulatory inquiries.
+
+Responding to legal requests
+
+We preserve and share Personal Information in response to legal requests from law enforcement and other government officials, to comply with a subpoena or similar legal process, and when we believe in good faith that disclosure of such information is necessary to comply with a judicial proceeding or court order.
+
+Legitimate Interests
+
+We carry out the Processing to meet our objective of protecting ourselves and others, including in connection with investigations and regulatory inquiries.
+
+Complying with relevant laws and regulations
+
+We Process Personal Information to comply with our legal obligations under applicable law.
+
+Examples of Irish and EU laws enforceable in Ireland that could give rise to an obligation requiring us to Process Personal Information we hold about you are:
+
+* Civil and commercial matters: where we are in receipt of a court order to disclose information for the purposes of court proceedings, such as under Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
+* Criminal matters: to comply with requests from Irish law enforcement to provide information in relation to an investigation, such as under Section 10 of the Criminal Justice (Miscellaneous Provisions) Act 1997 as amended by 6(1)(a) of the Criminal Justice Act 2006 or to take steps to report information to law enforcement where required
+* Consumer matters: to comply with our obligations under consumer law, such as the Competition and Consumer Protection Act 2014 (e.g., where the Irish Competition and Consumer Protection Commission requests information)
+* Corporate and taxation matters: to comply with our obligations under company legislation and tax law, such as the Companies Act 2014 or where the Irish Revenue requests information
+* Regulatory matters: to comply with our obligations under data protection laws, including to engage with regulators, such as the Data Protection Commission under the GDPR and the Data Protection Act 2018
+
+See [https://legal.quantcast.com/#laws](https://legal.quantcast.com/#laws) for the current list of laws which are enforceable in Ireland that give rise to a legal obligation for Quantcast which results in the Processing of Personal Information. As new laws may be enacted or other obligations may require us to Process your Personal Information, we will update this list from time to time.
+
+Compliance with a legal obligation.
+
+Conducting research
+
+We use Personal Information to conduct research, surveys, product testing, and troubleshooting to help us operate and improve our products and services.
+
+Legitimate Interests
+
+We carry out the Processing to meet our organisational objective of delivering and continuously improving the Solutions for our Clients.
+
+Hosting information
+
+We Process Personal Information to manage our business, which includes hosting Personal Information in our on-premise data centers and/or cloud computing services.
+
+Legitimate Interests
+
+We carry out the Processing to meet our organisational objective of delivering the Solutions to our Clients.
+
+Information sharing
+-------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+In connection with one or more of the purposes outlined in the [Information use and legal basis](#_fx68ye2m5t7h) section above, we may share your Personal Information with the categories of third parties described below.
+
+| Category of Recipient | Description and Purpose of Sharing | Categories of Personal Information Shared |
+| --- | --- | --- |
+| Quantcast-affiliated companies | We share your Personal Information with Quantcast-affiliated companies in order to provide the Solutions. | All or certain categories of Personal Information are shared only as necessary or appropriate. |
+| --- | --- | --- |
+| Our vendors (including service providers/data processors)<br><br>Visit the [Quantcast Partner Page](https://www.quantcast.com/legal/quantcast-partners/) for a list of some of our vendors. | We share your Personal Information with vendors who act on our behalf and are subject to binding contractual obligations and restrictions on the Processing of Personal Information we share with them. For example, these companies assist with information hosting, information Processing, database management, and administrative tasks. | All or certain categories of Personal Information are shared only as necessary or appropriate. |
+| --- | --- | --- |
+| Our partners, such as Data Management Platforms and Data Providers and Advertising Exchanges<br><br>Visit the [Quantcast Partner Page](https://www.quantcast.com/legal/quantcast-partners/) for a list of some of our partners | We share Pseudonymous Identifiers with companies that we partner with to support the operation of the Solutions. Specifically, Quantcast shares Pseudonymous Identifiers with 1) data providers via Data Management Platforms for the purpose of performing Cookie Syncing/Matches with Imported Data (Client) and Third Party/Segment Data, and 2) and Advertising Exchanges for the purpose of serving ads. | Pseudonymous Identifiers. |
+| --- | --- | --- |
+| Relevant third parties as part of a corporate transaction | In the event of a reorganisation, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with a bankruptcy or similar proceeding), we may share your Personal Information with (or transfer your Personal Information to) certain third parties, such as the acquiring entity and its advisors. We may also make certain information available to a potential investor or purchaser (and their advisers) in advance of any such transaction’s completion. | All or certain categories of Personal Information are shared only as necessary or appropriate. |
+| --- | --- | --- |
+| Competent governmental and public authorities | We may share your Personal Information with governmental and law enforcement authorities, in each case to comply with legal or regulatory obligations or requests. | All or certain categories of Personal Information are shared only as necessary or appropriate. |
+| --- | --- | --- |
+| Other third parties | We will share your Personal Information with other third parties at your direction or with your consent.<br><br>Additionally, we may share your Personal Information as necessary or appropriate or where otherwise permitted by law to:<br><br>* Enforce our agreements<br>* Protect our operations<br>* Protect our rights, privacy, safety, property, and/or those of other persons<br>* Allow us to pursue available remedies or limit damages that we may sustain | All or certain categories of Personal Information are shared only as necessary or appropriate. |
+| --- | --- | --- |
+
+We also create and share with our Clients insights or reports regarding the makeup of the Audiences that visit their digital properties or the performance of their advertising campaigns.
+
+Information security
+--------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+We employ appropriate organisational and technical security safeguards designed to keep Personal Information secure when it is transmitted to us and once we receive it. These measures may include encryption and employment of information storage security technologies to restrict access to our network. However, please be aware that no method of transmitting information over the internet or storing information is completely secure.
+
+Information retention
+---------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+We retain your Personal Information for as long as necessary for the purposes for which it was collected, as described in the [Information Collection](#_2et92p0) section above and in the tables below, except where we are required to retain the information for a longer period of time. Once Personal Information has reached its retention period, as applicable, we may either de-identify it (for State Privacy Law purposes, defined below), anonymise it (for GDPR purposes), or permanently delete it.
+
+| Category of Personal Information | Maximum retention period for all TCF Purposes as a Controller |
+| --- | --- |
+| Pseudonymous Identifiers | Up to 13 months (NOTE: storing/accessing data on a device is the cookie lifespan - up to 13 months each time the cookie is reset) |
+| --- | --- |
+| Imprecise/Approximate Location Information | Up to 13 months |
+| --- | --- |
+| Event Data | Up to 13 months |
+| --- | --- |
+| Bid Request Data | Up to 13 months |
+| --- | --- |
+| Imported Data (Client) | Up to 30 days |
+| --- | --- |
+| Imported Data (Third Party/Segment) | Up to 30 days |
+| --- | --- |
+| Inferences/Inferred Data | Up to 13 months |
+| --- | --- |
+| Training Data | Up to 30 days |
+| --- | --- |
+| Information you provide | Up to 18 months |
+| --- | --- |
+
+| Processing Purpose / TCF Purpose | Categories of Personal Information used for this purpose | Maximum retention period for the TCF Purpose as a Controller<br><br>_  <br>Individual categories of data may have a shorter retention period as shown above_. |
+| --- | --- | --- |
+| Store and/or access information on a device (TCF Purpose 1) | Pseudonymous Identifiers | Cookie life span is up to 13 months each time it’s reset |
+| --- | --- | --- |
+| Use limited data to select advertising (TCF Purpose 2) | Pseudonymous Identifiers Imprecise/Approximate Location Information<br><br>Bid Request Data | Up to 13 months |
+| --- | --- | --- |
+| Create profiles for personalised advertising (TCF Purpose 3) | Pseudonymous Identifiers Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Bid Request Data<br><br>Imported Data (Client)<br><br>Imported Data (Third Party/Segment) Inferences/Inferred Data<br><br>Training Data | Up to 13 months |
+| --- | --- | --- |
+| Use profiles to select personalised advertising (TCF Purpose 4) | Pseudonymous Identifiers Imprecise/Approximate Location Information<br><br>Bid Request Data<br><br>Imported Data (Client)<br><br>Imported Data (Third Party/Segment) Inferences/Inferred Data[](https://www.quantcast.com/privacy/key-terms/#inferences-inferred-data) | Up to 13 months |
+| --- | --- | --- |
+| Measure advertising performance (TCF Purpose 7) | Pseudonymous Identifiers Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Bid Request Data<br><br>Inferences/Inferred Data[](https://www.quantcast.com/privacy/key-terms/#inferences-inferred-data) | Up to 13 months |
+| --- | --- | --- |
+| Measure content performance (TCF Purpose 8) | Pseudonymous Identifiers Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Inferences/Inferred Data<br><br>Training Data | Up to 13 months |
+| --- | --- | --- |
+| Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9) | Pseudonymous Identifiers Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Bid Request Data<br><br>Imported Data (Client)<br><br>Imported Data (Third Party/Segment) Inferences/Inferred Data<br><br>Training Data | Up to 13 months |
+| --- | --- | --- |
+| Develop and improve services (TCF Purpose 10 ) | Pseudonymous Identifiers<br><br>Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Bid Request Data<br><br>Imported Data (Client)<br><br>Imported Data (Third Party/Segment)<br><br>Inferences/Inferred Data<br><br>Training Data | Up to 13 months |
+| --- | --- | --- |
+| Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1) | Pseudonymous Identifiers Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Bid Request Data<br><br>Imported Data (Client)<br><br>Imported Data (Third Party/Segment) Inferences/Inferred Data<br><br>Training Data | Up to 13 months |
+| --- | --- | --- |
+| Deliver and present advertising and content (TCF Special Purpose 2) | Pseudonymous Identifiers<br><br>Event Data<br><br>Bid Request Data | Up to 13 months |
+| --- | --- | --- |
+| Save and communicate privacy choices (Special Purpose 3) | Pseudonymous Identifiers<br><br>Imprecise/Approximate<br><br>Location Information<br><br>Event Data<br><br>Bid Request Data | Up to 13 months |
+| --- | --- | --- |
+| Match and combine data from other data sources (TCF Feature 1) | Pseudonymous Identifiers Imprecise/Approximate Location Information | The retention period will depend on the TCF Purpose pursued. |
+| --- | --- | --- |
+| Link different devices (TCF Feature 2) | Pseudonymous Identifiers Imprecise/Approximate Location Information<br><br>Bid Request Data | The retention period will depend on the TCF Purpose pursued. |
+| --- | --- | --- |
+| Identify devices based on information transmitted automatically (TCF Feature 3) | Pseudonymous Identifiers Imprecise/Approximate Location Information<br><br>Bid Request Data | The retention period will depend on the TCF Purpose pursued. |
+| --- | --- | --- |
+| Additionally, any of the categories of Personal Information described above may be Processed and retained for the following purposes. |     |     |
+| --- | --- | --- |
+| Establishing, bringing, or defending against complaints, legal claims (including threatened or anticipated legal claims), and regulatory inquiries | Retained as needed for these purposes, including as required by applicable law. Otherwise, categories of Personal Information and associated retention periods are determined by the underlying purpose for which the Personal Information is Processed. |     |
+| --- | --- | --- |
+| Responding to legal requests |
+| --- | --- | --- |
+| Complying with relevant laws and regulations |
+| --- | --- | --- |
+| Conducting research | Categories of Personal Information and associated retention periods are determined by the underlying purpose for which the Personal Information is Processed. |     |
+| --- | --- | --- |
+| Hosting information | Categories of Personal Information and associated retention periods are determined by the underlying purpose for which the Personal Information is Processed. |     |
+| --- | --- | --- |
+
+International transfers
+-----------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+Quantcast operates a global service, and we engage vendors located around the world to help us deliver the Solutions. Accordingly, your Personal Information may be transferred outside of the country or region in which you reside, including to the United States and other countries where either our data centers, vendors, affiliates, or other partners are located. Where we transfer your Personal Information internationally, we do so in accordance with applicable law.
+
+If you are based in the EEA, UK, or Switzerland, please note that we may need to transfer your Personal Information to countries that have not been recognised by the [European Commision](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) and/or the [UK government](https://www.gov.uk/government/publications/uk-approach-to-international-data-transfers/international-data-transfers-building-trust-delivering-growth-and-firing-up-innovation#uk-adequacy) as providing an adequate level of protection for Personal Information. We generally use EU Standard Contractual Clauses (to facilitate both controller-to-controller and controller-to-processor transfers) or other government-approved contracts that provide appropriate safeguards for Personal Information that is transferred to countries that have not been recognised as providing an adequate level of protection. You can contact us at privacy\[at\]quantcast\[dot\]com to request a copy of our Standard Contractual Clauses.
+
+In certain limited circumstances, we rely on other lawful mechanisms for international transfers of Personal Information or rely on derogations, such as the contractual necessity derogation.
+
+**Your choices and legal rights**
+---------------------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+Under applicable law, you may have certain rights in relation to your Personal Information. Additional details about the rights that you may have and how to exercise such rights can be found below.
+
+* **Right of access**: The right to request access to your Personal Information and receive certain information, including the categories of your Personal Information we collect and disclose. To exercise this right, see our [Data Subject Request Form](https://www.quantcast.com/privacy/data-subject-rights/).
+* **Right of rectification/correction**: The right to request that we rectify (or correct) inaccurate Personal Information about you. In practice, if you seek to exercise your right of rectification/correction, due to the limited Personal Information we Process, we satisfy this right by providing you with the option to request deletion of your Personal Information. To request the deletion of your Personal Information, see our [Data Subject Request Form](https://www.quantcast.com/privacy/data-subject-rights/).
+* **Right of erasure/deletion**: The right, in certain cases, to request that we delete your Personal Information, provided there are valid grounds for doing so and subject to applicable law and exceptions. To exercise this right, see our [Data Subject Request Form](https://www.quantcast.com/privacy/data-subject-rights/).
+* **Right to data portability**: The right, in certain cases, to receive a copy of your Personal Information in a structured, commonly used, and machine-readable format and transmit such information to another controller. To exercise this right, see our [Data Subject Request Form](https://www.quantcast.com/privacy/data-subject-rights/).
+* **Right to object (marketing)**: The right to object to the Processing of your Personal Information for direct marketing purposes. In practice, we satisfy this right by providing you with the option to opt out of our Processing of your Personal Information for advertising purposes. To exercise this right, see our [Privacy Choices Page](https://www.quantcast.com/privacy-choices/).
+* **Right to object (legitimate interests)**: The right to object to the Processing of your Personal Information where we Process it on the basis of our legitimate interests, as described in the [Information Use and Legal Bases](#_fx68ye2m5t7h) section above. Unless we have compelling legitimate grounds or the information is needed for the establishment, exercise or defense of legal claims, we will cease Processing your Personal Information when you object. To exercise this right, see our [Privacy Choices Page](https://www.quantcast.com/privacy-choices/).
+* **Right to restrict Processing**: The right, in certain cases, to temporarily restrict our Processing of your Personal Information, provided there are valid grounds for doing so. In practice, if you seek to exercise your right to restrict the Processing of your Personal Information, we will treat it as an exercise of the right on an ongoing, rather than temporary, basis (i.e., the request will be treated as you exercising the right to object to the Processing of your Personal Information). To exercise this right, see our [Privacy Choices Pag](https://www.quantcast.com/privacy-choices/)[e](https://www.quantcast.com/opt-out/).
+* **Right to withdraw your consent**: The right to withdraw the consent you have provided at any time, where we Process your Personal Information on the basis of your consent. Please note that the lawfulness of any Processing undertaken prior to your withdrawal of consent shall not be affected by the withdrawal. To exercise this right, see our [Privacy Choices Page](https://www.quantcast.com/privacy-choices/).
+* **Right to lodge a complaint**: The right to complain to the relevant authority regarding the Processing of your Personal Information by us or on our behalf. In the EU, the lead supervisory authority is the [Irish Data Protection Commissioner.](https://forms.dataprotection.ie/contact) See the section [Contact Us](#_4i7ojhp) below.
+
+Please note that the rights listed above may not be exercised in certain circumstances, such as when the Processing of your Personal Information is necessary to comply with a legal obligation to which we are subject or for the exercise or defense of legal claims. Additionally, in order to protect your privacy, we may require proof of your identity before we can act on your request but only where it is necessary and proportionate to request this information.
+
+If you are based in the EEA, UK, or Switzerland and have issues or questions about the above-listed rights, you may contact our European Data Protection Officer via [dpo \[at\] quantcast \[dot\] com](mailto:dpo@quantcast.com).
+
+If certain jurisdictions, including the EEA, UK, or Switzerland, you also generally have the right not to be subject to a decision when it is based on automated Processing (i.e., an operation that is performed without any human intervention), if it produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services). Please note that Quantcast does not make decisions based solely on automated Processing that produce a legal effect or similarly significantly affect individuals.
+
+We will not discriminate against you for exercising your privacy rights.
+
+Additional information for EEA, UK, and Switzerland residents
+-------------------------------------------------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+If you are located in the EEA, UK, or Switzerland, please note that the Solutions are provided by our European entity, Quantcast International Limited. In Processing Personal Information in the context of providing the Solutions to our Clients, Quantcast Internal Limited generally acts as a data controller. More specifically, Quantcast International Limited is a joint controller along with its Client when we jointly determine the purposes for which your Personal Information will be Processed. For example, we are joint controllers with Clients for Personal Information that is collected as Quantcast Cookies, or using Pixels, Tags and SDKs deployed by our Clients on their digital properties, and for the Processing of other Personal Information introduced into the Solutions directly by the Client. This is because both Quantcast and the Client have influence over whether and how we collect and Process the Personal Information. In limited situations, Quantcast is the sole data controller of Personal Information when we are Processing it for our own independent purposes, for instance when we use a Quantcast Pseudonymous Identifier or we derive aggregated analytics for modeling, developing our algorithms, or improving the Solutions.
+
+**Your choices and legal rights**
+
+Under applicable law, you may have certain rights in relation to your Personal Information. Additional details about the rights that you may have and how to exercise such rights can be found in the [Your choices and legal rights](#_mrd0d9mm2otr) section above.
+
+If you are based in the EEA, UK, or Switzerland and have issues or questions about the above-listed rights, you may contact our European Data Protection Officer via [dpo \[at\] quantcast \[dot\] com](mailto:dpo@quantcast.com).
+
+If you are based in the EEA, UK, or Switzerland, under applicable law, you also generally have the right not to be subject to a decision when it is based on automated Processing (i.e., an operation that is performed without any human intervention), if it produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services). Please note that Quantcast does not make decisions based solely on automated Processing that produce a legal effect or similarly significantly affect individuals.
+
+Additional information for residents of certain U.S. states
+-----------------------------------------------------------
+
+_See_ [_Key Terms_](http://quantcast.com/privacy/key-terms) _for definitions of capitalized terms._
+
+Certain U.S. states\* have enacted consumer privacy laws that grant their residents certain rights and require additional disclosures (“State Privacy Laws”). If you are a resident of one of these states, this section applies to you.
+
+_\*California, Colorado, Connecticut, Florida, Montana, Oregon, Texas, Utah, Virginia_
+
+**Additional Disclosures**
+
+Above, in the [Information Collection](#_2et92p0), [Information Use and Legal Basis](#_fx68ye2m5t7h), [Information Sharing](#_ckzev9puv755), and [Information Retention](#_rjfkak8jzdzk) sections, we explain how we collect, use, disclose, and retain information about you. As required by certain State Privacy Laws, below, we use a table to explain this same information, including the categories of personal information we collect, the types of entities to which we disclose it, and the ways we use each category of information. The table explains our practices today and over the preceding 12 months.
+
+_Collection, Use, and Disclosure of Personal Information for Business Purposes_
+
+| **Category of Personal Information**<br><br>_We collect…._ | **Categories of Recipients**<br><br>_We may disclose personal data to…._ | **Use of Personal Information**<br><br>_We use personal data…_ |
+| --- | --- | --- |
+| * **Identifiers**, such as IP Address,hashed Email Address and other similar Pseudonymous Identifiers.<br>* **Internet or other electronic network activity information**, including browsing history and information regarding your interactions with websites or mobile apps or streaming media.<br>* **Geolocation data**, such as Imprecise/Approximate Location Information derived from device IP Addresses.<br>* **Inferences**, which refers to inferences drawn from any of the information in these categories of Personal Information to predict the individual’s characteristics. | * **Our affiliates and vendors**<br>* **Our partners** | * **To provide the Solutions which** help our Clients meet their objectives of finding new customers and growing their brands through the delivery of relevant ads and/or executing their digital content strategies more effectively, including showing ads targeted to your interests, understanding the effectiveness of the ads we show, and reporting our findings to our Clients. |
+| --- | --- | --- |
+
+**Other Details About Our Information Practices**
+
+* We do not “sell” the personal information of any individuals as those terms are defined in State Privacy Laws.
+* We do not knowingly collect personal information about consumers considered to be children under applicable laws.
+* Where we Process information that may be “sensitive” under the State Privacy Laws, we do so with your consent or by otherwise assuring that such Processing is in accordance with applicable laws and rules.
+
+**Your Privacy Rights**
+
+_Opting Out of Targeted Advertising and Sharing_
+
+Some of the activities described in the [Information Sharing](#_ckzev9puv755) section may be considered processing of your information for “targeted advertising” purposes or “sharing” under the State Law that applies to you. You can opt out of Quantcast identifier/cookie-based ad targeting by following the prompts at our [Privacy Choices Page](https://www.quantcast.com/privacy-choices/). You may also opt out of web-based ad targeting by enabling legally-recognized opt-out preference signal, such as the Global Privacy Control (“GPC”), a preference that you can set in certain web browsers to inform the websites you visit that you do not want information about your online activity sold, shared, or used for targeted advertising as such terms are defined under State Privacy Laws. Please visit our [Privacy Choices Page](https://www.quantcast.com/privacy-choices/) for more information about GPC.
+
+_Access, Deletion, Correction_
+
+Depending on your state of residence, you may have the right to request access to, or deletion or correction of, your personal information. If you are interested in exercising one or more of the rights outlined above, please click the relevant link in the [Your choices and legal rights](#_mrd0d9mm2otr) section above. You may also submit requests by contacting us via email at [privacy \[at\] quantcast \[dot\] com](mailto:privacy@quantcast.com). We will attempt to verify your identity and respond to your request consistent with the State Privacy Laws.
+
+_Appeals_
+
+If we deny your request, you may have the right to appeal our decision by contacting us at [privacy \[at\] quantcast \[dot\] com](mailto:privacy@quantcast.com). If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.
+
+_Authorized Agents_
+
+Depending upon where you reside, you may work with a natural person or business entity (an “Authorized Agent”) to submit rights requests on your behalf.
+
+If you are an authorized agent seeking to make an opt-out request on behalf of a consumer, please visit our [Privacy Choices Page](https://www.quantcast.com/privacy-choices/).
+
+If you are submitting a rights request as an Authorized Agent, you may be required to submit proof of your authorization to make the request, such as a valid power of attorney or signed permission from the individual who is the subject of the request. We may also require you to verify your identity directly with us. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a consumer, please \[contact us via email at privacy \[at\] quantcast \[dot\] com\].
+
+_Nondiscrimination_
+
+We will not discriminate against you for exercising your privacy rights.
+
+_CCPA Annual Report_
+
+The California Consumer Privacy Act (CCPA) Regulations require businesses such as Quantcast to disclose metrics regarding the number of requests to know, delete, and opt-out. Information about annual data requests is available in the [CCPA Annual Report](https://legal.quantcast.com/#ccpa-transparency-report).
+
+Contact us
+----------
+
+If you have any questions about this Privacy Policy or our information handling practices, please feel free to contact us.
+
+Individuals located in the United States, please contact us at:
+
+Quantcast Corp.
+
+795 Folsom Street
+
+San Francisco, CA 94107
+
+Email: privacy\[at\]quantcast\[dot\]com
+
+Individuals located outside of the United States, please contact us at:
+
+Quantcast International Limited
+
+Beaux Lane House
+
+Lower Mercer Street
+
+Dublin 2, Ireland
+
+Email: privacy.qil \[at\] quantcast \[dot\] com
+
+The Data Protection Officer (DPO) for Quantcast International Limited can be contacted at:
+
+HelloDPO Law Limited
+
+23 Cottingham Way
+
+Thrapston, Northamptonshire
+
+NN14 4PL
+
+If you are a resident of the EEA, UK, or Switzerland, you also have the right to lodge a complaint against us with our lead supervisory authority, the [Irish Data Protection Commission](https://www.dataprotection.ie/docs/Home/4.htm), or the [supervisory authority](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) in your country of residence.
+
+**Changes to this Privacy Policy**
+----------------------------------
+
+We may revise this Privacy Policy from time to time to reflect changes in our practices with respect to the collection, use, and/or disclosure of [Personal Information](https://www.quantcast.com/privacy/key-terms/#personal-information) or changes in applicable law. The “Last Updated” date at the top of this page indicates when this Privacy Policy was last updated. Any changes will become effective when we post a revised version of this Privacy Policy unless otherwise specified.
+
+Some of our changes will be minor, but if we make significant changes to how we use or share your [Personal Information](https://www.quantcast.com/privacy/key-terms/#personal-information), we will:
+
+* inform you in advance by posting a notice on our website
+* wait for a period of time before implementing the changes
+
+We encourage you to review this Privacy Policy periodically to remain informed about our information handling and privacy practices.
+
+##### Effective December 16th 2024  to  March 26th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/6760a77b4189a5fd3c7d6fbd.pdf)
 
