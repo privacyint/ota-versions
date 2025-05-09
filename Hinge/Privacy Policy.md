@@ -175,7 +175,7 @@ This policy may change over time. We’re always looking for new and innovative 
 
 If you have questions about this Privacy Policy, you have different options below:
 
-**If you live in the European Economic Area, the United Kingdom or Switzerland:**
+**If you live in the European Economic Area or Switzerland:**
 
 Online: [here](https://hingeapp.zendesk.com/hc/en-us/articles/360004792234-How-can-I-make-a-Data-Request)
 
@@ -190,7 +190,25 @@ Dublin
 D02 PY28  
 Ireland
 
-For more information on how to contact the data protection officer, please click [here](https://hingeapp.zendesk.com/hc/en-us/articles/19577664626195-How-do-I-contact-Hinge-s-Data-Protection-Officer).
+For more information on how to contact the data protection officer, please click [here](https://hingeapp.zendesk.com/hc/en-us/articles/19577664626195-How-do-I-contact-Hinge-s-Data-Protection-Officer).  
+  
+**If you live in the United Kingdom:**
+
+Online: [here](https://hingeapp.zendesk.com/hc/en-us/articles/360004792234-How-can-I-make-a-Data-Request)
+
+By post:
+
+UK GDPR Representative: Prighter Group
+
+rep\_hinge@prighter.com
+
+20 Mortlake Mortlake High Street
+
+London SW14 8JN
+
+United Kingdom
+
+UK GDPR Representation certificate and representative details [here](https://www.google.com/url?q=https://app.prighter.com/portal/19979232692&sa=D&source=docs&ust=1746820547186706&usg=AOvVaw1daV5gbKi_1tOrb8HaE_7H).
 
 **If you live outside the European Economic Area, the United Kingdom, Switzerland and Japan:**
 
