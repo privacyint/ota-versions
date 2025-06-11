@@ -3243,9 +3243,95 @@ Other Matters
 Privacy Implementation for Quantcast Advertiser Partners
 --------------------------------------------------------
 
-Version Version 3.2  (Current) Version 3.1 Version 3.0 Version 2.0 Version 1.0
+Version Version 3.3  (Current) Version 3.2 Version 3.1 Version 3.0 Version 2.0 Version 1.0
 
-##### Effective August 26th 2024
+##### Effective June 11th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/684996f999f9c91c1f64a163.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Privacy Implementation for Quantcast Advertiser Partners
+
+Effective August 26th 2024
+
+This Privacy Implementation for Quantcast Advertiser Partners documents certain privacy-related responsibilities for advertisers and agencies, which are in addition to the [US State Data Privacy Addendum](https://legal.quantcast.com/#us-data-privacy-addendum) and the [International Data Privacy Addendum](https://legal.quantcast.com/#international-data-privacy-addendum) (collectively, the “DPAs”). If there is any conflict between this document and the DPAs, the DPAs are the controlling documents.
+
+Privacy regulation around the world is dynamic. Quantcast may update this document from time to time at its own discretion in order to keep pace with changes in privacy rules and risks, and industry best practices, as well as to ensure users’ rights are honored appropriately.
+
+Quantcast may take reasonable measures to ensure that data processed in its services is collected and processed in accordance with privacy rules and industry best practices. We may review locations where data is collected and may refuse to accept data that is not collected in a manner consistent with the approaches described in this document.
+
+Terminology
+
+This document uses “user” or “users” as interchangeable with “data subject” or “consumer” or other equivalent terms from various rules.
+
+When we say rules, we mean laws, regulations, and industry self-regulatory codes that are applicable to the processing of personal data in relation to Quantcast’s services. Quantcast has a global footprint, including operations in the EU, the UK, and the US (including California), so those jurisdictions’ rules are applicable to Quantcast for data about users who reside in those jurisdictions.
+
+We also will use “personal data” as interchangeable with terms such as, “personal information.” Personal data processed by Quantcast’s service is pseudonymous, including but not limited to IP address, cookie or device IDs, and other identifiers used for advertising-related purposes. In the case where a partner has express permission from Quantcast to use email address, phone number, or other directly identifying information, such information will be pseudonymized (usually hashed or encrypted,) according to Quantcast specifications, before transmitting to Quantcast.
+
+Industry standards and self-regulatory programs
+
+Quantcast supports and participates in industry self-regulatory programs, and generally implements industry standards and best practices when it comes to handling personal data. Partners and clients are responsible for ensuring their own implementation of self- regulatory rules and industry best practices, in particular related to providing transparency and choice to users in places where data is collected or used by Quantcast’s services.
+
+Controller, processor, service provider, vendor, etc.
+
+Unfortunately, terms describing the relationships between parties sharing data are not interchangeable. Quantcast determines its role based on applicable law and the facts of its processing of personal data. In many relationships with advertiser partners or clients, Quantcast is a controller or joint controller, because of the role that Quantcast plays in defining exactly how data is used. This does not mean Quantcast has unfettered rights to use this data; rather, Quantcast’s use of the data is usually restricted by contractual limitations. If you have questions about this, please consult your agreement or ask your account representative.
+
+**Advertisers**: Where the EU GDPR or the UK GDPR applies, Quantcast is a joint controller of personal data collected using Quantcast tags and pixels and of other personal data introduced into Quantcast’s services by the advertiser. Where US state privacy law applies, Quantcast acts as a “third party” in the State of California and as a “processor” or such similar designation for all other applicable US states.
+
+Notice/Transparency and Choice
+
+Laws, self-regulatory rules, and industry best practice require users be notified about processing of personal data, and be offered a choice – either opt in or opt out — with respect to that processing.
+
+When deploying Quantcast tags or pixels, or otherwise introducing data into Quantcast’s services, partners and clients are responsible to make sure that users are given notice and choice that is required for Quantcast to be able to collect and process the data. And, of course, partners and clients have to make sure of notice and choice for their own personal data collection and processing.
+
+Generally, notice must include the fact that third parties are collecting and processing users’ data, along with information about the data collected, the means of collection, the purposes for processing (including interest-based advertising), and how users can exercise their choices. Laws or rules in some jurisdictions would require that Quantcast be specifically identified in the notice and a link to Quantcast’s [privacy policy](https://legal.quantcast.com/#products-and-services-privacy-policy) be included.
+
+Quantcast’s methods of collection include, depending on particular circumstances, cookies, pixels, JavaScript tags, probabilistic device matching and cross-device matching (using passively collected data).
+
+Quantcast implements choice using industry standard methods and will be responsible for honoring that choice with respect to personal data within Quantcast’s services.
+
+For their part, partners and clients need to provide access to the choice using industry standard and legally compliant methods, depending on the applicable laws and rules. Usually this means providing access to choose within other privacy disclosures, including in a privacy policy.
+
+In all cases, partners and clients should have user-facing privacy policies that are prominently linked from their homepages and from content (sites, apps, etc.) where personal data are collected or used.
+
+Privacy policies will adhere to applicable laws, as well as industry self-regulatory requirements and industry best practices. At minimum, policies should disclose the fact that third parties are collecting personal data for advertising-related purposes, and should describe the methods of collection, as described above. Particular circumstances and applicable rules may create additional requirements.
+
+Where consent (opt-in) is required prior to setting cookies or collecting data, such as in Europe under ePrivacy, the GDPR, and the UK GDPR, partners and clients are responsible to make sure that tags or pixels don’t fire until that consent is obtained.
+
+**EU and the UK**: The industry standard means for ensuring notice and choice for vendors like Quantcast in the EU and the UK is the IAB Europe Transparency and Consent Framework. Quantcast is vendor ID 11. Quantcast’s required purposes and associated legal bases are viewable in the Global Vendor List. Because Quantcast is subject to European law, the TCF should be used for all users in the EU or the UK, even if the client or partner has no operations in Europe. Alternatively, such partners and clients may elect not to introduce data about EU or UK users into Quantcast’s services.
+
+Partners and clients not using the TCF for EU or UK users need to use a legally compliant alternative means to ensure Quantcast’s legal basis for using cookies, where applicable, and for processing the data. This includes that Quantcast must be identified as a controller of the user’s personal data, and a link to Quantcast’s privacy policy must be provided. Quantcast may in the future require TCF.
+
+Privacy policies in the EU and the UK need to include a link to the European Interactive Digital Advertising Alliance (EDAA) opt out page, located at youronlinechoices.com.
+
+**US**: In the US, along with other requirements laid out here, privacy policies need to include links to an industry standard opt out page, like those offered by the NAI or DAA.
+
+**California**: The CCPA applies for users in California. Partners and clients need to provide users with notice of their “sale” and “share” opt-out rights and the ability to exercise such rights, as applicable.
+
+**Other US states**: Applicable state privacy law applies for users in Colorado, Connecticut, Utah, and Virginia. Partners and clients need to provide users with notice of their “sale” and “targeted advertising” opt-out rights and the ability to exercise such rights, as applicable.
+
+**US State Privacy Addendum**: The processing of US users’ personal data in connection with Quantcast’s services shall be governed by the US State Privacy Addendum, [which is available here](https://legal.quantcast.com/#us-data-privacy-addendum).
+
+Access and Deletion
+
+Under applicable law, including the EU GDPR, the UK GDPR, and the US state privacy laws, as a joint controller or third party, Quantcast will be responsible for providing users access to their personal data that is within Quantcast’s services, and for deleting personal data after it receives (or is notified of) a user’s request.
+
+Other Matters
+
+**Sensitive data**. Because Quantcast’s services are not intended for processing data regarded as “sensitive” or “special category” under applicable law (including data revealing racial or ethnic origin, political opinions, or parties, religious or philosophical beliefs, trade union membership or related to health status or treatment) or data about children under the age of 18 or such other age specified by applicable laws, partners and clients must not transmit to Quantcast or cause Quantcast to collect any such data. Quantcast tags and pixels may not be deployed on content that is directed at children under the age of 18 or such other age specified by applicable laws. Sensitive or special category data includes the types of data listed in Article 9 of the EU GDPR, Section 1798.140 of the CCPA (as amended by the CPRA), or any equivalent term under applicable law. Sensitive data also includes any data that qualifies as “consumer health data” under the Washington My Health My Data Act, 2023 Wash. Laws 191 or any other equivalent laws.
+
+**Directly identifying personal data**. Quantcast’s services are not designed to process directly identifying personal data, such as names or email addresses, and partners and clients may not send such information to Quantcast or cause Quantcast to collect it. If a partner has express permission from Quantcast to use email address, phone number, or other directly identifying information, such information will be pseudonymized (usually hashed or encrypted,) according to Quantcast specifications, before transmitting to Quantcast.
+
+**Reidentification**. Under no circumstances will clients and other partners use any information collected or generated by Quantcast’s services to identify an individual user.
+
+Copyright © 2025, [Quantcast](https://www.quantcast.com/)
+
+##### Effective August 26th 2024  to  June 11th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/66cccdd0395590629a4d3be5.pdf)
 
@@ -13347,9 +13433,207 @@ We encourage you to review this Privacy Policy periodically to remain informed a
 Quantcast Buyer Terms
 ---------------------
 
-Version Version 5.3  (Current) Version 5.2 Version 5.1 Version 5.0 Version 4.0 Version 3.0 Version 2.0 Version 1.0
+Version Version 5.4  (Current) Version 5.3 Version 5.2 Version 5.1 Version 5.0 Version 4.0 Version 3.0 Version 2.0 Version 1.0
 
-##### Effective March 6th 2025
+##### Effective June 11th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/6849984c74903e7eedbb99f2.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**QUANTCAST BUYER TERMS**
+
+**Last Updated: June 5, 2025**
+
+_If Company has an active, duly executed contract for one or more of the Services, that existing agreement will govern Company’s use of such Services within the scope of such agreement instead of these Quantcast Buyer Terms (“_**_Agreement_**_”)._
+
+This Agreement is a legally binding contract between Quantcast and Company. “**Company**” means (A) when an individual accepts this Agreement on his or her own behalf, such individual, or (B) when an individual accepts this Agreement on behalf of a company or other legal entity, that company or legal entity. “**Quantcast**” means (X) Quantcast Corp. if Company is domiciled in the United States, (Y) Quantcast Australia Pty. Ltd. if Company is domiciled in any country or territory located in the Asia Pacific (APAC) region and (Z) Quantcast International Limited if Company is domiciled in any other country or territory.
+
+Quantcast may modify this Agreement. Quantcast will notify Company by making the revised version available on this page or an identified successor page, and an updated revision date will indicate that changes have been made. If Company does not accept the changes, Company must stop using the Services. Company’s continued use of the Services after Quantcast publishes changes means that Company consents to the updates.
+
+**1.** **Incorporated Terms**
+
+This Agreement incorporates the following additional terms (“**Incorporated Terms**”), as updated from time to time:
+
+* [Quantcast Campaign Policy](https://legal.quantcast.com/#campaign-policy) (“**Campaign Policy**”)
+* [Privacy Implementation for Quantcast Buyers](https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners) (“**Privacy Implementation**”)
+* [US State Data Privacy Addendum](https://legal.quantcast.com/#us-data-privacy-addendum), to the extent the Services include processing Personal Information subject to U.S. State Privacy Laws (as defined in such Addendum) (“**DPA**”)
+* [International Data Privacy Addendum](https://legal.quantcast.com/#international-data-privacy-addendum), to the extent that the Services include processing Personal Data subject to International Privacy Laws (as defined in such Addendum) (also “**DPA**”)
+* Any applicable [Additional Terms](https://legal.quantcast.com/#additional-terms-ad-buyer) (defined below)
+
+**2.** **Services**
+
+2.1. “**Services**” means the Quantcast platform (“**Platform**”) and, to the extent provided by Quantcast under this Agreement, Campaign Tags, Platform Data, and any other services provided by Quantcast. The Services may permit Company to purchase ad placements on third-party media (e.g., webpages, apps, video, and other content/properties) (“**Inventory**”) that are made available by third-party providers (“**Inventory Providers**”) and Third-Party Services (defined below). For clarity, the “Services” do not include Inventory or Third-Party Services.
+
+2.2. Some Services may be subject to different or additional terms (“**Additional Terms**”) that are described on the Additional Terms page linked above, in the Platform or otherwise made available to Company in writing. Unless the parties agree in writing for Quantcast to provide campaign management services or professional services, the Services do not include those services.
+
+**3.** **Accounts and Authorized Users**
+
+3.1. Company will ensure its account information is accurate and current. Company will promptly notify Quantcast of any accidental disclosure or unauthorized use of Company access credentials. Quantcast
+
+may review and, if needed, correct, the information and setup associated with Company’s account and Authorized Users. Company must obtain Quantcast’s prior written consent before adding third-party Authorized Users (i.e., non-employees) and Quantcast may require such third-party Authorized Users to enter into separate terms with Quantcast.
+
+3.2. “**Authorized User**” means an individual authorized by Company to use Company’s account on the Platform. Each Authorized User must use unique access credentials. Company is solely responsible for all Authorized Users, the level of permissioning of each Authorized User, and all activity under its account, including the confidentiality of all access credentials. Without limiting the foregoing, Company will immediately notify Quantcast of any accidental disclosure or unauthorized use of any access credentials. Company will ensure that all Authorized Users use Company’s account solely on behalf of Company, and are aware of, and comply with, this Agreement. For the avoidance of doubt, Company is liable for any breach of this Agreement by any Authorized User.
+
+**4.** **Company Clients**
+
+If Company is using the Services on behalf of third-party clients (“**Clients**”), Company represents and warrants that it has all rights and authorizations needed to do so. Company will only use the Services for Clients with which Company has a direct written agency agreement and will obligate its Clients to comply with this Agreement, including the Incorporated Terms. Company is responsible for the actions and/or inactions of Clients and for ensuring their compliance.
+
+**5.** **Fees and Payment**
+
+5.1. Fees will be provided in the Platform or by other written means.
+
+5.2. Unless Quantcast approves a different payment arrangement in writing, Company authorizes Quantcast to charge amounts owed under this Agreement to Company’s credit card, via automatic ACH, or such other similar payment method, at Quantcast’s option. Company will provide its most current credit card and/or other information required to complete payment, and keep such information updated if it changes. For the avoidance of doubt, if Company makes credit card, wire transfer or ACH payments or such other similar payment method, Company agrees to the applicable third-party terms as set forth in the Additional Terms. If Quantcast authorizes Company to pay invoices in arrears, Company will pay invoices within thirty (30) days of the invoice date. Quantcast may revise Company’s credit limit, require prepayment, or adjust permitted payment methods at any time in its sole discretion. Quantcast may charge interest at a rate of 2% per month (or the legal maximum, whichever is lower) for late payments. Company is responsible for reasonable out-of-pocket costs that Quantcast incurs to collect unpaid invoices. All payment obligations are non-cancelable and all amounts paid for Services provided are non-refundable. If Company requires a purchase order to make payments, Company will include the corresponding purchase order number in the Platform. All amounts due must be paid without setoff or deduction.
+
+5.3. Company is solely responsible for all amounts due for any Third-Party Services that Company opts to use. Company acknowledges that any charges for Third-Party Services shown in the Platform or otherwise provided by Quantcast are based on the information Quantcast receives from the third parties and are subject to the final amounts charged by such third parties.
+
+5.4. Quantcast is the system of record and is solely responsible for calculating all metrics related to the Services, including all amounts owed under this Agreement. Company acknowledges that all metrics, fees and other amounts shown in Platform are preliminary and final amounts will be as confirmed, invoiced or billed by Quantcast.
+
+5.5. All charges under this Agreement are exclusive of all taxes and duties, if any. Company is responsible for and must pay all sales and use or other transactional taxes and duties including interest and penalty imposed on the amounts charged hereunder, or from the performance of this Agreement for which Quantcast issues an invoice. Company will promptly reimburse Quantcast for any such tax or duty and indemnify Quantcast and hold Quantcast harmless for any such taxes and duties that Quantcast must pay to a tax authority for which Company is responsible. If Company claims a tax exemption, Company must provide Quantcast with appropriate exemption certificates or documentation charges (including, without limitation, VAT or GST) acceptable to tax authorities.
+
+**6.** **Services License and Requirements**
+
+6.1. Company may use the Services solely as set forth in this Agreement. Subject to this Agreement, Quantcast grants Company a limited, non-exclusive, non-transferable, and non-sublicensable license to
+
+(a) access and use the Services on a self-serve basis, and (b) use the Platform Data presented via the Services solely for the purpose of using the Services.
+
+6.2. Company will obtain all rights necessary to perform tracking and analytics, and store and serve the advertisements (“**Ads**”) associated with Company’s campaigns (“**Campaigns**”). Company will not use the Services with Ads, Company Media, other content or products or services that violate any applicable laws, regulations, third-party rights, or this Agreement including the Incorporated Terms. If Company asks Quantcast to take actions on behalf of Company or otherwise assist with Company’s use of the Services, Company consents to the actions and/or inactions that Quantcast takes on its behalf and retains sole responsibility for such assisted use of the Services.
+
+6.3. Company will not: (a) attempt to circumvent any Services security measure, (b) share its access credentials, (c) grant direct or indirect access to the Services to any third-party (other than an Authorized User of a Client, if applicable), (d) reproduce, distribute, modify, prepare derivative works of, translate, reverse engineer, reverse compile, or disassemble the Services, including Platform Data, (e) introduce viruses or other malware into the Services or to end users, (f) share reports generated by the Services with any third-party (other than the relevant Client who is obligated to treat such reports confidentially) or (g) use information collected during the course of Campaigns (e.g., via Company’s own tag, third party tags, etc.) outside Company’s use of the Services, including to create or enrich profiles of individual end users, including regarding third-party media (e.g., webpages, apps, video and other content/properties) that the end users have visited or the content or general interest area of such media. For example, Company may not create an audience of a particular publisher’s end users based on information derived or obtained by using the Services.
+
+6.4. For the avoidance of doubt, Quantcast may collect analytics information about its customers’ use of the Services (e.g., how Authorized Users engage with the Platform user interface, etc.) for purposes of understanding how its customers use the Services and providing, customizing, and improving the Services.
+
+6.5. Quantcast reserves the right but not the obligation to place the AdChoices icon (or a similar icon) on Ads that do not already include such icon.
+
+6.6. Except as expressly set forth in this Agreement, neither party grants the other party any rights, express or implied, and each party reserves all rights. If Company provides Quantcast with feedback regarding the Services, Company hereby grants Quantcast a perpetual, irrevocable, fully paid up right and license to such feedback, without accounting, attribution, or compensation to Company.
+
+**7.** **Data Issues**
+
+7.1. Data Definitions**:**
+
+7.1.1. “**Aggregated Data**” means generalized, combined data from numerous campaigns of multiple Quantcast customers, including Company, that concerns campaign parameters, goals, or performance results of such campaigns and that does not permit identification of Company or any other Quantcast customer of the Services.
+
+7.1.2. “**Campaign Data**” means the campaign-related reporting data generated in the course of the Services and provided to Company under this Agreement, such as Campaign performance reports. For the avoidance of doubt, Campaign Data does not include Tag Data.
+
+7.1.3. “**Campaign Tag**” means a tag, pixel or other element provided by Quantcast to Company for Company or Clients to place on Company Media to enable the collection of Tag Data under this Agreement. For clarity, the term “Campaign Tags” does not refer to any ad serving tags or Measure tags provided by Quantcast (i.e., if Company elects to use Quantcast ad serving or Quantcast Measure).
+
+7.1.4. “**Company Data**” means all information and materials that are onboarded to Company’s account in the Platform, whether directly or via a third-party (e.g., an onboarding service provider).
+
+Without limiting the foregoing, Company Data includes all Campaign parameters (the data entered into the Platform for a Campaign such as name, budget, targeting strategy, etc.), Tag Data and any data onboarded by or on behalf of Company (e.g., first and/or third-party audiences and other data). Company Data is a subset of Company’s Confidential Information.
+
+7.1.5. “**Company Media**” means the Ads, websites, apps and other digital properties and content on which Company or Clients place Campaign Tags.
+
+7.1.6. “**Model**” means the predictive profile of shared attributes and characteristics of a group of end users that Company desires to reach in a Campaign, created algorithmically by deriving observations from Company Data and Platform Data. For the avoidance of doubt, Models do not include any data at individual end user level or any end user-level identifiers that may be used to distinguish one end user from another end user (such as an end user ID or IP address).
+
+7.1.7. “**Platform Data**” means the data residing in the Platform or otherwise generated or used in connection with the Services that does not constitute Company Data or Campaign Data, including Aggregated Data, Models, and third-party data (“**Third-Party Data**”). Some Platform Data may be presented to Company in the Platform user interface while other Platform Data may be used by the Platform on the back end (i.e., behind the scenes) to provide the Services. Platform Data is a subset of Quantcast’s Confidential Information.
+
+7.1.8. “**Tag Data**” means the data collected via Campaign Tags.
+
+7.2. Company Data: As between the parties, Company Data is the exclusive property of Company and/or the applicable Client. As to all Company Data (whether provided by Company, Client or a third-party on Company’s or a Client’s behalf), Company represents and warrants that it has sufficient rights to provide Company Data for use by Quantcast in compliance with this Agreement. Quantcast may use Company Data solely in compliance with the DPAs (including to create Models for Company, deliver Campaigns and create audience insights, etc.). Quantcast will not share Company
+
+Data with any third-party except to the extent that Company requests third-party services that utilize Company Data (e.g., third-party measurement), Company Data is included as a customary field in the data accessible to Inventory Providers and other technical service providers (e.g., bidstream and reporting data) or as otherwise authorized by Company. In addition, Quantcast may use non- Company-identifiable inferences made from Tag Data to produce, and as contained in, the Aggregated Data.
+
+7.3. Platform Data: As between the parties, Platform Data is the exclusive property of Quantcast (or its third-party partners). Company may use Platform Data (whether directly, to the extent presented to Company in the Platform, or indirectly, to the extent used by the Platform to enable the Services) solely internally and solely for the purpose of using the Services as described in this Agreement. As to any Platform Data that Company can access and export using the self-serve features of the Platform, Company will not share such Platform Data with any third-party except, if applicable, Company’s Client(s) that such Platform Data pertains to and/or third-party service providers who are each under confidentiality restrictions, and subject to the terms of this Agreement_._ If Quantcast provides Company with Platform Data outside the self-serve features of the Platform (e.g., further detail about available audiences, etc.), such Platform Data is subject to any applicable Additional Terms. Company will not attempt to extract or recreate any Third-Party Data or other Platform Data that is not readily accessible via the normal functionality presented in the Platform or assemble similar data or audience segments itself (directly or indirectly through a third-party) on the basis of Third-Party Data or other Platform Data or information derived from the use of such data under this Agreement.
+
+7.4. Campaign Data: Company may use Campaign Data for its internal business purposes provided that (a) it complies with its privacy policy, (b) it complies with the terms of this Agreement, and (c) it does not disclose Campaign Data to any third-party except, if applicable, Company’s Client(s) that such Campaign Data pertains to and/or third-party service providers who are each under confidentiality restrictions, and subject to the terms of this Agreement. Quantcast may use Campaign Data (i) to provide the Services, and (ii) within a customary field in the data accessible to Inventory Providers and other technical service providers (e.g., bidstream and reporting data) or as otherwise authorized by Company.
+
+7.5. Models: Models reside solely within the Platform and are not directly accessible to Company. Company’s license above includes the ability to use Models as an integrated part of the Services, solely for the purpose of selecting and gaining insights about the end users that Company wishes to reach with its Campaigns. Quantcast will not share Models generated for the purpose of Company’s Campaigns with other customers.
+
+7.6. Client Data: Upon request from a Client (or an authorized third party on Client’s behalf, including Company), Quantcast is authorized to use the Client Data associated with such Client in accordance with such request (including sharing such Client Data with another entity within the Quantcast Platform). For clarity, “**Client Data**” means the (i) Tag Data from Client websites, apps and/or other digital properties; and (ii) Quantcast’s proprietary analysis of such data. Client Data does not include any predictive models or data segments created using the Tag Data or any Campaign Data generated from Campaigns delivered using such Client Data.
+
+7.7. No Off-Platform Use: Company will not use the Services, the Campaign Data, or any information derived from the Services, Models or Campaign Data to create or enrich profiles of individual end users or to retarget any end user except via the Services.
+
+**8.** **Compliance and Privacy**
+
+8.1. Each party will comply with all applicable laws and regulations (Quantcast in its provision of the Services in the form provided by Quantcast and Company in its use of the Services), including Applicable Privacy Laws and applicable self-regulatory principles, such as the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising (“**DAA**”) or the Network Advertising Initiative Code of Conduct (“**NAI**”). “**Applicable Privacy Laws**” means US State Privacy Laws and International Privacy Laws (defined in the linked DPAs). Company will comply with the Incorporated Terms.
+
+8.2. Company will not use the Service or any Third Party Service with any (a) Direct Identifiers, any special or sensitive categories of personal data as defined by Applicable Privacy Laws, including by placing Campaign Tags on Ads or Company Media whose content reveals special or sensitive categories of personal data of an end user, or personal data relating to criminal offenses or criminal convictions; or
+
+(b) any data of children, including by placing Campaign Tags on Ads or Company Media directed at children; or (c) data related to any end user that has requested deletion or opted out (collectively, “**Prohibited Data**”). “**Direct Identifier**” means any information that identifies a particular individual without additional information, including name, address, mobile number, email address, financial account number or government-issued identifier. Direct Identifiers do not include pseudonymous identifiers such as IP address, cookie ID and certain hashed identifiers (e.g., email addresses that have been encoded using a cryptographic hashing function to obfuscate the email). For purposes of this Agreement, “**children**” refers to anyone age 18 or under or such other age specified by Applicable Privacy Laws under which the processing of personal information is prohibited or requires opt-in or parental consent.
+
+8.3. Company represents and warrants that it is not a covered entity under the Health Insurance Portability and Accountability Act (“HIPAA”), and does not have equivalent status under comparable local or international laws and regulations. If Company is using the Services on behalf of Clients, Company represents and warrants that Clients are not covered entities under the Health Insurance Portability and Accountability Act (“HIPAA”), and do not have equivalent status under comparable local or international laws and regulations.
+
+**9.** **Third-Party Services**
+
+9.1. If Company uses any third-party branded product or service in connection with the Services (including Third-Party Data made available for use via the Services) (“**Third-Party Service**”), the following additional terms apply.
+
+9.2. Company is solely responsible for complying with any applicable third-party terms and requirements. For Third-Party Services offered via the Platform, such third-party terms and requirements may be provided in the Platform, the Additional Terms, otherwise by Quantcast or by the third-party.
+
+9.3. Quantcast is not responsible for Third-Party Services and makes no representations as to such services, including their privacy practices. Quantcast cannot guarantee continued availability or pricing of Third-Party Services and may stop enabling access to them without liability. Company may be required to register for or log into Third-Party Services on their respective websites or to share Company Data with Third-Party Services (e.g., services requiring data integration).
+
+**10.** **Marketing, Publicity**
+
+Quantcast may include Company’s name and logo in descriptions of Quantcast’s partners on its website, in media, in promotional materials, and in the Platform. Company will not use Quantcast’s name or logo without prior written permission. All goodwill from the use of Quantcast’s name or logo inures to Quantcast. Neither party will make a press release or any other public statement about this Agreement without the other party’s prior agreement.
+
+**11.** **Confidentiality**
+
+“**Confidential Information**” means information that the disclosing party identifies as confidential or the receiving party should reasonably understand to be confidential given the circumstances of the disclosure and the nature of the information. Confidential Information does not include information that the receiving party can demonstrate: (a) it knew without restriction before receipt from the disclosing party, (b) is publicly available through no fault of the receiving party, (c) it rightfully received from a third-party without a duty of confidentiality, or (d) is independently developed without use of or reference to Confidential Information. The receiving party may use Confidential Information only to fulfill its obligations under this Agreement and must use at least reasonable care to prevent any unauthorized use or disclosure of Confidential Information, but in any event no less stringent a standard than receiving party applies to its own Confidential Information. The receiving party may share Confidential Information with its employees, agents and contractors who need to know it, as long as they are bound to confidentiality obligations that are consistent with this Agreement, provided that the receiving party shall remain solely responsible for their compliance with this Agreement. If compelled to do so by law, the receiving party may disclose Confidential Information as long as it provides reasonable prior notice to the disclosing party (unless legally prohibited). For the avoidance of doubt, nothing in this Agreement prohibits Quantcast from using and sharing high level data that is compiled and summarized from the combination of Campaign Data with equivalent data generated by campaigns of other Quantcast customers, that does not allow identification of Company or Clients. Company will delete all Quantcast Confidential Information promptly upon termination of this Agreement.
+
+**12.** **Indemnity**
+
+12.1. Quantcast shall indemnify, defend and hold harmless Company and its directors, officers, employees and agents, and their respective successors, heirs and assigns (“**Company Parties**”) against any claim, liability, damage, loss or expense (including reasonable attorneys’ fees and costs) (“**Liabilities**”) incurred by the Company Parties in connection with any third-party claim (including any regulatory or governmental action) (“**Claim**”) that Quantcast’s proprietary technology that provides the Services, in the form provided by Quantcast, infringes any patent or other third-party intellectual property right. Company shall indemnify, defend and hold harmless Quantcast, its affiliated entities, and its and their directors, officers, employees and agents, and its and their respective successors, heirs and assigns (“**Quantcast Parties**”) against any Liabilities incurred by the Quantcast Parties in connection with any Claim arising out of or relating to (a) Company’s (including any Client’s, if applicable) use of the Services or Third-Party Services in violation of this Agreement; (b) Company Data or Ads; (c) the nature of Company’s or any Client’s products, services and industry, including without limitation any claims in the nature of product liability or any claim or allegation that such services or products are not in compliance with applicable industry-specific laws, or (d) breach of Sections 6.2. 6.3, 7 or 8.
+
+12.2. The indemnified party will promptly notify the indemnifying party of any indemnified claim (provided that failure to notify promptly will only relieve the indemnifying party of its obligations to the extent it demonstrates material prejudice from the failure) and at the indemnifying party’s expense, provide assistance reasonably necessary to defend such claim. The indemnifying party will not enter into any settlement or compromise that does not fully absolve the indemnified party of liability.
+
+12.3. Quantcast will have no obligation for any claim arising from or related to (a) compliance with Company specifications, (b) combination of the Services with products or services not supplied by Quantcast, (c) adaptation or modification of the Services or Campaign Data, (d) Company’s failure to follow instructions provided by Quantcast that would have cured the cause of action, (e) use of the Services or Campaign Data other than as described herein, or (f) Inventory or Third-Party Services selected and/or purchased by Company. In such cases, Company will indemnify, defend, and hold harmless the Quantcast Parties from and against any Liabilities arising directly or indirectly from such claims.
+
+12.4. If Quantcast’s right to provide the Services is enjoined or in Quantcast’s opinion is likely to be enjoined, Quantcast may obtain the right to continue providing the Services, replace or modify the Services so that they become non-infringing or terminate this Agreement. Quantcast’s obligations as stated in this Section 12 are Quantcast’s sole and exclusive liability and Company’s sole remedy as to infringement.
+
+**13.** **Account Closure, Termination and Suspension**
+
+13.1. Company may close its account at any time via the Platform. Quantcast may terminate this Agreement upon notice for any reason or no reason. Sections 5, 6.6, 7 and 11-15 will survive account closure or termination of this Agreement, in addition to any other sections that by their nature would be presumed to, will survive account closure or termination.
+
+13.2. Without limiting any other remedies, Quantcast may immediately suspend or terminate any individual Campaign, Authorized User’s access, and/or Company or Client account, including if Quantcast in its sole discretion suspects that a Campaign, Authorized User, Client, or Company is in breach this Agreement (including, without limitation, any failure to comply with the Incorporated Terms. If Quantcast suspends or closes Company’s account, Company may not re-open an account without Quantcast’s prior written approval.
+
+**14.** **DISCLAIMER, LIMITATION OF LIABILITY**
+
+14.1. QUANTCAST MAKES NO REPRESENTATIONS REGARDING PERFORMANCE OR THE RESULTS AND BENEFITS FROM THE SERVICES, OR THAT THE PLATFORM OR ANY INFORMATION WILL BE ERROR-FREE, ALWAYS AVAILABLE OR OPERATE WITHOUT LOSS OR CORRUPTION OF DATA OR TECHNICAL MALFUNCTION. QUANTCAST HAS NO LIABILITY FOR THIRD-PARTY SERVICES. QUANTCAST MAY MODIFY OR DISCONTINUE ANY OR ALL SERVICES AT ANY TIME, FOR ANY OR NO REASON, WITH OR WITHOUT NOTICE.
+
+14.2. EXCEPT FOR CLAIMS RELATING TO INDEMNIFICATION (SECTION 12), NEITHER PARTY WILL BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING AS A RESULT OF DELAYS, LOSS OF DATA, LOSS OF USE OR LOSS OF PROFIT) ARISING OUT OF OR RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER WHATEVER CAUSE OF ACTION OR THEORY OF LIABILITY BROUGHT (INCLUDING CONTRACT OR NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTHING IN THIS SECTION 14.2 LIMITS ANY LIABILITY FOR FRAUD, FRAUDULENT MISREPRESENTATION, OR ANY OTHER LIABILITY WHICH CANNOT LEGALLY BE LIMITED.
+
+14.3. EXCEPT FOR CLAIMS RELATING TO PAYMENTS DUE (SECTION 5), AND/OR INDEMNIFICATION (SECTION 12), IN NO EVENT WILL EITHER PARTY’S TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS ARISING UNDER OR RELATED TO THIS AGREEMENT EXCEED THE GREATER OF (A) ONE HUNDRED THOUSAND U.S. DOLLARS (US $100,000) OR (B) THE ACTUAL AMOUNT PAID AND/OR PAYABLE TO QUANTCAST FOR THE PROVISION OF SERVICES TO COMPANY IN THE TWELVE (12) MONTHS PRIOR TO THE DATE THE LIABILITY FIRST AROSE.
+
+14.4. The limitations and exclusions contained in this Agreement represent the parties’ agreement based upon the perceived level of risk associated with this Agreement and the payments made hereunder.
+
+**15.** **General**.
+
+15.1. This Agreement is the entire agreement of the parties relating to the Services and it supersedes all other commitments and understandings with respect to the Services. For the avoidance of doubt, this Agreement does not apply to or include Quantcast Measure. To the extent that Incorporated Terms conflict with the main body of this Agreement, the Incorporated Terms will control. Any other terms included in a purchase order or similar document will be of no force and effect.
+
+15.2. Except for Quantcast’s right to make changes as described herein, no changes to this Agreement are effective unless such changes are in writing and signed by Quantcast.
+
+15.3. This Agreement and all matters arising out of or relating to this Agreement will be governed by (i) the laws of the State of California if Quantcast is Quantcast Corp.; (ii) the laws of New South Wales,
+
+Australia if Quantcast is Quantcast Australia Pty. Ltd.; or (iii) the laws of Ireland if Quantcast is Quantcast International Limited, each without regard to its conflict of law provisions.
+
+15.4. Any legal action or proceeding relating to this Agreement will be brought exclusively in (i) the state or federal courts in the Northern District of California if Quantcast is Quantcast Corp.; (ii) the relevant courts in New South Wales, Australia if Quantcast is Quantcast Australia Pty. Ltd.; or (iii) the relevant courts in Dublin, Ireland if Quantcast is Quantcast International Limited. Quantcast and Company hereby agree to submit to the jurisdiction of, and agree that venue is proper in, these courts (as applicable). Actions arising under or related to this Agreement or the Services must be brought in the initiating party’s individual capacity, not as a plaintiff or class member in any class action or similar proceeding.
+
+15.5. The Services may be subject to export and/or import control laws and regulations. Company is solely responsible for complying with all applicable export control laws and regulations.
+
+15.6. Unless provided otherwise in the Additional Terms, there are no third-party beneficiaries to this Agreement.
+
+15.7. All notices will be in writing. Notices to Company may be delivered via the Platform or sent to the address associated with Company’s account. Notices to Quantcast will be sent to the applicable physical and email addresses set forth below for Quantcast. Notice will be deemed to have been given upon: (a) the date delivered in person; (b) the day after the date sent by overnight courier; or (c) the date posted in the Platform by Quantcast. Notices may be confirmed by email.
+
+**Quantcast Corp**.: 795 Folsom Street, San Francisco, CA 94107, United States of America **Quantcast Australia Pty. Ltd**.: The Executive Centre, Level 24, 300 Barangaroo Avenue, Sydney, NSW, 2000, Australia
+
+**Quantcast International Limited**: Beaux Lane House, Lower Mercer Street, Dublin 2, Ireland
+
+**Attn**: Legal Department
+
+**Email**: legal@quantcast.com
+
+15.8. Quantcast will not be liable for any failure or delay in the performance of its obligations hereunder on account of events beyond Quantcast’s reasonable control.
+
+15.9. This Agreement and the licenses granted herein are not transferable or assignable without prior written consent of the non-transferring or non-assigning party except that a party may upon written notice assign this Agreement to an acquirer of substantially all of that party’s assets, stock or business by sale, merger or otherwise or to an Affiliate. “**Affiliate**” means an entity that controls, is controlled by or is under common control with a party. Any assignment or transfer in violation of this section will be null and void. This Agreement will inure to the benefit of the successors and permitted assigns of the parties.
+
+15.10. The parties have been represented in execution of this Agreement by legal counsel or have voluntarily declined to seek such counsel. If any provision of this Agreement is unenforceable, the validity of the remaining provisions will not be affected.
+
+15.11. Quantcast’s failure to exercise or enforce any right or provision of this Agreement will not constitute a waiver of such right or provision. Any waiver of any provision of this Agreement will be effective only if made explicitly, in writing and signed by Quantcast.
+
+##### Effective March 6th 2025  to  June 11th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/67c9f239bc6bd1b56c65698f.pdf)
 
@@ -14986,9 +15270,94 @@ This section applies to the extent that Canadian Privacy Laws apply, including w
 Additional Terms
 ----------------
 
-Version Version 1.3  (Current) Version 1.2 Version 1.1 Version 1.0
+Version Version 1.4  (Current) Version 1.3 Version 1.2 Version 1.1 Version 1.0
 
-##### Effective March 6th 2025
+##### Effective June 11th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/684998cd2e9005b21c713fed.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**ADDITIONAL TERMS**
+
+**Last Updated: June 5, 2025**
+
+These Additional Terms supplement the terms of the agreement (e.g., the [Quantcast Buyer Terms](mailto:https://legal.quantcast.com/#quantcast-buyer-terms), a Master Services Agreement, insertion order or other agreement (“**Agreement**”)) between the party using Quantcast’s services (“**Company**”) and Quantcast (as defined in the Agreement).
+
+Quantcast may modify these Additional Terms. Quantcast will notify Company by making the revised version available on this page or an identified successor page, and an updated revision date will indicate that changes have been made. If Company does not agree to the changes, Company must stop using the relevant Services. Company’s continued use of such Services after Quantcast publishes changes means that Company agrees to the updates. Any capitalized terms not defined in the Additional Terms shall have the meaning given to such terms (or such similar defined terms) in the Agreement. If a capitalized term is not defined in the Agreement, it has the meaning given in the [Quantcast Buyer Terms](mailto:https://legal.quantcast.com/#quantcast-buyer-terms).
+
+**GENERAL**
+
+**1\. Trial Services**
+
+This section will apply if Company selects the Trial option when signing up for Quantcast Services. Quantcast may make available to new Quantcast customers a trial period for limited use of the Services (“**Trial**”). Unless the Trial description provides for a different period, the Trial will last for a period of 14 days only and may only be used once (unless an exception is made by Quantcast). After the Trial, Company will be required to submit payment to Quantcast in order to continue accessing the Services. If Company does not wish to continue using the Services after the Trial, Company may close its account via the Platform. Failure to act will result in Company’s access to the Services being automatically disabled. Company will not attempt to circumvent the limit on Trials, including by registering multiple accounts. Quantcast reserves the right to change the features of the Trial and/or remove or cancel the Trial at any time with no liability. For purposes of the Trial, the Services are provided on an ‘as is’ basis, without any representations, warranties, or covenants by Quantcast.
+
+**2\. Test Releases**
+
+From time to time, Quantcast may offer Company the right to use certain experimental features and functionality ("**Test Releases**"), including those identified as “alpha” or “beta”. All Test Releases shall be provided on an ‘as is’ basis, without any representations, warranties, or covenants by Quantcast, and may be terminated by Quantcast in its sole discretion. Notwithstanding any other provision in the Agreement, Quantcast shall have no liability for Test Releases. Use of Test Releases may be subject to additional terms and conditions, which Quantcast will provide in each applicable instance.
+
+**3\. Creative Services**
+
+The following terms apply unless Company and Quantcast have signed separate written terms governing creative services. If Quantcast provides creative services, Company is solely responsible for all creatives resulting from such services and all materials provided by Company to Quantcast for such creatives. Any use of such creatives constitutes Company’s express approval of the creatives. For the avoidance of doubt, Company shall retain all intellectual property rights in its creatives.
+
+**COMPANY DATA**
+
+**4\. Onboarded Data**
+
+As to Company Data that Company onboards to the Platform, at least once every thirty (30) days, Company will provide any opt outs and deletion requests via the technical means set forth in Quantcast’s documentation (e.g., see [Customer (CRM) Audiences](https://help.quantcast.com/docs/customer-audiences) or other instructions provided by Quantcast). Quantcast will retain any first-party audience data provided by Company for up to ninety (90) days or such other time period set forth in Quantcast’s documentation.
+
+**5\. Sensitive Data**
+
+Without limiting the restrictions set forth in the Agreement, Company will not provide Quantcast with any data considered sensitive location data under applicable laws, including guidance and orders from the U.S. Federal Trade Commission where applicable.
+
+**6\. Company Tags**
+
+Company is solely responsible for any pixels, tags, macros or other data collection mechanisms that send data to Company and/or third parties (“**Company Tags**”) included in Company’s ads, websites, apps and other materials, regardless of whether Company Tags are implemented by Company or Quantcast on Company’s behalf. In connection with Company Tags, Company represents and warrants that Company and the third parties comply with all applicable laws, provide notice and choice to users and obtain any consents required by applicable laws and industry standards. To the extent that Company Tags provide any data to Quantcast, such data constitutes Company Data. Company’s indemnity obligations under the Agreement include all claims arising from or related to such Company Tags.
+
+**7\. Data Sharing**
+
+The following applies if Quantcast shares data with a third party (“**Company Service Provider**”) to enable the Company Service Provider to provide campaign analytics or measurement services to Company. Quantcast shares such data at Company’s instruction in Quantcast’s role as service provider or processor to Company. Company is solely responsible for Company Service Providers and their services, including use of data received from Quantcast. Such third party services do not constitute Third Party Services under the Agreement.
+
+Company will not export shared data from any Company Service Provider or use such data for any purpose other than receiving campaign analytics or measurement services from the Company Service Provider. Without limiting the foregoing, Company will not attempt to use shared data to create or supplement audiences or for targeting.
+
+**INVENTORY RELATED TERMS**
+
+**8\. Quantcast Curation Services**
+
+The Services may provide Company the option to purchase packages of Inventory, curated by Quantcast and/or by or on behalf of Company (“**Curated Inventory**”). For the avoidance of doubt, Curated Inventory constitutes “inventory” or “Inventory” (or similar terms such as “supply”) under the Agreement. Company may only use Curated Inventory curated by Quantcast via the Services. Any inventory sourced by Company must meet the requirements of the Quantcast Supply Policy.
+
+**9\. Additional Inventory Provider Restrictions**
+
+To the extent you bid on Inventory from the following Inventory Providers, Company agrees to comply, and shall be liable for its non-compliance with the applicable Inventory Provider Restrictions as linked below:
+
+* Telaria and Rubicon: [https://www.magnite.com/legal/ad-quality-guidelines/](https://www.magnite.com/legal/ad-quality-guidelines/)
+* Pubmatic: [https://pubmatic.com/legal/aq-policy/](https://pubmatic.com/legal/aq-policy/)
+
+**THIRD-PARTY SERVICES**
+
+**10\. LiveRamp Services**
+
+The following terms apply to the extent Company uses any product or service of LiveRamp, Inc. or its subsidiaries (collectively, “**LiveRamp**”) in connection with the Platform or Services, outside of a direct agreement between LiveRamp and Company. For clarity, “Third-Party Services” as used in the Agreement shall include use of any LiveRamp product or service with the Platform. Company will only provide data to LiveRamp for permitted territories.
+
+LiveRamp Usage Terms. Company agrees that LiveRamp is an intended third-party beneficiary to this Agreement with respect to this Section and has the right to enforce this Section directly against Company, and Company agrees: (a) to authorize LiveRamp to provide its Data Onboarding Services to Company, including to access and download Company's CRM data for placement of data cookies and delivery of such cookies to Quantcast; (b) to upload all data to LiveRamp's SFTP site, and not provide such data directly to Quantcast. Company is prohibited from sending Quantcast any Direct Identifiers, or recombining any data it receives from Quantcast with Direct Identifiers; (c) Company will not (i) resell or provide access to LiveRamp's Data Onboarding Services to anyone except Authorized Users, (ii) re-identify, derive any data from, or otherwise reverse engineer data Company may receive through LiveRamp’s Data Onboarding Services, (iii) use such service to sell or advertise any products that are considered or related to adult entertainment, tobacco, illegal gambling, firearms, or any other illegal product; (d) Company will not provide LiveRamp with any data (i) related to any restricted or sensitive categories of data, including individual's health or medical condition, sexual orientation, or religion, (ii) of those under age 18 (or age 13 if from Australia), or (iii) which Company does not own or have rights to, or has not otherwise obtained consent for; and (e) to additionally warrant that: (i) it will not direct data to any destination other than Quantcast unless Company has a direct agreement with the entity controlling such third-party destination and the handling of such data by such third-party destination is subject to the terms and conditions of that direct agreement, (ii) it has obtained and maintains all required consents under Applicable Privacy Laws for LiveRamp to collect, use and retain personally identifiable information provided to LiveRamp hereunder for purposes of LiveRamp providing its Data Onboarding Services.
+
+LiveRamp Fees. During each month of the Term that Company utilizes Quantcast’s upload facility (e.g., a Quantcast S3 bucket) to provide data to LiveRamp or otherwise utilizes LiveRamp with the Platform outside of a direct agreement between LiveRamp and Company, Company shall additionally pay Quantcast “LiveRamp Fees” at the rates communicated by Quantcast to Company. For clarity, “_Third Party Costs_” as used in the Agreement shall include the LiveRamp Fees.
+
+For avoidance of doubt, Quantcast is not liable for any fees to LiveRamp for Company’s use of its own upload facility with LiveRamp or otherwise under Company’s direct agreement with LiveRamp.
+
+**11\. Stripe Payment Services**
+
+Quantcast uses Stripe to execute online payment transactions (e.g., credit card, wire transfer, automatic ACH, etc.). If Company uses this feature, it agrees to be bound by the Stripe Connected Account Agreement, available at [https://stripe.com/connect/account-terms](https://stripe.com/connect/account-terms), to comply with the Stripe Payment Method Terms, available at [https://stripe.com/gb/legal/payment-terms](https://stripe.com/gb/legal/payment-terms) and to be subject to the Stripe Privacy Policy, available at [https://stripe.com/privacy](https://stripe.com/privacy). Company also understands and agrees to the business restrictions imposed by Stripe at [https://stripe.com/gb/legal/restricted-businesses](https://stripe.com/gb/legal/restricted-businesses). Each of these terms may be updated from time to time. For avoidance of doubt, if any payment Company initiates using Stripe does not successfully complete, Company is obligated to immediately pay Quantcast by another means acceptable to Quantcast and Company is liable for any costs, penalties or charges imposed by Stripe. Company authorizes Quantcast to make repeating automatic payments using the credit card or other payment means provided to Stripe. For clarity, “Third-Party Services” as used in the Agreement shall include use of any Stripe product or service with the Platform.
+
+**PAYMENT CARDS**
+
+12\. By providing payment card information (including via Stripe), Company represents that it has authority to authorize Quantcast to charge the payment card for amounts owed to Quantcast by Company and acknowledges that such information may be used by any Authorized User with access to Company’s account. Company further agrees that Quantcast may charge any such payment card or other stored payment method designated in the Platform, including any default or backup payment method, for amounts due.
+
+##### Effective March 6th 2025  to  June 11th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/67ca0bfb4b3a50f4307af7ea.pdf)
 
