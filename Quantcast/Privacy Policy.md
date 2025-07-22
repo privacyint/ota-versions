@@ -3243,9 +3243,91 @@ Other Matters
 Privacy Implementation for Quantcast Advertiser Partners
 --------------------------------------------------------
 
-Version Version 3.3  (Current) Version 3.2 Version 3.1 Version 3.0 Version 2.0 Version 1.0
+Version Version 3.4  (Current) Version 3.3 Version 3.2 Version 3.1 Version 3.0 Version 2.0 Version 1.0
 
-##### Effective June 11th 2025
+##### Effective June 25th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/685c6e9eb7afd122b66e693c.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+This Privacy Implementation for Quantcast Advertiser Partners documents certain privacy-related responsibilities for advertisers and agencies, which are in addition to the [US State Data Privacy Addendum](https://legal.quantcast.com/#us-data-privacy-addendum) and the [International Data Privacy Addendum](https://legal.quantcast.com/#international-data-privacy-addendum) (collectively, the “DPAs”). If there is any conflict between this document and the DPAs, the DPAs are the controlling documents.
+
+Privacy regulation around the world is dynamic. Quantcast may update this document from time to time at its own discretion in order to keep pace with changes in privacy rules and risks, and industry best practices, as well as to ensure users’ rights are honored appropriately.
+
+Quantcast may take reasonable measures to ensure that data processed in its services is collected and processed in accordance with privacy rules and industry best practices. We may review locations where data is collected and may refuse to accept data that is not collected in a manner consistent with the approaches described in this document.
+
+Terminology
+
+This document uses “user” or “users” as interchangeable with “data subject” or “consumer” or other equivalent terms from various rules.
+
+When we say rules, we mean laws, regulations, and industry self-regulatory codes that are applicable to the processing of personal data in relation to Quantcast’s services. Quantcast has a global footprint, including operations in the EU, the UK, and the US (including California), so those jurisdictions’ rules are applicable to Quantcast for data about users who reside in those jurisdictions.
+
+We also will use “personal data” as interchangeable with terms such as, “personal information.” Personal data processed by Quantcast’s service is pseudonymous, including but not limited to IP address, cookie or device IDs, and other identifiers used for advertising-related purposes. In the case where a partner has express permission from Quantcast to use email address, phone number, or other directly identifying information, such information will be pseudonymized (usually hashed or encrypted,) according to Quantcast specifications, before transmitting to Quantcast.
+
+Industry standards and self-regulatory programs
+
+Quantcast supports and participates in industry self-regulatory programs, and generally implements industry standards and best practices when it comes to handling personal data. Partners and clients are responsible for ensuring their own implementation of self- regulatory rules and industry best practices, in particular related to providing transparency and choice to users in places where data is collected or used by Quantcast’s services.
+
+Controller, processor, service provider, vendor, etc.
+
+Unfortunately, terms describing the relationships between parties sharing data are not interchangeable. Quantcast determines its role based on applicable law and the facts of its processing of personal data. In many relationships with advertiser partners or clients, Quantcast is a controller or joint controller, because of the role that Quantcast plays in defining exactly how data is used. This does not mean Quantcast has unfettered rights to use this data; rather, Quantcast’s use of the data is usually restricted by contractual limitations. If you have questions about this, please consult your agreement or ask your account representative.
+
+**Advertisers**: Where the EU GDPR or the UK GDPR applies, Quantcast is a joint controller of personal data collected using Quantcast tags and pixels and of other personal data introduced into Quantcast’s services by the advertiser. Where US state privacy law applies, Quantcast acts as a “third party” in the State of California and as a “processor” or such similar designation for all other applicable US states.
+
+Notice/Transparency and Choice
+
+Laws, self-regulatory rules, and industry best practice require users be notified about processing of personal data, and be offered a choice – either opt in or opt out — with respect to that processing.
+
+When deploying Quantcast tags or pixels, or otherwise introducing data into Quantcast’s services, partners and clients are responsible to make sure that users are given notice and choice that is required for Quantcast to be able to collect and process the data. And, of course, partners and clients have to make sure of notice and choice for their own personal data collection and processing.
+
+Generally, notice must include the fact that third parties are collecting and processing users’ data, along with information about the data collected, the means of collection, the purposes for processing (including interest-based advertising), and how users can exercise their choices. Laws or rules in some jurisdictions would require that Quantcast be specifically identified in the notice and a link to Quantcast’s [privacy policy](https://legal.quantcast.com/#products-and-services-privacy-policy) be included.
+
+Quantcast’s methods of collection include, depending on particular circumstances, cookies, pixels, JavaScript tags, probabilistic device matching and cross-device matching (using passively collected data).
+
+Quantcast implements choice using industry standard methods and will be responsible for honoring that choice with respect to personal data within Quantcast’s services.
+
+For their part, partners and clients need to provide access to the choice using industry standard and legally compliant methods, depending on the applicable laws and rules. Usually this means providing access to choose within other privacy disclosures, including in a privacy policy.
+
+In all cases, partners and clients should have user-facing privacy policies that are prominently linked from their homepages and from content (sites, apps, etc.) where personal data are collected or used.
+
+Privacy policies will adhere to applicable laws, as well as industry self-regulatory requirements and industry best practices. At minimum, policies should disclose the fact that third parties are collecting personal data for advertising-related purposes, and should describe the methods of collection, as described above. Particular circumstances and applicable rules may create additional requirements.
+
+Where consent (opt-in) is required prior to setting cookies or collecting data, such as in Europe under ePrivacy, the GDPR, and the UK GDPR, partners and clients are responsible to make sure that tags or pixels don’t fire until that consent is obtained. As to any personal information and/or personal data provided to Quantcast (whether provided by an advertiser, agency or a third-party on an advertiser or agency’s behalf), advertisers and agencies represent and warrant that as to such personal information and/or personal data, they have obtained any consent required by applicable laws, regulations and industry self-regulatory codes.
+
+**EU and the UK**: The industry standard means for ensuring notice and choice for vendors like Quantcast in the EU and the UK is the IAB Europe Transparency and Consent Framework. Quantcast is vendor ID 11. Quantcast’s required purposes and associated legal bases are viewable in the Global Vendor List. Because Quantcast is subject to European law, the TCF should be used for all users in the EU or the UK, even if the client or partner has no operations in Europe. Alternatively, such partners and clients may elect not to introduce data about EU or UK users into Quantcast’s services.
+
+Partners and clients not using the TCF for EU or UK users need to use a legally compliant alternative means to ensure Quantcast’s legal basis for using cookies, where applicable, and for processing the data. This includes that Quantcast must be identified as a controller of the user’s personal data, and a link to Quantcast’s privacy policy must be provided. Quantcast may in the future require TCF.
+
+Privacy policies in the EU and the UK need to include a link to the European Interactive Digital Advertising Alliance (EDAA) opt out page, located at youronlinechoices.com.
+
+**US**: In the US, along with other requirements laid out here, privacy policies need to include links to an industry standard opt out page, like those offered by the NAI or DAA.
+
+**California**: The CCPA applies for users in California. Partners and clients need to provide users with notice of their “sale” and “share” opt-out rights and the ability to exercise such rights, as applicable.
+
+**Other US states**: Applicable state privacy law applies for users in Colorado, Connecticut, Utah, and Virginia. Partners and clients need to provide users with notice of their “sale” and “targeted advertising” opt-out rights and the ability to exercise such rights, as applicable.
+
+**US State Privacy Addendum**: The processing of US users’ personal data in connection with Quantcast’s services shall be governed by the US State Privacy Addendum, [which is available here](https://legal.quantcast.com/#us-data-privacy-addendum).
+
+Access and Deletion
+
+Under applicable law, including the EU GDPR, the UK GDPR, and the US state privacy laws, as a joint controller or third party, Quantcast will be responsible for providing users access to their personal data that is within Quantcast’s services, and for deleting personal data after it receives (or is notified of) a user’s request.
+
+Other Matters
+
+**Sensitive data**. Because Quantcast’s services are not intended for processing data regarded as “sensitive” or “special category” under applicable law (including data revealing racial or ethnic origin, political opinions, or parties, religious or philosophical beliefs, trade union membership or related to health status or treatment) or data about children under the age of 18 or such other age specified by applicable laws, partners and clients must not transmit to Quantcast or cause Quantcast to collect any such data. Quantcast tags and pixels may not be deployed on content that is directed at children under the age of 18 or such other age specified by applicable laws. Sensitive or special category data includes the types of data listed in Article 9 of the EU GDPR, Section 1798.140 of the CCPA (as amended by the CPRA), or any equivalent term under applicable law. Sensitive data also includes any data that qualifies as “consumer health data” under the Washington My Health My Data Act, 2023 Wash. Laws 191 or any other equivalent laws.
+
+**Directly identifying personal data**. Quantcast’s services are not designed to process directly identifying personal data, such as names or email addresses, and partners and clients may not send such information to Quantcast or cause Quantcast to collect it. If a partner has express permission from Quantcast to use email address, phone number, or other directly identifying information, such information will be pseudonymized (usually hashed or encrypted,) according to Quantcast specifications, before transmitting to Quantcast.
+
+**Reidentification**. Under no circumstances will clients and other partners use any information collected or generated by Quantcast’s services to identify an individual user.
+
+Copyright © 2025, [Quantcast](https://www.quantcast.com/)
+
+##### Effective June 11th 2025  to  June 25th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/684996f999f9c91c1f64a163.pdf)
 
@@ -15270,9 +15352,98 @@ This section applies to the extent that Canadian Privacy Laws apply, including w
 Additional Terms
 ----------------
 
-Version Version 1.4  (Current) Version 1.3 Version 1.2 Version 1.1 Version 1.0
+Version Version 1.5  (Current) Version 1.4 Version 1.3 Version 1.2 Version 1.1 Version 1.0
 
-##### Effective June 11th 2025
+##### Effective July 15th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/68769aa85f8fa0e441ccfe06.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**ADDITIONAL TERMS**
+
+  
+
+These Additional Terms supplement the terms of the agreement (e.g., the [Quantcast Buyer Terms](https://legal.quantcast.com/#quantcast-buyer-terms), a Master Services Agreement, insertion order or other agreement (“**Agreement**”)) between the party using Quantcast’s services (“**Company**”) and Quantcast (as defined in the Agreement).
+
+Quantcast may modify these Additional Terms. Quantcast will notify Company by making the revised version available on this page or an identified successor page, and an updated revision date will indicate that changes have been made. If Company does not agree to the changes, Company must stop using the relevant Services. Company’s continued use of such Services after Quantcast publishes changes means that Company agrees to the updates. Any capitalized terms not defined in the Additional Terms shall have the meaning given to such terms (or such similar defined terms) in the Agreement. If a capitalized term is not defined in the Agreement, it has the meaning given in the [Quantcast Buyer Terms](https://legal.quantcast.com/#quantcast-buyer-terms).
+
+**GENERAL**
+
+**1\. Trial Services**
+
+This section will apply if Company selects the Trial option when signing up for Quantcast Services. Quantcast may make available to new Quantcast customers a trial period for limited use of the Services (“**Trial**”). Unless the Trial description provides for a different period, the Trial will last for a period of 14 days only and may only be used once (unless an exception is made by Quantcast). After the Trial, Company will be required to submit payment to Quantcast in order to continue accessing the Services. If Company does not wish to continue using the Services after the Trial, Company may close its account via the Platform. Failure to act will result in Company’s access to the Services being automatically disabled. Company will not attempt to circumvent the limit on Trials, including by registering multiple accounts. Quantcast reserves the right to change the features of the Trial and/or remove or cancel the Trial at any time with no liability. For purposes of the Trial, the Services are provided on an ‘as is’ basis, without any representations, warranties, or covenants by Quantcast.
+
+**2\. Test Releases**
+
+From time to time, Quantcast may offer Company the right to use certain experimental features and functionality ("**Test Releases**"), including those identified as “alpha” or “beta”. All Test Releases shall be provided on an ‘as is’ basis, without any representations, warranties, or covenants by Quantcast, and may be terminated by Quantcast in its sole discretion. Notwithstanding any other provision in the Agreement, Quantcast shall have no liability for Test Releases. Use of Test Releases may be subject to additional terms and conditions, which Quantcast will provide in each applicable instance.
+
+**3\. Creative Services**
+
+The following terms apply unless Company and Quantcast have signed separate written terms governing creative services. If Quantcast provides creative services, Company is solely responsible for all creatives resulting from such services and all materials provided by Company to Quantcast for such creatives. Any use of such creatives constitutes Company’s express approval of the creatives. For the avoidance of doubt, Company shall retain all intellectual property rights in its creatives.
+
+**COMPANY DATA**
+
+**4\. Onboarded Data**
+
+As to Company Data that Company onboards to the Platform, at least once every thirty (30) days, Company will provide any opt outs and deletion requests via the technical means set forth in Quantcast’s documentation (e.g., see [Customer (CRM) Audiences](https://help.quantcast.com/docs/customer-audiences) or other instructions provided by Quantcast). Quantcast will retain any first-party audience data provided by Company for up to ninety (90) days or such other time period set forth in Quantcast’s documentation.
+
+**5\. Sensitive Data**
+
+Without limiting the restrictions set forth in the Agreement, Company will not provide Quantcast with any data considered sensitive location data under applicable laws, including guidance and orders from the U.S. Federal Trade Commission where applicable.
+
+**6\. Company Tags**
+
+Company is solely responsible for any pixels, tags, macros or other data collection mechanisms that send data to Company and/or third parties (“**Company Tags**”) included in Company’s ads, websites, apps and other materials, regardless of whether Company Tags are implemented by Company or Quantcast on Company’s behalf. In connection with Company Tags, Company represents and warrants that Company and the third parties comply with all applicable laws, provide notice and choice to users and obtain any consents required by applicable laws and industry standards. To the extent that Company Tags provide any data to Quantcast, such data constitutes Company Data. Company’s indemnity obligations under the Agreement include all claims arising from or related to such Company Tags.
+
+**7\. Data Sharing**
+
+The following applies if Quantcast shares data with a third party (“**Company Service Provider**”) to enable the Company Service Provider to provide campaign analytics or measurement services to Company. Quantcast shares such data at Company’s instruction in Quantcast’s role as service provider or processor to Company. Company is solely responsible for Company Service Providers and their services, including use of data received from Quantcast. Such third party services do not constitute Third Party Services under the Agreement.
+
+Company will not export shared data from any Company Service Provider or use such data for any purpose other than receiving campaign analytics or measurement services from the Company Service Provider. Without limiting the foregoing, Company will not attempt to use shared data to create or supplement audiences or for targeting.
+
+**8\. SDKs**
+
+Any Quantcast SDKs are subject to the following additional terms. Subject to your compliance with the Agreement, Quantcast grants you a limited, worldwide, royalty-free, non-assignable and non-exclusive license to use the Quantcast SDK during the Term for the purpose described in the applicable documentation (e.g., to provide Quantcast with data regarding online and/or offline sales or other conversions via the CAPI SDK). Quantcast SDKs constitute “Services” under the Agreement. For some implementations, use of a Quantcast SDK may require agreement to further additional terms.
+
+**INVENTORY RELATED TERMS**
+
+**9\. Quantcast Curation Services**
+
+The Services may provide Company the option to purchase packages of Inventory, curated by Quantcast and/or by or on behalf of Company (“**Curated Inventory**”). For the avoidance of doubt, Curated Inventory constitutes “inventory” or “Inventory” (or similar terms such as “supply”) under the Agreement. Company may only use Curated Inventory curated by Quantcast via the Services. Any inventory sourced by Company must meet the requirements of the Quantcast Supply Policy.
+
+**10\. Additional Inventory Provider Restrictions**
+
+By accessing and using the Inventory Providers, Company agrees to comply, and shall be liable for its non-compliance with the applicable Inventory Provider Restrictions as linked below:
+
+* Telaria and Rubicon: [https://www.magnite.com/legal/ad-quality-guidelines/](https://www.magnite.com/legal/ad-quality-guidelines/)
+* Pubmatic: [https://pubmatic.com/legal/aq-policy/](https://pubmatic.com/legal/aq-policy/)
+
+**THIRD-PARTY SERVICES**
+
+**11\. LiveRamp Services**
+
+The following terms apply to the extent Company uses any product or service of LiveRamp, Inc. or its subsidiaries (collectively, “**LiveRamp**”) in connection with the Platform or Services, outside of a direct agreement between LiveRamp and Company. For clarity, “Third-Party Services” as used in the Agreement shall include use of any LiveRamp product or service with the Platform. Company will only provide data to LiveRamp for permitted territories.
+
+LiveRamp Usage Terms. Company agrees that LiveRamp is an intended third-party beneficiary to this Agreement with respect to this Section and has the right to enforce this Section directly against Company, and Company agrees: (a) to authorize LiveRamp to provide its Data Onboarding Services to Company, including to access and download Company's CRM data for placement of data cookies and delivery of such cookies to Quantcast; (b) to upload all data to LiveRamp's SFTP site, and not provide such data directly to Quantcast. Company is prohibited from sending Quantcast any Direct Identifiers, or recombining any data it receives from Quantcast with Direct Identifiers; (c) Company will not (i) resell or provide access to LiveRamp's Data Onboarding Services to anyone except Authorized Users, (ii) re-identify, derive any data from, or otherwise reverse engineer data Company may receive through LiveRamp’s Data Onboarding Services, (iii) use such service to sell or advertise any products that are considered or related to adult entertainment, tobacco, illegal gambling, firearms, or any other illegal product; (d) Company will not provide LiveRamp with any data (i) related to any restricted or sensitive categories of data, including individual's health or medical condition, sexual orientation, or religion, (ii) of those under age 18 (or age 13 if from Australia), or (iii) which Company does not own or have rights to, or has not otherwise obtained consent for; and (e) to additionally warrant that: (i) it will not direct data to any destination other than Quantcast unless Company has a direct agreement with the entity controlling such third-party destination and the handling of such data by such third-party destination is subject to the terms and conditions of that direct agreement, (ii) it has obtained and maintains all required consents under Applicable Privacy Laws for LiveRamp to collect, use and retain personally identifiable information provided to LiveRamp hereunder for purposes of LiveRamp providing its Data Onboarding Services.
+
+LiveRamp Fees. During each month of the Term that Company utilizes Quantcast’s upload facility (e.g., a Quantcast S3 bucket) to provide data to LiveRamp or otherwise utilizes LiveRamp with the Platform outside of a direct agreement between LiveRamp and Company, Company shall additionally pay Quantcast “LiveRamp Fees” at the rates communicated by Quantcast to Company. For clarity, “_Third Party Costs_” as used in the Agreement shall include the LiveRamp Fees.
+
+For avoidance of doubt, Quantcast is not liable for any fees to LiveRamp for Company’s use of its own upload facility with LiveRamp or otherwise under Company’s direct agreement with LiveRamp.
+
+**12\. Stripe Payment Services**
+
+Quantcast uses Stripe to execute online payment transactions (e.g., credit card, wire transfer, automatic ACH, etc.). If Company uses this feature, it agrees to be bound by the Stripe Connected Account Agreement, available at [https://stripe.com/connect/account-terms](https://stripe.com/connect/account-terms), to comply with the Stripe Payment Method Terms, available at [https://stripe.com/gb/legal/payment-terms](https://stripe.com/gb/legal/payment-terms) and to be subject to the Stripe Privacy Policy, available at [https://stripe.com/privacy](https://stripe.com/privacy). Company also understands and agrees to the business restrictions imposed by Stripe at [https://stripe.com/gb/legal/restricted-businesses](https://stripe.com/gb/legal/restricted-businesses). Each of these terms may be updated from time to time. For avoidance of doubt, if any payment Company initiates using Stripe does not successfully complete, Company is obligated to immediately pay Quantcast by another means acceptable to Quantcast and Company is liable for any costs, penalties or charges imposed by Stripe. Company authorizes Quantcast to make repeating automatic payments using the credit card or other payment means provided to Stripe. For clarity, “Third-Party Services” as used in the Agreement shall include use of any Stripe product or service with the Platform.
+
+**13\. PAYMENT CARDS**
+
+By providing payment card information (including via Stripe), Company represents that it has authority to authorize Quantcast to charge the payment card for amounts owed to Quantcast by Company and acknowledges that such information may be used by any Authorized User with access to Company’s account.
+
+##### Effective June 11th 2025  to  July 15th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/684998cd2e9005b21c713fed.pdf)
 
@@ -15678,9 +15849,23 @@ Quantcast uses Stripe to execute online payment transactions (e.g., credit card,
 CCPA Transparency Report
 ------------------------
 
-Version Version 1.0  (Current)
+Version Version 1.1  (Current) Version 1.0
 
-##### Effective July 1st 2024
+##### Effective June 25th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/685c63bd49aaa1f04540adec.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Page: /
+
+Please download the PDF to view this document. [Download](https://quantcast.pactsafe.io/versions/685c63bd49aaa1f04540adec.pdf)
+
+##### Effective July 1st 2024  to  June 25th 2025
 
 [Download](https://quantcast.pactsafe.io/versions/6682f5900fdf7a749c14a23e.pdf)
 
@@ -16156,6 +16341,1081 @@ Teléfono: 1890 252 231
 Correo electrónico: info@dataprotection.ie
 
 Dirección: 21 Fitzwilliam Square South, Dublín 2, D02 RD28, Irlanda.
+
+Quantcast Privacy FAQs
+----------------------
+
+Version Version 2.0  (Current) Version 1.1 Version 1.0
+
+##### Effective June 27th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/685e5b145b8144b582ccc926.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Information on this page is accurate as of June 17 2025
+
+Privacy Policies
+================
+
+#### Quantcast Products and Services Privacy Policy
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy](https://legal.quantcast.com/#products-and-services-privacy-policy)
+
+#### Quantcast Buyer Terms
+
+[https://legal.quantcast.com/#quantcast-buyer-terms](https://legal.quantcast.com/#quantcast-buyer-terms)
+
+#### Additional Terms
+
+[https://legal.quantcast.com/#additional-terms-ad-buyer](https://legal.quantcast.com/#additional-terms-ad-buyer)
+
+#### Privacy Implementation for Quantcast Advertiser Partners
+
+[https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners](https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners)
+
+#### US Data Privacy Addendum
+
+[https://legal.quantcast.com/#us-data-privacy-addendum](https://legal.quantcast.com/#us-data-privacy-addendum)
+
+#### International Data Privacy Addendum
+
+[https://legal.quantcast.com/#international-data-privacy-addendum](https://legal.quantcast.com/#international-data-privacy-addendum)
+
+#### Campaign Policy
+
+[https://legal.quantcast.com/#campaign-policy](https://legal.quantcast.com/#campaign-policy)
+
+#### Quantcast Measure and Publisher Terms of Service
+
+[https://legal.quantcast.com/#measure-publisher-terms-of-service](https://legal.quantcast.com/#measure-publisher-terms-of-service)
+
+#### Privacy Implementation for Quantcast Publisher Partners
+
+[https://legal.quantcast.com/#privacy-implementation-for-quantcast-publisher-partners](https://legal.quantcast.com/#privacy-implementation-for-quantcast-publisher-partners)
+
+#### Data Subject Rights (opt-out, deletion, access requests
+
+[https://www.quantcast.com/privacy-choices/](https://www.quantcast.com/privacy-choices/)
+
+  
+
+Data Collection and Use
+=======================
+
+#### From what sources does Quantcast receive personal information?
+
+* Advertise client digital properties (e.g., website, mobile app, or CTV device, etc.)
+* Advertise client ads
+* Advertise client data onboarding providers
+* Advertising exchanges, Sell-Side Platforms (SSPs), other inventory providers
+* 3rd party data providers
+* Measurement, analytics and, attribution vendors
+* Measure client digital properties (e.g., website, mobile app, or CTV device)
+
+#### What technologies are used to receive data?
+
+* Tags, pixels, SDKs or other code installed in Advertise or Measure client digital properties (websites, apps, etc.)
+* Tags, pixels or other code implemented in ads
+* APIs (e.g., Quantcast's conversion API)
+* Server-to-Server (S2S) connections
+* SSP and exchange integrations (e.g., bidstreams)
+* S3 buckets and other means
+
+#### What are tags, pixels, SDKs, and APIs?
+
+Tags, pixels and SDKs are types of code that can be implemented on digital ads, digital properties and mobile devices, which collect data.
+
+* Tags are Java script code installed in a website code, which install cookies in the browser and collect data from the browser.
+* Pixels are code installed in either a) a website code, which install cookies in the browser and collect data from the browser, or b) installed in impression code which collect data from the browser.
+* SDKs are code installed in a mobile app, which collect data from the device.
+
+#### What data is collected by cookies/tags/pixels/SDKs?
+
+* Pseudonymous identifiers such as cookies, IP address, hashed email addresses, device identifiers, and 3rd party identifiers
+* Event data - data related to a data subject's online behavior
+* Device configuration and information
+* Imprecise geo location
+
+#### What cookies does Quantcast set in the browser (assuming that cookies are enabled and there is proper legal basis)?
+
+1\. "mc"
+
+type: third party advertising/analytics
+
+expiration time: 13 months
+
+2\. "\_\_qca"
+
+type: first party advertising/analytics
+
+expiration time: 13 months
+
+3\. "\_dlt"
+
+type first party advertising/analytics
+
+expiration time: 0 days
+
+4\. "d"
+
+type: cookie advertising/syncing
+
+expiration time: 13 weeks
+
+5\. "sp"
+
+type: cookie advertising/syncing
+
+expiration time: =13 weeks
+
+6\. "qoo"
+
+type: advertising/opt-out
+
+expiration time: 5 years
+
+7\. "qor"
+
+type: advertising/opt-out
+
+expiration time: 5 years"
+
+#### Does Quantcast use Flash cookies?
+
+No
+
+#### What domains does Quantcast used?
+
+* quantserve.com - main domain used to provide Quantcast services
+* quantcount.com - secondary domain used to provide frequency counts only
+
+#### Does Quantcast collect, process, or use direct identifiers or personally identifying information?
+
+Quantcast does not intentionally collect PII (or personally identifiable information) about consumers in its platform, products, or services. For more information about our privacy practices, please visit our Privacy Policy at:
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy.](https://legal.quantcast.com/#products-and-services-privacy-policy)
+
+#### Who has access to the data at Quantcast?
+
+Quantcast has a controlled-access policy to limit potential access to personal data to engineers who have a legitimate need to access it.
+
+#### How long does Quantcast store or retain personal data?
+
+Quantcast retains personal data for as long as necessary to provide our Services and for the purposes described in our Products and Services Privacy Policy. In no case do we retain such personal data for longer than 13 months, unless it is necessary to respond to legal requests or complying with relevant laws and regulations.
+
+#### Who does Quantcast share personal information with?
+
+* Quantcast-affiliated companies
+* Our Advertise clients
+* Our service providers/data processors
+* Other third parties at Advertise client's direction
+* Relevant third parties as part of a corporate transaction
+* Competent governmental and public authorities
+* Other third parties as necessary or appropriate or where otherwise permitted by law to enforce our agreements, protect our operations, protect our rights, privacy, safety, property, and/or those of other persons, and allow us to pursue available remedies or limit damages that we may sustain
+* Other recipients at the consumer's direction or with the consumer's consent
+
+#### Who does Quantcast share Advertise client data with?
+
+As part of providing the Services, Quantcast shares client data with:
+
+* Quantcast-affiliated companies
+* Our service providers/data processors
+* Other third parties, such as measurement partners, at client direction
+
+In certain circumstances, Quantcast may also share client data with:
+
+* Relevant third parties as part of a corporate transaction.
+* Competent governmental and public authorities.
+* Other third parties as necessary or appropriate or where otherwise permitted by law to enforce our agreements, protect our operations, protect our rights, privacy, safety, property, and/or those of other persons, and allow us to pursue available remedies or limit damages that we may sustain.
+
+#### Does Quantcast share Advertise client data with other clients, or use it on behalf of other clients' campaigns?
+
+Quantcast will not share Advertise client data with, or use Advertise client data for, any other Quantcast client.
+
+  
+
+Consent and Legal Basis
+=======================
+
+#### How does Quantcast give consumers disclosure, notice, and transparency into its data practices?
+
+Quantcast provides all necessary notice, disclosures, and transparency in its Products and Services Privacy Policy at:
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy](https://legal.quantcast.com/#products-and-services-privacy-policy).
+
+Because Quantcast does not have a direct relationship with the data subjects, we have contractual agreements with our clients provide proper notice and, where required, consent prior to the acquisition and processing of their personal data.
+
+#### Is Quantcast compliant with U.S. state privacy laws?
+
+Yes
+
+#### Does Quantcast honor opt-out signals for collecting and processing personal data in the United States
+
+Yes, Quantcast honors cookied and cookieless opt-out signals and the Global Privacy Consent (GPC) signal as required under applicable U.S. state laws.
+
+#### Does Quantcast honor the GPC?
+
+Yes, Quantcast honors the GPC as required under applicable U.S. state laws.
+
+#### Does Quantcast rely on the IAB GPP for data subjects in the United States?
+
+Yes, Quantcast relies on the GPP as required under applicable U.S. state laws.
+
+#### Is Quantcast compliant with GDPR?
+
+Yes
+
+#### Under what legal basis is Quantcast collecting and processing personal data in the EU/EEA, UK, and Switzerland?
+
+Quantcast relies on consent and legitimate interest to collect and process personal data of consumers, as applicable under the EU/EEA/UK/Swiss GDPR.
+
+#### How does Quantcast receive consent for collecting and processing personal data in the EU/EEA, UK, and Switzerland?
+
+Quantcast uses the IAB Transparency and Consent Framework (TCF) to facilitate receiving consent signals in EU/EEA, UK, and Switzerland.
+
+#### Does Quantcast rely on the IAB TCF for data subjects in the EU/EEA, UK, and Switzerland?
+
+Quantcast uses the IAB Transparency and Consent Framework (TCF) to facilitate receiving consent signals in EU/EEA, UK, and Switzerland.
+
+#### For what purposes does Quantcast collect, process, and/or use personal information?
+
+* Store and/or access information on a device (TCF Purpose 1)
+* Use limited data to select advertising (TCF Purpose 2)
+* Create profiles for personalised advertising (TCF Purpose 3)
+* Use profiles to select personalised advertising (TCF Purpose 4)
+* Measure advertising performance (TCF Purpose 7)
+* Measure content performance (TCF Purpose 8)
+* Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+* Develop and improve services (TCF Purpose 10)
+* Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1):
+* Deliver and present advertising and content (TCF Special Purpose 2)
+* Save and communicate privacy choices (TCF Special Purpose 3)
+* Match and combine data from other data sources (TCF Feature 1)
+* Link different devices (TCF Feature 2)
+* Identify devices based on information transmitted automatically (TCF Feature 3)
+* Recording consent choices made by users
+* Establishing, bringing, or defending against complaints, legal claims (including threatened or anticipated legal claims), and regulatory inquiries
+* Responding to legal requests
+* Complying with relevant laws and regulations
+* Conducting research
+* Hosting of Personal Information for above-listed purposes
+
+  
+
+Data Subject Rights
+===================
+
+#### How can consumers submit their opt-out, deletion, and access requests?
+
+Quantcast provides consumers with their rights to opt-out, deletion, and access requests in the Quantcast Privacy Choices page at:
+
+[https://www.quantcast.com/privacy-choices/.](https://www.quantcast.com/privacy-choices/)
+
+#### How can consumers contact Quantcast with privacy questions?
+
+Data subjects can contact Quantcast at privacy\[at\]quantcast\[dot\]com.
+
+  
+
+Sensitive Category Data
+=======================
+
+#### Does Quantcast provide targeting or reporting based on precise geolocation?
+
+No
+
+#### Does Quantcast collect or process personal data from children?
+
+Quantcast does not knowingly or intentionally collect or process data from children under the age of 18, and contractually prohibits our clients from sending us data from children.
+
+#### Does Quantcast collect or process sensitive data under the EU/EEA/UK/Swiss GDPR?
+
+Quantcast does not knowingly or intentionally collect or process sensitive data under the EU/EEA/UK/Swiss GDPR, and contractually prohibits our clients from sending us sensitive data under the EU/EEA/UK/Swiss GDPR.
+
+#### Is Quantcast COPPA compliant?
+
+Quantcast honors the COPPA privacy signal.
+
+  
+
+International Data Transfers
+============================
+
+#### Where does Quantcast store and process personal data?
+
+Quantcast stores and processes in data centers in the US, Germany, and Singapore.
+
+#### Does Quantcast transfer personal data from the EU/EEA/UK/Switzerland? If so, what transfer mechanism does it use?
+
+Personal data collected in the EU/EEA/UK/Switzerland is collected by Quantcast International Ltd (QIL), headquartered in Dublin, IE. The personal data is transferred from QIL to Quantcast Corp. (QC Corp), headquartered in San Francisco CA, US, using intra-company Standard Contractual Clauses. In addition, Quantcast has a robust Transfer Impact Assessment and uses technical supplemental measures.
+
+#### Can a client choose the locations of servers where their data is processed?
+
+No
+
+#### Once transferred to the U.S, is there a data retention policy?
+
+Quantcast retains personal data for as long as necessary to provide our Services and for the purposes described in our Products and Services Privacy Policy: in no case do we retain personal data for longer than 13 months, unless it is necessary to respond to legal requests or complying with relevant laws and regulations.
+
+  
+
+Industry Organizations
+======================
+
+#### What industry privacy certifications does Quantcast hold?
+
+* Quantcast is a member in good standing of the Network Advertising Initiative (NAI)
+* Quantcast participates in the Digital Advertising Alliance (DAA) and adheres to the DAA Self-Regulatory Principles.
+* Quantcast participates in the European Interactive Digital Advertising Alliance (EDAA) and is certified under the EDAA Principles.
+* Quantcast participates in, and complies with, the policies and technical specifications of the IAB Transparency and Consent Framework (TCF), as a vendor. Quantcast’s IAB Europe-assigned identification number ia Vendor ID #11.
+* Quantcast is IAB UK gold Standard certified.
+
+  
+
+Commercial
+==========
+
+#### Do Quantcast contracts with third parties prohibit them from selling customer data (including data derived or inferred from customer data)?
+
+Quantcast's agreements with its service providers/processors/sub-processors do not permit them to sell advertiser and agency clients' personal data.
+
+#### Do you have written contracts in place with sub-contractors who process our company's personal data? If yes are these contracts compliant with EU, UK, Switzerland, and U.S. state laws?
+
+Yes and yes
+
+#### Is Quantcast registered as a "data broker" under any applicable laws or regulations?
+
+No
+
+##### Effective June 25th 2025  to  June 27th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/685c2b967a5d34b86d8c9f81.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Information on this page is accurate as of June 17 2025**
+
+**Privacy Policies**
+
+**Quantcast Products and Services Privacy Policy**
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy](https://legal.quantcast.com/#products-and-services-privacy-policy)
+
+**Quantcast Buyer Terms**
+
+[https://legal.quantcast.com/#quantcast-buyer-terms](https://legal.quantcast.com/#quantcast-buyer-terms)
+
+**Additional Terms**
+
+[https://legal.quantcast.com/#additional-terms-ad-buyer](https://legal.quantcast.com/#additional-terms-ad-buyer)
+
+**Privacy Implementation for Quantcast Advertiser Partners**
+
+[https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners](https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners)
+
+**US Data Privacy Addendum**
+
+[https://legal.quantcast.com/#us-data-privacy-addendum](https://legal.quantcast.com/#us-data-privacy-addendum)
+
+**International Data Privacy Addendum**
+
+[https://legal.quantcast.com/#international-data-privacy-addendum](https://legal.quantcast.com/#international-data-privacy-addendum)
+
+**Campaign Policy**
+
+[https://legal.quantcast.com/#campaign-policy](https://legal.quantcast.com/#campaign-policy)
+
+**Quantcast Measure and Publisher Terms of Service**
+
+[https://legal.quantcast.com/#measure-publisher-terms-of-service](https://legal.quantcast.com/#measure-publisher-terms-of-service)
+
+**Privacy Implementation for Quantcast Publisher Partners**
+
+[https://legal.quantcast.com/#privacy-implementation-for-quantcast-publisher-partners](https://legal.quantcast.com/#privacy-implementation-for-quantcast-publisher-partners)
+
+**Data Subject Rights**
+
+**Quantcast Privacy Choices (opt-out, deletion, access requests)**
+
+[https://www.quantcast.com/privacy-choices/](https://www.quantcast.com/privacy-choices/)
+
+**Data Collection and Use**
+
+**From what sources does Quantcast receive personal information?**
+
+* Advertise client digital properties (e.g., website, mobile app, or CTV device, etc.)
+* Advertise client ads
+* Advertise client data onboarding providers
+* Advertising exchanges, Sell-Side Platforms (SSPs), other inventory providers
+* 3rd party data providers
+* Measurement, analytics and, attribution vendors
+* Measure client digital properties (e.g., website, mobile app, or CTV device)
+
+**What technologies are used to receive data?**
+
+* Tags, pixels, SDKs or other code installed in Advertise or Measure client digital properties (websites, apps, etc.)
+* Tags, pixels or other code implemented in ads
+* APIs (e.g., Quantcast's conversion API)
+* Server-to-Server (S2S) connections
+* SSP and exchange integrations (e.g., bidstreams)
+* S3 buckets and other means
+
+**What are tags, pixels, SDKs, and APIs?**
+
+* Tags, pixels and SDKs are types of code that can be implemented on digital ads, digital properties and mobile devices, which collect data.
+    * Tags are Java script code installed in a website code, which install cookies in the browser and collect data from the browser.
+    * Pixels are code installed in either a) a website code, which install cookies in the browser and collect data from the browser, or b) installed in impression code which collect data from the browser.
+    * SDKs are code installed in a mobile app, which collect data from the device.
+
+**What data is collected by cookies/tags/pixels/SDKs?**
+
+* Pseudonymous identifiers such as cookies, IP address, hashed email addresses, device identifiers, and 3rd party identifiers
+* Event data - data related to a data subject's online behavior
+* Device configuration and information
+* Imprecise geo location
+
+**What cookies does Quantcast set in the browser (assuming that cookies are enabled and there is proper legal basis)?**
+
+1\. "\_\_qca"
+
+expiration time: 13 months
+
+type: first party analytics
+
+  
+
+2\. "\_dlt"
+
+expiration time: 0 days
+
+type first party analytics
+
+  
+
+3\. "mc"
+
+expiration time: 13 months
+
+type: third party analytics
+
+  
+
+4\. "d"
+
+expiration time: 13 weeks
+
+type: cookie syncing
+
+  
+
+5\. "sp"
+
+expiration time: =13 weeks
+
+type: cookie syncing
+
+  
+
+6\. "qoo"
+
+expiration time: 5 years
+
+type: opt-out
+
+  
+
+7\. "qor"
+
+type: opt-out
+
+expiration time: 5 years"
+
+  
+
+**Does Quantcast use Flash cookies?**
+
+No
+
+  
+
+**Does Quantcast collect, process, or use direct identifiers or personally identifying information?**
+
+Quantcast does not intentionally collect PII (or personally identifiable information) about consumers in its platform, products, or services. For more information about our privacy practices, please visit our Privacy Policy at:
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy.](https://legal.quantcast.com/#products-and-services-privacy-policy)
+
+  
+
+**What domains does Quantcast used?**
+
+* quantserve.com - main domain used to provide Quantcast services
+* quantcount.com - secondary domain used to provide frequency counts only
+
+  
+
+**Who has access to the data at Quantcast?**
+
+Quantcast has a controlled-access policy to limit potential access to personal data to engineers who have a legitimate need to access it.
+
+  
+
+**How long does Quantcast store or retain personal data?**
+
+Quantcast retains personal data for as long as necessary to provide our Services and for the purposes described in our Products and Services Privacy Policy. In no case do we retain such personal data for longer than 13 months, unless it is necessary to respond to legal requests or complying with relevant laws and regulations.
+
+  
+
+  
+
+**Who does Quantcast share personal information with?**
+
+* Quantcast-affiliated companies
+* Our Advertise clients
+* Our service providers/data processors
+* Other third parties at Advertise client's direction
+* Relevant third parties as part of a corporate transaction
+* Competent governmental and public authorities
+* Other third parties as necessary or appropriate or where otherwise permitted by law to enforce our agreements, protect our operations, protect our rights, privacy, safety, property, and/or those of other persons, and allow us to pursue available remedies or limit damages that we may sustain
+* Other recipients at the consumer's direction or with the consumer's consent
+
+  
+
+**Who does Quantcast share Advertise client data with?**
+
+As part of providing the Services, Quantcast shares client data with:
+
+* Quantcast-affiliated companies
+* Our service providers/data processors
+* Other third parties, such as measurement partners, at client direction
+
+In certain circumstances, Quantcast may also share client data with:
+
+* Relevant third parties as part of a corporate transaction.
+* Competent governmental and public authorities.
+* Other third parties as necessary or appropriate or where otherwise permitted by law to enforce our agreements, protect our operations, protect our rights, privacy, safety, property, and/or those of other persons, and allow us to pursue available remedies or limit damages that we may sustain."
+
+  
+
+**Does Quantcast share Advertise client data with other clients, or use it on behalf of other clients' campaigns?**
+
+Quantcast will not share Advertise client data with, or use Advertise client data for, any other Quantcast client.
+
+  
+
+  
+
+**Consent and Legal Basis**
+
+**How does Quantcast give consumers disclosure, notice, and transparency into its data practices?**
+
+Quantcast provides all necessary notice, disclosures, and transparency in its Products and Services Privacy Policy at:
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy](https://legal.quantcast.com/#products-and-services-privacy-policy).
+
+Because Quantcast does not have a direct relationship with the data subjects, we have contractual agreements with our clients provide proper notice and, where required, consent prior to the acquisition and processing of their personal data.
+
+  
+
+**Is Quantcast compliant with U.S. state privacy laws?**
+
+Yes
+
+  
+
+**Does Quantcast honor opt-out signals for collecting and processing personal data in the United States**
+
+Yes, Quantcast honors cookied and cookieless opt-out signals and the Global Privacy Consent (GPC) signal as required under applicable U.S. state laws.
+
+  
+
+**Does Quantcast honor the GPC?**
+
+Yes, Quantcast honors the GPC as required under applicable U.S. state laws.
+
+  
+
+**Does Quantcast rely on the IAB GPP for data subjects in the United States?**
+
+Yes, Quantcast relies on the GPP as required under applicable U.S. state laws.
+
+  
+
+**Is Quantcast compliant with GDPR?**
+
+Yes
+
+  
+
+**Under what legal basis is Quantcast collecting and processing personal data in the EU/EEA, UK, and Switzerland?**
+
+Quantcast relies on consent and legitimate interest to collect and process personal data of consumers, as applicable under the EU/EEA/UK/Swiss GDPR.
+
+  
+
+**How does Quantcast receive consent for collecting and processing personal data in the EU/EEA, UK, and Switzerland?**
+
+Quantcast uses the IAB Transparency and Consent Framework (TCF) to facilitate receiving consent signals in EU/EEA, UK, and Switzerland.
+
+  
+
+**Does Quantcast rely on the IAB TCF for data subjects in the EU/EEA, UK, and Switzerland?**
+
+Quantcast uses the IAB Transparency and Consent Framework (TCF) to facilitate receiving consent signals in EU/EEA, UK, and Switzerland.
+
+  
+
+**For what purposes does Quantcast collect, process, and/or use personal information?**
+
+* Store and/or access information on a device (TCF Purpose 1)
+* Use limited data to select advertising (TCF Purpose 2)
+* Create profiles for personalised advertising (TCF Purpose 3)
+* Use profiles to select personalised advertising (TCF Purpose 4)
+* Measure advertising performance (TCF Purpose 7)
+* Measure content performance (TCF Purpose 8)
+* Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+* Develop and improve services (TCF Purpose 10)
+* Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1):
+* Deliver and present advertising and content (TCF Special Purpose 2)
+* Save and communicate privacy choices (TCF Special Purpose 3)
+* Match and combine data from other data sources (TCF Feature 1)
+* Link different devices (TCF Feature 2)
+* Identify devices based on information transmitted automatically (TCF Feature 3)
+* Recording consent choices made by users
+* Establishing, bringing, or defending against complaints, legal claims (including threatened or anticipated legal claims), and regulatory inquiries
+* Responding to legal requests
+* Complying with relevant laws and regulations
+* Conducting research
+* Hosting of Personal Information for above-listed purposes
+
+  
+
+**Data Subject Rights**
+
+**How can consumers submit their opt-out, deletion, and access requests?**
+
+Quantcast provides consumers with their rights to opt-out, deletion, and access requests in the Quantcast Privacy Choices page at:
+
+[https://www.quantcast.com/privacy-choices/.](https://www.quantcast.com/privacy-choices/)
+
+**How can consumers contact Quantcast with privacy questions?**
+
+Data subjects can contact Quantcast at privacy\[at\]quantcast\[dot\]com.
+
+  
+
+  
+
+**Sensitive Category Data**
+
+**Does Quantcast provide targeting or reporting based on precise geolocation?**
+
+No
+
+**Does Quantcast collect or process personal data from children?**
+
+Quantcast does not knowingly or intentionally collect or process data from children under the age of 18, and contractually prohibits our clients from sending us data from children.
+
+**Does Quantcast collect or process sensitive data under the EU/EEA/UK/Swiss GDPR?**
+
+Quantcast does not knowingly or intentionally collect or process sensitive data under the EU/EEA/UK/Swiss GDPR, and contractually prohibits our clients from sending us sensitive data under the EU/EEA/UK/Swiss GDPR.
+
+**Is Quantcast COPPA compliant?**
+
+Quantcast honors the COPPA privacy signal.
+
+  
+
+**International Data Transfers**
+
+**Where does Quantcast store and process personal data?**
+
+Quantcast stores and processes in data centers in the US, Germany, and Singapore.
+
+**Does Quantcast transfer personal data from the EU/EEA/UK/Switzerland? If so, what transfer mechanism does it use?**
+
+Personal data collected in the EU/EEA/UK/Switzerland is collected by Quantcast International Ltd (QIL), headquartered in Dublin, IE. The personal data is transferred from QIL to Quantcast Corp. (QC Corp), headquartered in San Francisco CA, US, using intra-company Standard Contractual Clauses. In addition, Quantcast has a robust Transfer Impact Assessment and uses technical supplemental measures.
+
+**Can a client choose the locations of servers where their data is processed?**
+
+No
+
+**Once transferred to the U.S, is there a data retention policy?**
+
+Quantcast retains personal data for as long as necessary to provide our Services and for the purposes described in our Products and Services Privacy Policy: in no case do we retain personal data for longer than 13 months, unless it is necessary to respond to legal requests or complying with relevant laws and regulations.
+
+  
+
+**Industry Organizations**
+
+**What industry privacy certifications does Quantcast hold?**
+
+* Quantcast is a member in good standing of the Network Advertising Initiative (NAI)
+* Quantcast participates in the Digital Advertising Alliance (DAA) and adheres to the DAA Self-Regulatory Principles.
+* Quantcast participates in the European Interactive Digital Advertising Alliance (EDAA) and is certified under the EDAA Principles.
+* Quantcast participates in, and complies with, the policies and technical specifications of the IAB Transparency and Consent Framework (TCF), as a vendor. Quantcast’s IAB Europe-assigned identification number ia Vendor ID #11.
+* Quantcast is IAB UK gold Standard certified.
+
+  
+
+**Commercial**
+
+**Do Quantcast contracts with third parties prohibit them from selling customer data (including data derived or inferred from customer data)?**
+
+Quantcast's agreements with its service providers/processors/sub-processors do not permit them to sell advertiser and agency clients' personal data.
+
+**Do you have written contracts in place with sub-contractors who process our company's personal data? If yes are these contracts compliant with EU, UK, Switzerland, and U.S. state laws?**
+
+Yes and yes
+
+**Is Quantcast registered as a "data broker" under any applicable laws or regulations?**
+
+No
+
+##### Effective June 24th 2025  to  June 25th 2025
+
+[Download](https://quantcast.pactsafe.io/versions/6859eccc74420e68d003aa3a.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Information on this page is accurate as of June 17 2025
+
+Privacy Policies
+================
+
+Quantcast Products and Services Privacy Policy
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy](https://legal.quantcast.com/#products-and-services-privacy-policy)
+
+Quantcast Buyer Terms
+
+[https://legal.quantcast.com/#quantcast-buyer-terms](https://legal.quantcast.com/#quantcast-buyer-terms)
+
+Additional Terms
+
+[https://legal.quantcast.com/#additional-terms-ad-buyer](https://legal.quantcast.com/#additional-terms-ad-buyer)
+
+Privacy Implementation for Quantcast Advertiser Partners
+
+[https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners](https://legal.quantcast.com/#privacy-implementation-for-quantcast-advertiser-partners)
+
+US Data Privacy Addendum
+
+[https://legal.quantcast.com/#us-data-privacy-addendum](https://legal.quantcast.com/#us-data-privacy-addendum)
+
+International Data Privacy Addendum
+
+[https://legal.quantcast.com/#international-data-privacy-addendum](https://legal.quantcast.com/#international-data-privacy-addendum)
+
+Campaign Policy
+
+[https://legal.quantcast.com/#campaign-policy](https://legal.quantcast.com/#campaign-policy)
+
+Quantcast Measure and Publisher Terms of Service
+
+[https://legal.quantcast.com/#measure-publisher-terms-of-service](https://legal.quantcast.com/#measure-publisher-terms-of-service)
+
+Privacy Implementation for Quantcast Publisher Partners
+
+[https://legal.quantcast.com/#privacy-implementation-for-quantcast-publisher-partners](https://legal.quantcast.com/#privacy-implementation-for-quantcast-publisher-partners)
+
+Data Subject Rights
+===================
+
+Quantcast Privacy Choices (opt-out, deletion, access requests)
+
+[https://www.quantcast.com/privacy-choices/](https://www.quantcast.com/privacy-choices/)
+
+Data Collection and Use
+=======================
+
+From what sources does Quantcast receive personal information?
+
+* Advertise client digital properties (e.g., website, mobile app, or CTV device, etc.)
+* Advertise client ads
+* Advertise client data onboarding providers
+* Advertising exchanges, Sell-Side Platforms (SSPs), other inventory providers
+* 3rd party data providers
+* Measurement, analytics and, attribution vendors
+* Measure client digital properties (e.g., website, mobile app, or CTV device)
+
+What technologies are used to receive data?
+
+* Tags, pixels, SDKs or other code installed in Advertise or Measure client digital properties (websites, apps, etc.)
+* Tags, pixels or other code implemented in ads
+* APIs (e.g., Quantcast's conversion API)
+* Server-to-Server (S2S) connections
+* SSP and exchange integrations (e.g., bidstreams)
+* S3 buckets and other means
+
+What are tags, pixels, SDKs, and APIs?
+
+* Tags, pixels and SDKs are types of code that can be implemented on digital ads, digital properties and mobile devices, which collect data.
+    * Tags are Java script code installed in a website code, which install cookies in the browser and collect data from the browser.
+    * Pixels are code installed in either a) a website code, which install cookies in the browser and collect data from the browser, or b) installed in impression code which collect data from the browser.
+    * SDKs are code installed in a mobile app, which collect data from the device.
+
+What data is collected by cookies/tags/pixels/SDKs?
+
+* Pseudonymous identifiers such as cookies, IP address, hashed email addresses, device identifiers, and 3rd party identifiers
+* Event data - data related to a data subject's online behavior
+* Device configuration and information
+* Imprecise geo location
+
+What cookies does Quantcast set in the browser (assuming that cookies are enabled and there is proper legal basis)?
+
+1\. "\_\_qca"
+
+expiration time: 13 months
+
+type: first party analytics
+
+2\. "\_dlt"
+
+expiration time: 0 days
+
+type first party analytics
+
+3\. "mc"
+
+expiration time: 13 months
+
+type: third party analytics
+
+4\. "d"
+
+expiration time: 13 weeks
+
+type: cookie syncing
+
+5\. "sp"
+
+expiration time: =13 weeks
+
+type: cookie syncing
+
+6."qoo"
+
+expiration time: 5 years
+
+type: opt-out
+
+7\. "qor"
+
+type: opt-out
+
+expiration time: 5 years"
+
+Does Quantcast use Flash cookies?
+
+No
+
+Does Quantcast collect, process, or use direct identifiers or personally identifying information?
+
+Quantcast does not intentionally collect PII (or personally identifiable information) about consumers in its platform, products, or services. For more information about our privacy practices, please visit our Privacy Policy at
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy.](https://legal.quantcast.com/#products-and-services-privacy-policy)
+
+What domains does Quantcast used?
+
+* quantserve.com - main domain used to provide Quantcast services
+* quantcount.com - secondary domain used to provide frequency counts only
+
+Who has access to the data at Quantcast?
+
+Quantcast has a controlled-access policy to limit potential access to personal data to engineers who have a legitimate need to access it.
+
+How long does Quantcast store or retain personal data?
+
+Quantcast retains personal data for as long as necessary to provide our Services and for the purposes described in our Products and Services Privacy Policy. In no case do we retain such personal data for longer than 13 months, unless it is necessary to respond to legal requests or complying with relevant laws and regulations.
+
+Who does Quantcast share personal information with?
+
+* Quantcast-affiliated companies
+* Our Advertise clients
+* Our service providers/data processors
+* Other third parties at Advertise client's direction
+* Relevant third parties as part of a corporate transaction
+* Competent governmental and public authorities
+* Other third parties as necessary or appropriate or where otherwise permitted by law to enforce our agreements, protect our operations, protect our rights, privacy, safety, property, and/or those of other persons, and allow us to pursue available remedies or limit damages that we may sustain
+* Other recipients at the consumer's direction or with the consumer's consent
+
+Who does Quantcast share Advertise client data with?
+
+As part of providing the Services, Quantcast shares client data with:
+
+* Quantcast-affiliated companies
+* Our service providers/data processors
+* Other third parties, such as measurement partners, at client direction
+
+In certain circumstances, Quantcast may also share client data with:
+
+* Relevant third parties as part of a corporate transaction.
+* Competent governmental and public authorities.
+* Other third parties as necessary or appropriate or where otherwise permitted by law to enforce our agreements, protect our operations, protect our rights, privacy, safety, property, and/or those of other persons, and allow us to pursue available remedies or limit damages that we may sustain."
+
+Does Quantcast share Advertise client data with other clients, or use it on behalf of other clients' campaigns?
+
+Quantcast will not share Advertise client data with, or use Advertise client data for, any other Quantcast client.
+
+Consent and Legal Basis
+=======================
+
+How does Quantcast give consumers disclosure, notice, and transparency into its data practices?
+
+Quantcast provides all necessary notice, disclosures, and transparency in its Products and Services Privacy Policy at
+
+[https://legal.quantcast.com/#products-and-services-privacy-policy](https://legal.quantcast.com/#products-and-services-privacy-policy).
+
+Because Quantcast does not have a direct relationship with the data subjects, we have contractual agreements with our clients provide proper notice and, where required, consent prior to the acquisition and processing of their personal data.
+
+Is Quantcast compliant with U.S. state privacy laws?
+
+Yes
+
+Does Quantcast honor opt-out signals for collecting and processing personal data in the United States
+
+Yes, Quantcast honors cookied and cookieless opt-out signals and the Global Privacy Consent (GPC) signal as required under applicable U.S. state laws.
+
+Does Quantcast honor the GPC?
+
+Yes, Quantcast honors the GPC as required under applicable U.S. state laws.
+
+Does Quantcast rely on the IAB GPP for data subjects in the United States?
+
+Yes, Quantcast relies on the GPP as required under applicable U.S. state laws.
+
+Is Quantcast compliant with GDPR?
+
+Yes
+
+Under what legal basis is Quantcast collecting and processing personal data in the EU/EEA, UK, and Switzerland?
+
+Quantcast relies on consent and legitimate interest to collect and process personal data of consumers, as applicable under the EU/EEA/UK/Swiss GDPR.
+
+How does Quantcast receive consent for collecting and processing personal data in the EU/EEA, UK, and Switzerland?
+
+Quantcast uses the IAB Transparency and Consent Framework (TCF) to facilitate receiving consent signals in EU/EEA, UK, and Switzerland.
+
+Does Quantcast rely on the IAB TCF for data subjects in the EU/EEA, UK, and Switzerland?
+
+Quantcast uses the IAB Transparency and Consent Framework (TCF) to facilitate receiving consent signals in EU/EEA, UK, and Switzerland.
+
+For what purposes does Quantcast collect, process, and/or use personal information?
+
+* Store and/or access information on a device (TCF Purpose 1)
+* Use limited data to select advertising (TCF Purpose 2)
+* Create profiles for personalised advertising (TCF Purpose 3)
+* Use profiles to select personalised advertising (TCF Purpose 4)
+* Measure advertising performance (TCF Purpose 7)
+* Measure content performance (TCF Purpose 8)
+* Understand audiences through statistics or combinations of data from different sources (TCF Purpose 9)
+* Develop and improve services (TCF Purpose 10)
+* Ensure security, prevent and detect fraud, and fix errors (TCF Special Purpose 1):
+* Deliver and present advertising and content (TCF Special Purpose 2)
+* Save and communicate privacy choices (TCF Special Purpose 3)
+* Match and combine data from other data sources (TCF Feature 1)
+* Link different devices (TCF Feature 2)
+* Identify devices based on information transmitted automatically (TCF Feature 3)
+* Recording consent choices made by users
+* Establishing, bringing, or defending against complaints, legal claims (including threatened or anticipated legal claims), and regulatory inquiries
+* Responding to legal requests
+* Complying with relevant laws and regulations
+* Conducting research
+* Hosting of Personal Information for above-listed purposes
+
+Data Subject Rights
+===================
+
+How can consumers submit their opt-out, deletion, and access requests?
+
+Quantcast provides consumers with their rights to opt-out, deletion, and access requests in the Quantcast Privacy Choices page at
+
+[https://www.quantcast.com/privacy-choices/.](https://www.quantcast.com/privacy-choices/)
+
+How can consumers contact Quantcast with privacy questions?
+
+Data subjects can contact Quantcast at privacy\[at\]quantcast\[dot\]com.
+
+Sensitive Category Data
+=======================
+
+Does Quantcast provide targeting or reporting based on precise geolocation?
+
+No
+
+Does Quantcast collect or process personal data from children?
+
+Quantcast does not knowingly or intentionally collect or process data from children under the age of 18, and contractually prohibits our clients from sending us data from children.
+
+Does Quantcast collect or process sensitive data under the EU/EEA/UK/Swiss GDPR?
+
+Quantcast does not knowingly or intentionally collect or process sensitive data under the EU/EEA/UK/Swiss GDPR, and contractually prohibits our clients from sending us sensitive data under the EU/EEA/UK/Swiss GDPR.
+
+Is Quantcast COPPA compliant?
+
+Quantcast honors the COPPA privacy signal.
+
+International Data Transfers
+============================
+
+Where does Quantcast store and process personal data?
+
+Quantcast stores and processes in data centers in the US, Germany, and Singapore.
+
+Does Quantcast transfer personal data from the EU/EEA/UK/Switzerland? If so, what transfer mechanism does it use?
+
+Personal data collected in the EU/EEA/UK/Switzerland is collected by Quantcast International Ltd (QIL), headquartered in Dublin, IE. The personal data is transferred from QIL to Quantcast Corp. (QC Corp), headquartered in San Francisco CA, US, using intra-company Standard Contractual Clauses. In addition, Quantcast has a robust Transfer Impact Assessment and uses technical supplemental measures.
+
+Can a client choose the locations of servers where their data is processed?
+
+No
+
+Once transferred to the U.S, is there a data retention policy?
+
+Quantcast retains personal data for as long as necessary to provide our Services and for the purposes described in our Products and Services Privacy Policy: in no case do we retain personal data for longer than 13 months, unless it is necessary to respond to legal requests or complying with relevant laws and regulations.
+
+Industry Organizations
+======================
+
+What industry privacy certifications does Quantcast hold?
+
+* Quantcast is a member in good standing of the Network Advertising Initiative (NAI)
+* Quantcast participates in the Digital Advertising Alliance (DAA) and adheres to the DAA Self-Regulatory Principles.
+* Quantcast participates in the European Interactive Digital Advertising Alliance (EDAA) and is certified under the EDAA Principles.
+* Quantcast participates in, and complies with, the policies and technical specifications of the IAB Transparency and Consent Framework (TCF), as a vendor. Quantcast’s IAB Europe-assigned identification number ia Vendor ID #11.
+* Quantcast is IAB UK gold Standard certified.
+
+Commercial
+==========
+
+Do Quantcast contracts with third parties prohibit them from selling customer data (including data derived or inferred from customer data)?
+
+Quantcast's agreements with its service providers/processors/sub-processors do not permit them to sell advertiser and agency clients' personal data.
+
+Do you have written contracts in place with sub-contractors who process our company's personal data? If yes are these contracts compliant with EU, UK, Switzerland, and U.S. state laws?
+
+Yes and yes
+
+Is Quantcast registered as a "data broker" under any applicable laws or regulations?
+
+No
+
+Will you allow for audits, including inspections, by our company or authorised representatives to verify compliance with your data protection obligations?
+
+These terms would be negotiated as part of a data protection agreement.
 
 Effective Date: February 7, 2024
 
