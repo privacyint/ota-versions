@@ -401,17 +401,19 @@ Some countries and U.S. state laws provide residents with rights regarding their
     
 6. [Iowa](https://www.clearview.ai/privacy-policy)
     
-7. [Montana](https://www.clearview.ai/privacy-policy)
+7. [Minnesota](https://www.clearview.ai/privacy-policy)
     
-8. [Nebraska](https://www.clearview.ai/privacy-policy)
+8. [Montana](https://www.clearview.ai/privacy-policy)
     
-9. [Nevada](https://www.clearview.ai/privacy-policy)
+9. [Nebraska](https://www.clearview.ai/privacy-policy)
     
-10. [New Hampshire](https://www.clearview.ai/privacy-policy)
+10. [Nevada](https://www.clearview.ai/privacy-policy)
     
-11. [Utah](https://www.clearview.ai/privacy-policy)
+11. [New Hampshire](https://www.clearview.ai/privacy-policy)
     
-12. [Virginia](https://www.clearview.ai/privacy-policy)
+12. [Utah](https://www.clearview.ai/privacy-policy)
+    
+13. [Virginia](https://www.clearview.ai/privacy-policy)
     
 
 ​  
@@ -756,13 +758,60 @@ To respond to some rights we may need to authenticate you by providing additiona
 
 How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://www.google.com/url?q=https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87&sa=D&source=docs&ust=1735323383762161&usg=AOvVaw1vQLZh6ZkbZRtZsUxi7JwD). If your appeal is denied, you may contact the Iowa Attorney General to submit a complaint [here](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint).
 
-​​​
+​​​​
+
+​​
+
+​​
+
+### 7\. Minnesota
+
+If you are a Minnesota resident, this section applies to you. This section, combined with the general Privacy Policy above, describes how we collect, use, and disclose your personal data under the Minnesota Consumer Data Privacy Act (“MCDPA”), and the rights that you have with respect to your personal data, including sensitive data. 
+
+Your Minnesota Rights Regarding Your Personal Data. Minnesota law provides Minnesota residents with the rights listed below. To exercise these rights see the “Exercising Your Minnesota Privacy Rights” section below.
+
+Right to Know and Access. You have the right to know and see what personal data we have collected about you in a portable format. You may submit a verifiable consumer request up to two (2) times in a twelve (12)-month period for access to your personal data.
+
+Right to Correct. You have the right to request that we correct inaccurate personal data.
+
+Right to Delete. You have the right to request that we delete the personal data we have collected about you.
+
+Right to Opt Out. You have the right to opt out of targeted advertising, sale of your personal data (as defined under Minnesota law), the collection and use of personal data, and profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer. Please note that we do not use your personal data for targeted advertising. As such, we do not offer an opt-out of targeted advertising rights. 
+
+Exercising Your Minnesota Privacy Rights. To request access to or deletion of your personal data, or to exercise any other privacy rights under Minnesota law, please contact us using one of the following methods:
+
+1. Webform: You may submit your request to exercise rights by visiting the appropriate webform on our [Privacy and Requests page](https://www.clearview.ai/privacy-and-requests) and providing all of the verification information required,  
+    
+2. Leave a voicemail at (866) 637-0257, or
+    
+3. Email us at [privacy@clearview.ai](mailto:privacy@clearview.ai)
+    
+
+All verifiable consumer requests must: 
+
+​
+
+* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information, or an authorized representative.
+    
+* For a request by the actual person, we will typically require: (1) your email address (2) a headshot of you, and (3) a government-issued ID. If we require any additional information from you in order to verify your identity, we will contact you. Subject to applicable law, any additional information you provide for verification purposes will be deleted within a reasonable period of time after responding to your consumer request.
+    
+* If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.
+    
+
+  
+ 
+
+To respond to some rights we may need to authenticate you by providing additional information. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request.
+
+How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87). If your appeal is denied, you may contact the Minnesota Attorney General to submit a complaint [here](https://www.ag.state.mn.us/office/complaint.asp).
 
 ​
 
 ​
 
-### 7\. Montana
+​
+
+### 8\. Montana
 
 ### ​
 
@@ -808,7 +857,7 @@ How to Appeal a Denied Request. If you submitted a verifiable consumer request a
 
 ### ​
 
-### 8\. Nebraska
+### 9\. Nebraska
 
 ### ​​​​
 
@@ -853,7 +902,7 @@ How to Appeal a Denied Request. If you submitted a verifiable consumer request a
 
 ​
 
-### 9\. Nevada
+### 10\. Nevada
 
 ### ​​​
 
@@ -865,7 +914,7 @@ We do not presently sell any covered information of consumers, as defined by Nev
 
 ### ​​​
 
-### 10\. New Hampshire
+### 11\. New Hampshire
 
 ### ​​​
 
@@ -908,7 +957,7 @@ How to Appeal a Denied Request. If you submitted a verifiable consumer request a
 
 ​​​
 
-### 11\. Utah
+### 12\. Utah
 
 ### ​​
 
@@ -949,7 +998,7 @@ To respond to some rights we may need to authenticate you by providing additiona
 ### ​
 
 ###   
-12\. Virginia
+13\. Virginia
 
 ### ​​​
 
@@ -1003,4 +1052,4 @@ All verifiable consumer requests must: 
 
 How to Appeal a Denied Request. If you submitted a verifiable consumer request and we have denied your request, you have the right to appeal. To appeal a denied request, please indicate so on the [webform here](https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/35fc813a-1076-420c-a105-f122746c5e87). If your appeal is denied, you may contact the Virginia Attorney General to submit a complaint [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
-Last Updated: March 12, 2025
+Last Updated: July 31, 2025
